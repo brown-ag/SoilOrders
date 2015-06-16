@@ -18,7 +18,7 @@ def print2(what):
 	global buf
 	#print what
 	buf+=''.join(what)
-	buf+='\n'
+	#buf+='</br>\n'
 	return
 
 for l in lines:
@@ -30,41 +30,56 @@ for l in lines:
 		m1=re.search('\">([A-Z]{0,4})\.\s\s?.*<',l)
 		if m1 != None:
 			mode=1 #we are inside a taxonomic clause
-			print2(m1.group(1)) 
+			#print2(m1.group(1)) 
 			start=i
 			#print i
 	if mode==1:
 		m2=re.search('font=\"\d+\"><b>(.{2,})</b>(?:,\sp.\s(\d+))?<',l)
 		if m2 != None:
 			mode=0
-			print2("<TAXON>"+m2.group(1)+"</TAXON>")
-			if m2.group(2) != None:
-				print2(m2.group(2))
+			#print2("<TAXON>"+m2.group(1)+"</TAXON>")
+			#if m2.group(2) != None:
+			#	print2(m2.group(2))
 			end=i
-			#prin i
+			nest=1
 			last=-1
-			nest=0
-			for ll in lines[(start-1):end]:
+			
+			print2(m2.group(1)+'\n</br>')
+			for ll in lines[(start-1):end-1]:
 			  	#buf+=ll
 				#buf+='\n'
 				m3=re.search('<text\stop="\d{3,}"(?:.*)">(.*)</text>',ll)
 				if m3 != None:
-					m4=re.search('.([1-9a-z]).\s\s',m3.group(1))
+					slab=m3.group(1)
+					m4=re.search('([1-9a-z][\)\.])\s\s',slab)
 					if m4 != None:
 						bullet=m4.group(1)
-						if bullet.isdigit()==True:
-							toggle=0
-						else:
-							if bullet.isupper():
-								toggle=1
+						#print2(bullet)
+						if(bullet.endswith('.')):
+							if(bullet[:1].isdigit()):
+								nest=2
 							else:
-								toggle=2	 
-						if last!=toggle: nest+=1
-						last=toggle
-						print2('\n')
-					print2((nest*'\t')+m3.group(1))
-			#print2(buf)
-			print2("--------------------------")
+								if(bullet[:1].isupper()):
+									nest=1
+								else:
+									nest=3
+						else:
+							if(bullet[:1].isdigit()):
+								nest=4
+							else:
+								nest=5
+						print2('\n</br>')
+						last=nest
+						slab=((nest*' - \t')+m3.group(1))
+					addCR = False
+					if(len(slab)>10):
+						addCR=False
+					else:
+						if re.search('<b>.</b>',slab) != None:
+							slab=""
+					print2(slab)
+					if(addCR): print2('</br>\n')
+			print2("\n</br>--------------------------\n</br>")
 out=open(fileout,'w')
 out.write(buf)
 out.close()
