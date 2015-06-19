@@ -1,11 +1,12 @@
 #from sys import argv
 #script, filename = argv
+import os
 import re
-
+import clazz
 buf=""
 
 filename="keys.xml"
-fileout="keysout.html"
+fileout="keysout"
 txt = open(filename)
 i=0
 mode=-1
@@ -20,7 +21,7 @@ def print2(what):
 	buf+=''.join(what)
 	#buf+='</br>\n'
 	return
-
+#mode=2
 for l in lines:
 	i=i+1
 	m=None
@@ -30,7 +31,7 @@ for l in lines:
 		m1=re.search('\">([A-Z]{0,4})\.\s\s?.*<',l)
 		if m1 != None:
 			mode=1 #we are inside a taxonomic clause
-			#print2(m1.group(1)) 
+                    			#print2(m1.group(1)) 
 			start=i
 			#print i
 	if mode==1:
@@ -41,7 +42,7 @@ for l in lines:
 			#if m2.group(2) != None:
 			#	print2(m2.group(2))
 			end=i
-			nest=1
+			nest=2
 			last=-1
 			
 			print2(m2.group(1)+'\n</br>')
@@ -80,8 +81,7 @@ for l in lines:
 					print2(slab)
 					if(addCR): print2('</br>\n')
 			print2("\n</br>--------------------------\n</br>")
-out=open(fileout,'w')
+step = ''
+out=open(fileout+str(step)+".html",'w')
 out.write(buf)
 out.close()
-
-
