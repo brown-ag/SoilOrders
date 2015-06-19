@@ -1,0 +1,4 @@
+;?\s<i>(.{2,}?)</i
+\d{2})\spercent\s(or)?(\w+)?
+[Aa]\s(.*)with(.*)of
+
