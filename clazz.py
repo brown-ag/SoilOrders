@@ -1,14 +1,17 @@
 from json import JSONEncoder
+from json import JSONDecoder
 import re
+
 class StatementEncoder(JSONEncoder):
 	def default(self, obj):
-		#print obj
-		if hasattr(obj,'child'):
-			buf=[]
-			for o in obj.child:
-				buf.append(o.__dict__)
-			#return buf
+		if hasattr(obj,'_child'):
+			for o in obj._child:
+				obj.__dict__['_child'].append(default(o))
 		return obj.__dict__
+
+class StatementDecoder(JSONDecoder):
+	def default(self, obj):
+		return obj
 
 class Statement(object):
 		

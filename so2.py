@@ -5,6 +5,7 @@ tex=open("keysout.html","r")
 lines=tex.readlines()
 tex.close()
 keys={}
+jkeys={}
 keysid=""
 name=""
 start=-1
@@ -93,7 +94,8 @@ for l in liter:
 				m22=re.search("</br>---",ll)
 				if m22 != None:
 					stop=i	
-					keys[dname]=sbase[dname]#clazz.StatementEncoder().encode(sbase)
+					keys[dname]=sbase[dname]
+					jkeys[dname]=clazz.StatementEncoder().encode(sbase[dname])
 					if childcount >= maxc:
 						maxc=childcount
 						best=dname
@@ -116,7 +118,7 @@ for l in liter:
 print maxc
 print best
 #print(keys)
-#json.dump(keys,open("keys.dat",'w'))
+json.dump(jkeys,open("keys.dat",'w'))
 #out=open("childmap.txt","w")
 #out.write(buff)
 #out.close()
