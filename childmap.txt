@@ -1,0 +1,31604 @@
+Gelisols
+
+0
+0
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Histosols
+
+0
+0
+0
+and
+
+2:2
+1
+one or more
+
+2:2
+2
+and
+
+3:3
+3
+or
+
+3:3
+4
+and
+
+3:3
+5
+either
+
+3:3
+6
+or
+
+4:4
+7
+4:4
+8
+8 children
+Spodosols
+
+0
+0
+and
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+all
+
+2:2
+3
+One or more
+
+3:3
+4
+or
+
+4:4
+5
+or
+
+4:4
+6
+or
+
+4:4
+7
+and
+
+4:4
+8
+and
+
+4:4
+9
+either
+
+3:3
+10
+or
+
+4:4
+11
+and
+
+4:4
+12
+3:3
+13
+Either
+
+4:4
+14
+4:4
+15
+and
+
+5:5
+16
+and
+
+5:5
+17
+Either
+
+3:3
+18
+or
+
+4:4
+19
+either
+
+4:4
+20
+or
+
+5:5
+21
+5:5
+22
+22 children
+Andisols
+
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Oxisols
+
+0
+0
+either
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+2 children
+Vertisols
+
+0
+0
+0
+either
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Aridisols
+
+0
+0
+0
+2:2
+1
+and
+
+3:3
+2
+and
+
+3:3
+3
+One or more
+
+3:3
+4
+or
+
+3:3
+5
+and
+
+2:2
+6
+and
+
+3:3
+7
+and
+
+3:3
+8
+3:3
+9
+9 children
+Ultisols
+
+0
+0
+either
+
+0
+2:2
+1
+either
+
+3:3
+2
+or
+
+4:4
+3
+or
+
+4:4
+4
+3:3
+5
+or
+
+4:4
+6
+or
+
+4:4
+7
+or
+
+4:4
+8
+both
+
+2:2
+9
+and
+
+3:3
+10
+3:3
+11
+or
+
+4:4
+12
+or
+
+4:4
+13
+4:4
+14
+14 children
+Mollisols
+
+0
+0
+both
+
+0
+Either
+
+2:2
+1
+or
+
+3:3
+2
+Both
+
+3:3
+3
+either
+
+2:2
+4
+4 children
+Alfisols
+
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Inceptisols
+
+0
+0
+either
+
+0
+One or more
+
+2:2
+1
+or
+
+3:3
+2
+ or
+
+3:3
+ or
+3
+or
+
+3:3
+4
+or
+
+3:3
+5
+or
+
+3:3
+6
+and both
+
+2:2
+7
+n
+
+3:3
+8
+One or more
+
+3:3
+9
+or
+
+4:4
+10
+or
+
+4:4
+11
+and
+
+4:4
+12
+12 children
+Entisols
+
+0
+0
+0
+0 children
+Aqualfs
+
+0
+0
+and
+
+0
+and one
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+2:2
+5
+5 children
+Cryalfs
+
+0
+0
+0
+0 children
+Ustalfs
+
+0
+0
+0
+0 children
+Xeralfs
+
+0
+0
+0
+0 children
+Udalfs
+
+0
+0
+0
+0 children
+Cryaqualfs
+
+0
+0
+0
+0 children
+Plinthaqualfs
+
+0
+0
+0
+0 children
+Duraqualfs
+
+0
+0
+0
+0 children
+Natraqualfs
+
+0
+0
+0
+0 children
+Fragiaqualfs
+
+0
+0
+0
+0 children
+Kandiaqualfs
+
+0
+0
+0
+0 children
+Vermaqualfs
+
+0
+0
+0
+0 children
+Albaqualfs
+
+0
+0
+and
+
+0
+0 children
+Glossaqualfs
+
+0
+0
+0
+0 children
+Epiaqualfs
+
+0
+0
+0
+0 children
+Endoaqualfs
+
+0
+0
+0
+0 children
+Arenic Albaqualfs
+0
+0
+0
+0 children
+Aeric Vertic Albaqualfs
+0
+0
+both
+
+0
+One or both
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+2:2
+4
+4 children
+Chromic Vertic Albaqualfs
+0
+0
+both
+
+0
+One or both
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+one or 
+
+2:2
+4
+or
+
+3:3
+5
+or
+
+3:3
+6
+3:3
+7
+7 children
+Vertic Albaqualfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Udollic Albaqualfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Aeric Albaqualfs
+0
+0
+0
+0 children
+Aquandic Albaqualfs
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+and
+
+2:2
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Mollic Albaqualfs
+0
+0
+0
+0 children
+Umbric Albaqualfs
+0
+0
+0
+0 children
+Typic Albaqualfs
+0
+0
+0
+0 children
+Typic Cryaqualfs
+0
+0
+0
+0 children
+Typic Duraqualfs
+0
+0
+0
+0 children
+Aquandic Endoaqualfs
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+and
+
+2:2
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Chromic Vertic Endoaqualfs
+0
+0
+both
+
+0
+One or both
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+one or 
+
+2:2
+4
+or
+
+3:3
+5
+or
+
+3:3
+6
+3:3
+7
+7 children
+Vertic Endoaqualfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aeric Fragic Endoaqualfs
+0
+0
+both
+
+0
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+2:2
+4
+and
+
+3:3
+5
+or
+
+4:4
+6
+or
+
+4:4
+7
+and either
+
+3:3
+8
+or
+
+4:4
+9
+4:4
+10
+10 children
+Fragic Endoaqualfs
+0
+0
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Arenic Endoaqualfs
+0
+0
+0
+0 children
+Grossarenic Endoaqualfs
+0
+0
+0
+0 children
+Udollic Endoaqualfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+and
+
+3:3
+3
+or
+
+4:4
+4
+or
+
+4:4
+5
+and either
+
+3:3
+6
+or
+
+4:4
+7
+4:4
+8
+8 children
+Aeric Umbric Endoaqualfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+and
+
+3:3
+3
+or
+
+4:4
+4
+or
+
+4:4
+5
+and either
+
+3:3
+6
+or
+
+4:4
+7
+4:4
+8
+8 children
+Aeric Endoaqualfs
+0
+0
+0
+and
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+and either
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Mollic Endoaqualfs
+0
+0
+0
+0 children
+Umbric Endoaqualfs
+0
+0
+0
+0 children
+Typic Endoaqualfs
+0
+0
+0
+0 children
+Aeric Chromic Vertic Epiaqualfs
+0
+0
+all
+
+0
+One or both
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+2:2
+4
+and
+
+3:3
+5
+or
+
+4:4
+6
+or
+
+4:4
+7
+and either
+
+3:3
+8
+or
+
+4:4
+9
+and
+
+4:4
+10
+one or 
+
+2:2
+11
+or
+
+3:3
+12
+or
+
+3:3
+13
+3:3
+14
+14 children
+Aeric Vertic Epiaqualfs
+0
+0
+both
+
+0
+One or both
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+2:2
+4
+and
+
+3:3
+5
+or
+
+4:4
+6
+or
+
+4:4
+7
+and either
+
+3:3
+8
+or
+
+4:4
+9
+4:4
+10
+10 children
+Chromic Vertic Epiaqualfs
+0
+0
+both
+
+0
+One or both
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+one or 
+
+2:2
+4
+or
+
+3:3
+5
+or
+
+3:3
+6
+3:3
+7
+7 children
+Vertic Epiaqualfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquandic Epiaqualfs
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+and
+
+2:2
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Aeric Fragic Epiaqualfs
+0
+0
+both
+
+0
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+2:2
+4
+and
+
+3:3
+5
+or
+
+4:4
+6
+or
+
+4:4
+7
+and either
+
+3:3
+8
+or
+
+4:4
+9
+4:4
+10
+10 children
+Fragic Epiaqualfs
+0
+0
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Arenic Epiaqualfs
+0
+0
+0
+0 children
+Grossarenic Epiaqualfs
+0
+0
+0
+0 children
+Aeric Umbric Epiaqualfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+and
+
+3:3
+3
+or
+
+4:4
+4
+or
+
+4:4
+5
+and either
+
+3:3
+6
+or
+
+4:4
+7
+4:4
+8
+8 children
+Udollic Epiaqualfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+and
+
+3:3
+3
+or
+
+4:4
+4
+or
+
+4:4
+5
+and either
+
+3:3
+6
+or
+
+4:4
+7
+4:4
+8
+8 children
+Aeric Epiaqualfs
+0
+0
+0
+and
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+and either
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Mollic Epiaqualfs
+0
+0
+0
+0 children
+Umbric Epiaqualfs
+0
+0
+0
+0 children
+Typic Epiaqualfs
+0
+0
+0
+0 children
+Vermic Fragiaqualfs
+0
+0
+0
+0 children
+Aeric Fragiaqualfs
+0
+0
+0
+0 children
+Plinthic Fragiaqualfs
+0
+0
+0
+0 children
+Humic Fragiaqualfs
+0
+0
+0
+0 children
+Typic Fragiaqualfs
+0
+0
+0
+0 children
+Histic Glossaqualfs
+0
+0
+0
+0 children
+Arenic Glossaqualfs
+0
+0
+0
+0 children
+Aeric Fragic Glossaqualfs
+0
+0
+both
+
+0
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+2:2
+4
+and
+
+3:3
+5
+or
+
+4:4
+6
+or
+
+4:4
+7
+and either
+
+3:3
+8
+or
+
+4:4
+9
+4:4
+10
+10 children
+Fragic Glossaqualfs
+0
+0
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aeric Glossaqualfs
+0
+0
+0
+and
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+and either
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Mollic Glossaqualfs
+0
+0
+0
+0 children
+Typic Glossaqualfs
+0
+0
+0
+0 children
+Arenic Kandiaqualfs
+0
+0
+0
+0 children
+Grossarenic Kandiaqualfs
+0
+0
+0
+0 children
+Plinthic Kandiaqualfs
+0
+0
+0
+0 children
+Aeric Umbric Kandiaqualfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+and
+
+3:3
+3
+or
+
+4:4
+4
+or
+
+4:4
+5
+and either
+
+3:3
+6
+or
+
+4:4
+7
+4:4
+8
+8 children
+Aeric Kandiaqualfs
+0
+0
+0
+and
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+and either
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Umbric Kandiaqualfs
+0
+0
+0
+0 children
+Typic Kandiaqualfs
+0
+0
+0
+0 children
+Vertic Natraqualfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Vermic Natraqualfs
+0
+0
+0
+0 children
+Albic Glossic Natraqualfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Albic Natraqualfs
+0
+0
+0
+0 children
+Glossic Natraqualfs
+0
+0
+0
+0 children
+Mollic Natraqualfs
+0
+0
+0
+0 children
+Typic Natraqualfs
+0
+0
+0
+0 children
+Typic Plinthaqualfs
+0
+0
+0
+0 children
+Natric Vermaqualfs
+0
+0
+either or both
+
+0
+and/or
+
+2:2
+1
+2:2
+2
+2 children
+Typic Vermaqualfs
+0
+0
+0
+0 children
+Palecryalfs
+
+0
+0
+all
+
+0
+both
+
+2:2
+1
+and
+
+3:3
+2
+and
+
+3:3
+3
+and
+
+2:2
+4
+2:2
+5
+5 children
+Glossocryalfs
+
+0
+0
+0
+0 children
+Haplocryalfs
+
+0
+0
+0
+0 children
+Lithic Glossocryalfs
+0
+0
+0
+0 children
+Vertic Glossocryalfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Andic Glossocryalfs
+0
+0
+0
+0 children
+Vitrandic Glossocryalfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Glossocryalfs
+0
+0
+0
+0 children
+Oxyaquic Glossocryalfs
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Fragic Glossocryalfs
+0
+0
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Xerollic Glossocryalfs
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Umbric Xeric Glossocryalfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Ustollic Glossocryalfs
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Xeric Glossocryalfs
+0
+0
+0
+0 children
+Ustic Glossocryalfs
+0
+0
+0
+0 children
+Mollic Glossocryalfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Umbric Glossocryalfs
+0
+0
+0
+0 children
+Eutric Glossocryalfs
+0
+0
+0
+0 children
+Typic Glossocryalfs
+0
+0
+0
+0 children
+Lithic Haplocryalfs
+0
+0
+0
+0 children
+Vertic Haplocryalfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Andic Haplocryalfs
+0
+0
+0
+0 children
+Vitrandic Haplocryalfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Haplocryalfs
+0
+0
+0
+0 children
+Oxyaquic Haplocryalfs
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Lamellic Haplocryalfs
+0
+0
+one
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+either
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Psammentic Haplocryalfs
+0
+0
+0
+0 children
+Inceptic Haplocryalfs
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Xerollic Haplocryalfs
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Umbric Xeric Haplocryalfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Ustollic Haplocryalfs
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Xeric Haplocryalfs
+0
+0
+0
+0 children
+Ustic Haplocryalfs
+0
+0
+0
+0 children
+Mollic Haplocryalfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Umbric Haplocryalfs
+0
+0
+0
+0 children
+Eutric Haplocryalfs
+0
+0
+0
+0 children
+Typic Haplocryalfs
+0
+0
+0
+0 children
+Andic Palecryalfs
+0
+0
+0
+0 children
+Vitrandic Palecryalfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Palecryalfs
+0
+0
+0
+0 children
+Oxyaquic Palecryalfs
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Xeric Palecryalfs
+0
+0
+0
+0 children
+Ustic Palecryalfs
+0
+0
+0
+0 children
+Mollic Palecryalfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Umbric Palecryalfs
+0
+0
+0
+0 children
+Typic Palecryalfs
+0
+0
+0
+0 children
+Natrudalfs
+
+0
+0
+0
+0 children
+Ferrudalfs
+
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Fraglossudalfs
+
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Fragiudalfs
+
+0
+0
+0
+0 children
+Kandiudalfs
+
+0
+0
+ all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+either
+
+2:2
+3
+or
+
+3:3
+4
+and
+
+3:3
+5
+5 children
+Kanhapludalfs
+
+0
+0
+0
+0 children
+Paleudalfs
+
+0
+0
+0
+and
+
+2:2
+1
+either
+
+2:2
+2
+or
+
+3:3
+3
+and
+
+3:3
+4
+one or more
+
+2:2
+5
+or
+
+3:3
+6
+or
+
+3:3
+7
+or
+
+3:3
+8
+all
+
+2:2
+9
+both
+
+3:3
+10
+and
+
+4:4
+11
+and
+
+4:4
+12
+and
+
+3:3
+13
+3:3
+14
+14 children
+Rhodudalfs
+
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Glossudalfs
+
+0
+0
+0
+0 children
+Hapludalfs
+
+0
+0
+0
+0 children
+Aquic Ferrudalfs
+0
+0
+0
+0 children
+Typic Ferrudalfs
+0
+0
+0
+0 children
+Andic Fragiudalfs
+0
+0
+0
+0 children
+Vitrandic Fragiudalfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Fragiudalfs
+0
+0
+0
+0 children
+Oxyaquic Fragiudalfs
+0
+0
+either or 
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Typic Fragiudalfs
+0
+0
+0
+0 children
+Andic Fraglossudalfs
+0
+0
+0
+0 children
+Vitrandic Fraglossudalfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Fraglossudalfs
+0
+0
+0
+0 children
+Oxyaquic Fraglossudalfs
+0
+0
+either 
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Typic Fraglossudalfs
+0
+0
+0
+0 children
+Aquertic Glossudalfs
+0
+0
+both
+
+0
+One or both
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+either
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Oxyaquic Vertic Glossudalfs
+0
+0
+both
+
+0
+either or 
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+One or both
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Vertic Glossudalfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquandic Glossudalfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or more
+
+2:2
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+and
+
+3:3
+5
+and
+
+4:4
+6
+4:4
+7
+7 children
+Andic Glossudalfs
+0
+0
+0
+0 children
+Vitrandic Glossudalfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Fragiaquic Glossudalfs
+0
+0
+both
+
+0
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+either
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Aquic Arenic Glossudalfs
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Glossudalfs
+0
+0
+0
+0 children
+Arenic Oxyaquic Glossudalfs
+0
+0
+0
+either 
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+2:2
+4
+4 children
+Oxyaquic Glossudalfs
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Fragic Glossudalfs
+0
+0
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Arenic Glossudalfs
+0
+0
+0
+0 children
+Haplic Glossudalfs
+0
+0
+0
+0 children
+Typic Glossudalfs
+0
+0
+0
+0 children
+Lithic Hapludalfs
+0
+0
+0
+0 children
+Aquertic Chromic Hapludalfs
+0
+0
+all
+
+0
+One or both
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+either
+
+2:2
+4
+or
+
+3:3
+5
+and
+
+3:3
+6
+one or 
+
+2:2
+7
+or
+
+3:3
+8
+or
+
+3:3
+9
+3:3
+10
+10 children
+Aquertic Hapludalfs
+0
+0
+both
+
+0
+One or both
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+either
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Oxyaquic Vertic Hapludalfs
+0
+0
+both
+
+0
+either or 
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+One or both
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Chromic Vertic Hapludalfs
+0
+0
+both
+
+0
+One or both
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+one or 
+
+2:2
+4
+or
+
+3:3
+5
+or
+
+3:3
+6
+3:3
+7
+7 children
+Vertic Hapludalfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Andic Hapludalfs
+0
+0
+0
+0 children
+Vitrandic Hapludalfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Fragiaquic Hapludalfs
+0
+0
+both
+
+0
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+either
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Fragic Oxyaquic Hapludalfs
+0
+0
+both
+
+0
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+either or 
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Aquic Arenic Hapludalfs
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Arenic Oxyaquic Hapludalfs
+0
+0
+0
+either 
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+2:2
+4
+4 children
+Anthraquic Hapludalfs
+0
+0
+0
+0 children
+Albaquultic Hapludalfs
+0
+0
+all
+
+0
+and
+
+2:2
+1
+either
+
+2:2
+2
+or
+
+3:3
+3
+and
+
+3:3
+4
+2:2
+5
+5 children
+Albaquic Hapludalfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+either
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Glossaquic Hapludalfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+either
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Aquultic Hapludalfs
+0
+0
+both
+
+0
+either
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+2:2
+4
+4 children
+Aquollic Hapludalfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+either
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Hapludalfs
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Mollic Oxyaquic Hapludalfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+either or both
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Oxyaquic Hapludalfs
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Fragic Hapludalfs
+0
+0
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Lamellic Hapludalfs
+0
+0
+one
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+either
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Psammentic Hapludalfs
+0
+0
+0
+0 children
+Arenic Hapludalfs
+0
+0
+0
+0 children
+Glossic Hapludalfs
+0
+0
+0
+0 children
+Plinthaquic Kandiudalfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Kandiudalfs
+0
+0
+0
+0 children
+Oxyaquic Kandiudalfs
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Arenic Plinthic Kandiudalfs
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Grossarenic Plinthic Kandiudalfs
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Arenic Kandiudalfs
+0
+0
+0
+0 children
+Grossarenic Kandiudalfs
+0
+0
+0
+0 children
+Plinthic Kandiudalfs
+0
+0
+0
+0 children
+Rhodic Kandiudalfs
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Mollic Kandiudalfs
+0
+0
+0
+0 children
+Typic Kandiudalfs
+0
+0
+0
+0 children
+Lithic Kanhapludalfs
+0
+0
+0
+0 children
+Aquic Kanhapludalfs
+0
+0
+0
+0 children
+Oxyaquic Kanhapludalfs
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Rhodic Kanhapludalfs
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Typic Kanhapludalfs
+0
+0
+0
+0 children
+Vertic Natrudalfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Glossaquic Natrudalfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+either
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Natrudalfs
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Typic Natrudalfs
+0
+0
+0
+0 children
+Vertic Paleudalfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Andic Paleudalfs
+0
+0
+0
+0 children
+Vitrandic Paleudalfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Anthraquic Paleudalfs
+0
+0
+0
+0 children
+Fragiaquic Paleudalfs
+0
+0
+both
+
+0
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+either
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Plinthaquic Paleudalfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Glossaquic Paleudalfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Albaquic Paleudalfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Paleudalfs
+0
+0
+0
+0 children
+Oxyaquic Paleudalfs
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Fragic Paleudalfs
+0
+0
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Arenic Plinthic Paleudalfs
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Grossarenic Plinthic Paleudalfs
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lamellic Paleudalfs
+0
+0
+one
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+either
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Psammentic Paleudalfs
+0
+0
+0
+0 children
+Arenic Paleudalfs
+0
+0
+0
+0 children
+Grossarenic Paleudalfs
+0
+0
+0
+0 children
+Plinthic Paleudalfs
+0
+0
+0
+0 children
+Glossic Paleudalfs
+0
+0
+either
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Rhodic Paleudalfs
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Mollic Paleudalfs
+0
+0
+0
+0 children
+Typic Paleudalfs
+0
+0
+0
+0 children
+Typic Rhodudalfs
+0
+0
+0
+0 children
+Durustalfs
+
+0
+0
+0
+0 children
+Plinthustalfs
+
+0
+0
+0
+0 children
+Natrustalfs
+
+0
+0
+0
+0 children
+Kandiustalfs
+
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+either
+
+2:2
+3
+or
+
+3:3
+4
+and
+
+3:3
+5
+5 children
+Kanhaplustalfs
+
+0
+0
+0
+0 children
+Paleustalfs
+
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+either
+
+3:3
+3
+or
+
+4:4
+4
+and
+
+4:4
+5
+either or both
+
+3:3
+6
+or
+
+4:4
+7
+or
+
+4:4
+8
+and
+
+2:2
+9
+or
+
+3:3
+10
+3:3
+11
+11 children
+Rhodustalfs
+
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Haplustalfs
+
+0
+0
+0
+0 children
+Typic Durustalfs
+0
+0
+0
+0 children
+Lithic Haplustalfs
+0
+0
+0
+0 children
+Aquertic Haplustalfs
+0
+0
+both
+
+0
+One or both
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+2:2
+4
+4 children
+Oxyaquic Vertic Haplustalfs
+0
+0
+both
+
+0
+One or both
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+either or 
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Torrertic Haplustalfs
+0
+0
+both
+
+0
+one
+
+2:2
+1
+and
+
+3:3
+2
+and
+
+3:3
+3
+iso
+
+3:3
+4
+and
+
+4:4
+5
+and
+
+4:4
+6
+One or both
+
+2:2
+7
+or
+
+3:3
+8
+3:3
+9
+9 children
+Udertic Haplustalfs
+0
+0
+both
+
+0
+either
+
+2:2
+1
+and
+
+3:3
+2
+iso
+
+3:3
+3
+One or both
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Vertic Haplustalfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Arenic Haplustalfs
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Aquultic Haplustalfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Haplustalfs
+0
+0
+0
+0 children
+Oxyaquic Haplustalfs
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Vitrandic Haplustalfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Lamellic Haplustalfs
+0
+0
+one
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+either
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Psammentic Haplustalfs
+0
+0
+0
+0 children
+Arenic Aridic Haplustalfs
+0
+0
+0
+and
+
+2:2
+1
+one
+
+2:2
+2
+and
+
+3:3
+3
+and
+
+3:3
+4
+iso
+
+3:3
+5
+and
+
+4:4
+6
+4:4
+7
+7 children
+Arenic Haplustalfs
+0
+0
+0
+0 children
+Calcidic Haplustalfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one
+
+2:2
+2
+and
+
+3:3
+3
+and
+
+3:3
+4
+iso
+
+3:3
+5
+and
+
+4:4
+6
+4:4
+7
+7 children
+Aridic Haplustalfs
+0
+0
+one
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+iso
+
+2:2
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Kanhaplic Haplustalfs
+0
+0
+either
+
+0
+0 children
+Inceptic Haplustalfs
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Calcic Udic Haplustalfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one
+
+2:2
+2
+and
+
+3:3
+3
+and
+
+3:3
+4
+iso
+
+3:3
+5
+5 children
+Ultic Haplustalfs
+0
+0
+0
+0 children
+Calcic Haplustalfs
+0
+0
+0
+0 children
+Udic Haplustalfs
+0
+0
+one
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+iso
+
+2:2
+3
+3 children
+Typic Haplustalfs
+0
+0
+0
+0 children
+Grossarenic Kandiustalfs
+0
+0
+0
+0 children
+Aquic Arenic Kandiustalfs
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Plinthic Kandiustalfs
+0
+0
+0
+0 children
+Aquic Kandiustalfs
+0
+0
+0
+0 children
+Arenic Aridic Kandiustalfs
+0
+0
+0
+and
+
+2:2
+1
+either
+
+2:2
+2
+and
+
+3:3
+3
+iso
+
+3:3
+4
+and
+
+4:4
+5
+4:4
+6
+6 children
+Arenic Kandiustalfs
+0
+0
+0
+0 children
+Aridic Kandiustalfs
+0
+0
+either
+
+0
+and
+
+2:2
+1
+iso
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Udic Kandiustalfs
+0
+0
+either
+
+0
+and
+
+2:2
+1
+iso
+
+2:2
+2
+2 children
+Rhodic Kandiustalfs
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Typic Kandiustalfs
+0
+0
+0
+0 children
+Lithic Kanhaplustalfs
+0
+0
+0
+0 children
+Aquic Kanhaplustalfs
+0
+0
+0
+0 children
+Aridic Kanhaplustalfs
+0
+0
+either
+
+0
+and
+
+2:2
+1
+iso
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Udic Kanhaplustalfs
+0
+0
+either
+
+0
+and
+
+2:2
+1
+iso
+
+2:2
+2
+2 children
+Rhodic Kanhaplustalfs
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Typic Kanhaplustalfs
+0
+0
+0
+0 children
+Salidic Natrustalfs
+0
+0
+0
+0 children
+Leptic Torrertic Natrustalfs
+0
+0
+all
+
+0
+and
+
+2:2
+1
+one
+
+2:2
+2
+and
+
+3:3
+3
+and
+
+3:3
+4
+iso
+
+3:3
+5
+and
+
+4:4
+6
+and
+
+4:4
+7
+One or both
+
+2:2
+8
+or
+
+3:3
+9
+3:3
+10
+10 children
+Torrertic Natrustalfs
+0
+0
+both
+
+0
+one
+
+2:2
+1
+and
+
+3:3
+2
+and
+
+3:3
+3
+iso
+
+3:3
+4
+and
+
+4:4
+5
+and
+
+4:4
+6
+One or both
+
+2:2
+7
+or
+
+3:3
+8
+3:3
+9
+9 children
+Aquertic Natrustalfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+One or both
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Aridic Leptic Natrustalfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one
+
+2:2
+2
+and
+
+3:3
+3
+and
+
+3:3
+4
+iso
+
+3:3
+5
+and
+
+4:4
+6
+4:4
+7
+7 children
+Vertic Natrustalfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Arenic Natrustalfs
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Natrustalfs
+0
+0
+0
+0 children
+Arenic Natrustalfs
+0
+0
+0
+0 children
+Petrocalcic Natrustalfs
+0
+0
+0
+0 children
+Leptic Natrustalfs
+0
+0
+0
+0 children
+Haplargidic Natrustalfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one
+
+2:2
+2
+and
+
+3:3
+3
+and
+
+3:3
+4
+iso
+
+3:3
+5
+and
+
+4:4
+6
+4:4
+7
+7 children
+Aridic Glossic Natrustalfs
+0
+0
+both
+
+0
+or
+
+3:3
+1
+or
+
+3:3
+2
+iso
+
+3:3
+3
+and
+
+4:4
+4
+and
+
+4:4
+5
+2:2
+6
+6 children
+Aridic Natrustalfs
+0
+0
+one
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+iso
+
+2:2
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Mollic Natrustalfs
+0
+0
+0
+0 children
+Typic Natrustalfs
+0
+0
+0
+0 children
+Aquertic Paleustalfs
+0
+0
+both
+
+0
+One or both
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+2:2
+4
+4 children
+Oxyaquic Vertic Paleustalfs
+0
+0
+both
+
+0
+One or both
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+either or 
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Udertic Paleustalfs
+0
+0
+both
+
+0
+either
+
+2:2
+1
+and
+
+3:3
+2
+iso
+
+3:3
+3
+One or both
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Vertic Paleustalfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Arenic Paleustalfs
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Paleustalfs
+0
+0
+0
+0 children
+Oxyaquic Paleustalfs
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Lamellic Paleustalfs
+0
+0
+one
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+either
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Psammentic Paleustalfs
+0
+0
+0
+0 children
+Arenic Aridic Paleustalfs
+0
+0
+0
+and
+
+2:2
+1
+one
+
+2:2
+2
+and
+
+3:3
+3
+and
+
+3:3
+4
+iso
+
+3:3
+5
+and
+
+4:4
+6
+4:4
+7
+7 children
+Grossarenic Paleustalfs
+0
+0
+0
+0 children
+Arenic Paleustalfs
+0
+0
+0
+0 children
+Plinthic Paleustalfs
+0
+0
+0
+0 children
+Petrocalcic Paleustalfs
+0
+0
+0
+0 children
+Calcidic Paleustalfs
+0
+0
+both
+
+0
+either
+
+2:2
+1
+and
+
+3:3
+2
+and
+
+3:3
+3
+iso
+
+3:3
+4
+and
+
+4:4
+5
+and
+
+4:4
+6
+either
+
+2:2
+7
+7 children
+Aridic Paleustalfs
+0
+0
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+iso
+
+2:2
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Kandic Paleustalfs
+0
+0
+either
+
+0
+0 children
+Rhodic Paleustalfs
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Ultic Paleustalfs
+0
+0
+0
+0 children
+Udic Paleustalfs
+0
+0
+either
+
+0
+and
+
+2:2
+1
+iso
+
+2:2
+2
+2 children
+Typic Paleustalfs
+0
+0
+0
+0 children
+Typic Plinthustalfs
+0
+0
+0
+0 children
+Lithic Rhodustalfs
+0
+0
+0
+0 children
+Kanhaplic Rhodustalfs
+0
+0
+either
+
+0
+0 children
+Udic Rhodustalfs
+0
+0
+either
+
+0
+and
+
+2:2
+1
+iso
+
+2:2
+2
+2 children
+Typic Rhodustalfs
+0
+0
+0
+0 children
+Durixeralfs
+
+0
+0
+0
+0 children
+Natrixeralfs
+
+0
+0
+0
+0 children
+Fragixeralfs
+
+0
+0
+0
+0 children
+Plinthoxeralfs
+
+0
+0
+0
+0 children
+Rhodoxeralfs
+
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Palexeralfs
+
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+either
+
+3:3
+3
+ or
+
+4:4
+ or
+4
+and
+
+4:4
+5
+or
+
+3:3
+6
+and
+
+2:2
+7
+or
+
+3:3
+8
+3:3
+9
+9 children
+Haploxeralfs
+
+0
+0
+0
+0 children
+Natric Durixeralfs
+0
+0
+0
+0 children
+Vertic Durixeralfs
+0
+0
+one or 
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Durixeralfs
+0
+0
+0
+0 children
+Abruptic Haplic Durixeralfs
+0
+0
+both
+
+0
+one or
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+2:2
+4
+4 children
+Abruptic Durixeralfs
+0
+0
+one or
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Haplic Durixeralfs
+0
+0
+0
+0 children
+Typic Durixeralfs
+0
+0
+0
+0 children
+Andic Fragixeralfs
+0
+0
+0
+0 children
+Vitrandic Fragixeralfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Mollic Fragixeralfs
+0
+0
+0
+0 children
+Aquic Fragixeralfs
+0
+0
+0
+0 children
+Inceptic Fragixeralfs
+0
+0
+0
+0 children
+Typic Fragixeralfs
+0
+0
+0
+0 children
+Lithic Mollic Haploxeralfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Ruptic-Inceptic Haploxeralfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Haploxeralfs
+0
+0
+0
+0 children
+Vertic Haploxeralfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquandic Haploxeralfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or more
+
+2:2
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+and
+
+3:3
+5
+and
+
+4:4
+6
+4:4
+7
+7 children
+Andic Haploxeralfs
+0
+0
+0
+0 children
+Vitrandic Haploxeralfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Fragiaquic Haploxeralfs
+0
+0
+both
+
+0
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+either
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Aquultic Haploxeralfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Haploxeralfs
+0
+0
+0
+0 children
+Natric Haploxeralfs
+0
+0
+0
+0 children
+Fragic Haploxeralfs
+0
+0
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Lamellic Haploxeralfs
+0
+0
+one
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+either
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Psammentic Haploxeralfs
+0
+0
+0
+0 children
+Plinthic Haploxeralfs
+0
+0
+0
+0 children
+Calcic Haploxeralfs
+0
+0
+0
+0 children
+Inceptic Haploxeralfs
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Ultic Haploxeralfs
+0
+0
+0
+0 children
+Mollic Haploxeralfs
+0
+0
+0
+0 children
+Typic Haploxeralfs
+0
+0
+0
+0 children
+Vertic Natrixeralfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Natrixeralfs
+0
+0
+0
+0 children
+Typic Natrixeralfs
+0
+0
+0
+0 children
+Vertic Palexeralfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquandic Palexeralfs
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or more
+
+2:2
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+and
+
+3:3
+5
+and
+
+4:4
+6
+4:4
+7
+7 children
+Andic Palexeralfs
+0
+0
+0
+0 children
+Vitrandic Palexeralfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Fragiaquic Palexeralfs
+0
+0
+both
+
+0
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+either
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Aquic Palexeralfs
+0
+0
+0
+0 children
+Petrocalcic Palexeralfs
+0
+0
+0
+0 children
+Lamellic Palexeralfs
+0
+0
+one
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+either
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Psammentic Palexeralfs
+0
+0
+0
+0 children
+Arenic Palexeralfs
+0
+0
+0
+0 children
+Natric Palexeralfs
+0
+0
+0
+0 children
+Fragic Palexeralfs
+0
+0
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Calcic Palexeralfs
+0
+0
+0
+0 children
+Plinthic Palexeralfs
+0
+0
+0
+0 children
+Ultic Palexeralfs
+0
+0
+0
+0 children
+Haplic Palexeralfs
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Mollic Palexeralfs
+0
+0
+0
+0 children
+Typic Palexeralfs
+0
+0
+0
+0 children
+Typic Plinthoxeralfs
+0
+0
+0
+0 children
+Lithic Rhodoxeralfs
+0
+0
+0
+0 children
+Vertic Rhodoxeralfs
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Petrocalcic Rhodoxeralfs
+0
+0
+0
+0 children
+Calcic Rhodoxeralfs
+0
+0
+0
+0 children
+Inceptic Rhodoxeralfs
+0
+0
+0
+0 children
+Typic Rhodoxeralfs
+0
+0
+0
+0 children
+Aquands
+
+0
+0
+either
+
+0
+or
+
+2:2
+1
+one or more
+
+2:2
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Gelands
+
+0
+0
+0
+0 children
+Cryands
+
+0
+0
+0
+0 children
+Torrands
+
+0
+0
+0
+0 children
+Xerands
+
+0
+0
+0
+0 children
+Vitrands
+
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Ustands
+
+0
+0
+0
+0 children
+Udands
+
+0
+0
+0
+0 children
+Gelaquands
+
+0
+0
+0
+0 children
+Cryaquands
+
+0
+0
+0
+0 children
+Placaquands
+
+0
+0
+0
+0 children
+Duraquands
+
+0
+0
+0
+0 children
+CHAPTER 6
+0
+0
+either
+
+0
+or
+
+2:2
+1
+<b>Andisols</b>
+
+2:2
+2
+2 children
+Melanaquands
+
+0
+0
+0
+0 children
+Epiaquands
+
+0
+0
+0
+0 children
+Endoaquands
+
+0
+0
+0
+0 children
+Lithic Cryaquands
+0
+0
+0
+0 children
+Histic Cryaquands
+0
+0
+0
+0 children
+Thaptic Cryaquands
+0
+0
+0
+0 children
+Typic Cryaquands
+0
+0
+0
+0 children
+Histic Duraquands
+0
+0
+0
+0 children
+Acraquoxic Duraquands
+0
+0
+0
+0 children
+Thaptic Duraquands
+0
+0
+0
+0 children
+Typic Duraquands
+0
+0
+0
+0 children
+Lithic Endoaquands
+0
+0
+0
+0 children
+Duric Endoaquands
+0
+0
+0
+0 children
+Histic Endoaquands
+0
+0
+0
+0 children
+Alic Endoaquands
+0
+0
+0
+0 children
+Hydric Endoaquands
+0
+0
+0
+0 children
+Thaptic Endoaquands
+0
+0
+0
+0 children
+Typic Endoaquands
+0
+0
+0
+0 children
+Duric Epiaquands
+0
+0
+0
+0 children
+Histic Epiaquands
+0
+0
+0
+0 children
+Alic Epiaquands
+0
+0
+0
+0 children
+Hydric Epiaquands
+0
+0
+0
+0 children
+Thaptic Epiaquands
+0
+0
+0
+0 children
+Typic Epiaquands
+0
+0
+0
+0 children
+Histic Gelaquands
+0
+0
+0
+0 children
+Turbic Gelaquands
+0
+0
+0
+0 children
+Thaptic Gelaquands
+0
+0
+0
+0 children
+Typic Gelaquands
+0
+0
+0
+0 children
+Lithic Melanaquands
+0
+0
+0
+0 children
+Acraquoxic Melanaquands
+0
+0
+0
+0 children
+Hydric Pachic Melanaquands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Hydric Melanaquands
+0
+0
+0
+0 children
+Pachic Melanaquands
+0
+0
+0
+0 children
+Thaptic Melanaquands
+0
+0
+0
+0 children
+Typic Melanaquands
+0
+0
+0
+0 children
+Lithic Placaquands
+0
+0
+0
+0 children
+Duric Histic Placaquands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Duric Placaquands
+0
+0
+0
+0 children
+Histic Placaquands
+0
+0
+0
+0 children
+Thaptic Placaquands
+0
+0
+0
+0 children
+Typic Placaquands
+0
+0
+0
+0 children
+Lithic Vitraquands
+0
+0
+0
+0 children
+Duric Vitraquands
+0
+0
+0
+0 children
+Histic Vitraquands
+0
+0
+0
+0 children
+Thaptic Vitraquands
+0
+0
+0
+0 children
+Typic Vitraquands
+0
+0
+0
+0 children
+Duricryands
+
+0
+0
+0
+0 children
+Hydrocryands
+
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Melanocryands
+
+0
+0
+0
+0 children
+Fulvicryands
+
+0
+0
+0
+0 children
+Vitricryands
+
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Haplocryands
+
+0
+0
+0
+0 children
+Aquic Duricryands
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Eutric Oxyaquic Duricryands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+either or both:
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Oxyaquic Duricryands
+0
+0
+either or both:
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Eutric Duricryands
+0
+0
+0
+0 children
+Typic Duricryands
+0
+0
+0
+0 children
+Lithic Fulvicryands
+0
+0
+0
+0 children
+Folistic Fulvicryands
+0
+0
+0
+0 children
+Eutric Pachic Fulvicryands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Eutric Fulvicryands
+0
+0
+0
+0 children
+Pachic Fulvicryands
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Vitric Fulvicryands
+0
+0
+0
+0 children
+Typic Fulvicryands
+0
+0
+0
+0 children
+Lithic Haplocryands
+0
+0
+0
+0 children
+Folistic Haplocryands
+0
+0
+0
+0 children
+Aquic Haplocryands
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Oxyaquic Haplocryands
+0
+0
+either or both:
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Alic Haplocryands
+0
+0
+0
+0 children
+Spodic Haplocryands
+0
+0
+0
+0 children
+Acrudoxic Haplocryands
+0
+0
+0
+0 children
+Vitric Haplocryands
+0
+0
+0
+0 children
+Thaptic Haplocryands
+0
+0
+0
+0 children
+Xeric Haplocryands
+0
+0
+0
+0 children
+Typic Haplocryands
+0
+0
+0
+0 children
+Lithic Hydrocryands
+0
+0
+0
+0 children
+Placic Hydrocryands
+0
+0
+0
+0 children
+Aquic Hydrocryands
+0
+0
+one or 
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Thaptic Hydrocryands
+0
+0
+0
+0 children
+Typic Hydrocryands
+0
+0
+0
+0 children
+Lithic Melanocryands
+0
+0
+0
+0 children
+Vitric Melanocryands
+0
+0
+0
+0 children
+Typic Melanocryands
+0
+0
+0
+0 children
+Lithic Vitricryands
+0
+0
+0
+0 children
+Folistic Vitricryands
+0
+0
+0
+0 children
+Aquic Vitricryands
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Oxyaquic Vitricryands
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Spodic Vitricryands
+0
+0
+or
+
+0
+0 children
+Thaptic Vitricryands
+0
+0
+0
+0 children
+Humic Xeric Vitricryands
+0
+0
+0
+0 children
+Xeric Vitricryands
+0
+0
+0
+0 children
+Ultic Vitricryands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Alfic Vitricryands
+0
+0
+0
+0 children
+Humic Vitricryands
+0
+0
+0
+0 children
+Typic Vitricryands
+0
+0
+0
+0 children
+Vitrigelands
+
+0
+0
+0
+0 children
+Humic Vitrigelands
+0
+0
+0
+0 children
+Turbic Vitrigelands
+0
+0
+0
+0 children
+Typic Vitrigelands
+0
+0
+0
+0 children
+Duritorrands
+
+0
+0
+0
+0 children
+Vitritorrands
+
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Haplotorrands
+
+0
+0
+0
+0 children
+Petrocalcic Duritorrands
+0
+0
+0
+0 children
+Vitric Duritorrands
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Typic Duritorrands
+0
+0
+0
+0 children
+Lithic Haplotorrands
+0
+0
+0
+0 children
+Duric Haplotorrands
+0
+0
+0
+0 children
+Calcic Haplotorrands
+0
+0
+0
+0 children
+Typic Haplotorrands
+0
+0
+0
+0 children
+Lithic Vitritorrands
+0
+0
+0
+0 children
+Duric Vitritorrands
+0
+0
+0
+0 children
+Aquic Vitritorrands
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Calcic Vitritorrands
+0
+0
+0
+0 children
+Typic Vitritorrands
+0
+0
+0
+0 children
+Placudands
+
+0
+0
+0
+0 children
+Durudands
+
+0
+0
+0
+0 children
+Melanudands
+
+0
+0
+0
+0 children
+Hydrudands
+
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Fulvudands
+
+0
+0
+0
+0 children
+Hapludands
+
+0
+0
+0
+0 children
+Aquic Durudands
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Eutric Durudands
+0
+0
+0
+0 children
+Acrudoxic Durudands
+0
+0
+0
+0 children
+Hydric Durudands
+0
+0
+0
+0 children
+Pachic Durudands
+0
+0
+0
+0 children
+Typic Durudands
+0
+0
+0
+0 children
+Eutric Lithic Fulvudands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Fulvudands
+0
+0
+0
+0 children
+Aquic Fulvudands
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Oxyaquic Fulvudands
+0
+0
+either or 
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Hydric Fulvudands
+0
+0
+0
+0 children
+Acrudoxic Fulvudands
+0
+0
+0
+0 children
+Ultic Fulvudands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Eutric Pachic Fulvudands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Eutric Fulvudands
+0
+0
+0
+0 children
+Pachic Fulvudands
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Thaptic Fulvudands
+0
+0
+0
+0 children
+Typic Fulvudands
+0
+0
+0
+0 children
+Lithic Hapludands
+0
+0
+0
+0 children
+Anthraquic Hapludands
+0
+0
+0
+0 children
+Aquic Duric Hapludands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or more
+
+2:2
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Duric Hapludands
+0
+0
+0
+0 children
+Aquic Hapludands
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Oxyaquic Hapludands
+0
+0
+either or 
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Alic Hapludands
+0
+0
+0
+0 children
+Acrudoxic Hydric Hapludands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Acrudoxic Thaptic Hapludands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Acrudoxic Ultic Hapludands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+both
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Acrudoxic Hapludands
+0
+0
+0
+0 children
+Vitric Hapludands
+0
+0
+0
+0 children
+Hydric Thaptic Hapludands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Hydric Hapludands
+0
+0
+0
+0 children
+Eutric Thaptic Hapludands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Thaptic Hapludands
+0
+0
+0
+0 children
+Eutric Hapludands
+0
+0
+0
+0 children
+Oxic Hapludands
+0
+0
+0
+0 children
+Ultic Hapludands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Alfic Hapludands
+0
+0
+0
+0 children
+Typic Hapludands
+0
+0
+0
+0 children
+Lithic Hydrudands
+0
+0
+0
+0 children
+Aquic Hydrudands
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Acrudoxic Thaptic Hydrudands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Acrudoxic Hydrudands
+0
+0
+0
+0 children
+Thaptic Hydrudands
+0
+0
+0
+0 children
+Eutric Hydrudands
+0
+0
+0
+0 children
+Ultic Hydrudands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Typic Hydrudands
+0
+0
+0
+0 children
+Lithic Melanudands
+0
+0
+0
+0 children
+Anthraquic Melanudands
+0
+0
+0
+0 children
+Aquic Melanudands
+0
+0
+one or 
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Acrudoxic Vitric Melanudands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Acrudoxic Hydric Melanudands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Acrudoxic Melanudands
+0
+0
+0
+0 children
+Pachic Vitric Melanudands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Vitric Melanudands
+0
+0
+0
+0 children
+Hydric Pachic Melanudands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Pachic Melanudands
+0
+0
+0
+0 children
+Hydric Melanudands
+0
+0
+0
+0 children
+Thaptic Melanudands
+0
+0
+0
+0 children
+Ultic Melanudands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Eutric Melanudands
+0
+0
+0
+0 children
+Typic Melanudands
+0
+0
+0
+0 children
+Lithic Placudands
+0
+0
+0
+0 children
+Aquic Placudands
+0
+0
+one or 
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Acrudoxic Placudands
+0
+0
+0
+0 children
+Hydric Placudands
+0
+0
+0
+0 children
+Typic Placudands
+0
+0
+0
+0 children
+Durustands
+
+0
+0
+0
+0 children
+Haplustands
+
+0
+0
+0
+0 children
+Aquic Durustands
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Thaptic Durustands
+0
+0
+0
+0 children
+Humic Durustands
+0
+0
+0
+0 children
+Typic Durustands
+0
+0
+0
+0 children
+Lithic Haplustands
+0
+0
+0
+0 children
+Aquic Haplustands
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Dystric Vitric Haplustands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Vitric Haplustands
+0
+0
+0
+0 children
+Pachic Haplustands
+0
+0
+0
+0 children
+Thaptic Haplustands
+0
+0
+0
+0 children
+Calcic Haplustands
+0
+0
+0
+0 children
+Dystric Haplustands
+0
+0
+0
+0 children
+Oxic Haplustands
+0
+0
+0
+0 children
+Ultic Haplustands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Alfic Haplustands
+0
+0
+0
+0 children
+Humic Haplustands
+0
+0
+0
+0 children
+Typic Haplustands
+0
+0
+0
+0 children
+Ustivitrands
+
+0
+0
+0
+0 children
+Udivitrands
+
+0
+0
+0
+0 children
+Lithic Udivitrands
+0
+0
+0
+0 children
+Aquic Udivitrands
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Oxyaquic Udivitrands
+0
+0
+either or 
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Thaptic Udivitrands
+0
+0
+0
+0 children
+Ultic Udivitrands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Alfic Udivitrands
+0
+0
+0
+0 children
+Humic Udivitrands
+0
+0
+0
+0 children
+Typic Udivitrands
+0
+0
+0
+0 children
+Lithic Ustivitrands
+0
+0
+0
+0 children
+Aquic Ustivitrands
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Thaptic Ustivitrands
+0
+0
+0
+0 children
+Calcic Ustivitrands
+0
+0
+0
+0 children
+Humic Ustivitrands
+0
+0
+0
+0 children
+Typic Ustivitrands
+0
+0
+0
+0 children
+Vitrixerands
+
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Melanoxerands
+
+0
+0
+0
+0 children
+Haploxerands
+
+0
+0
+0
+0 children
+Lithic Haploxerands
+0
+0
+0
+0 children
+Aquic Haploxerands
+0
+0
+one or 
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Thaptic Haploxerands
+0
+0
+0
+0 children
+Calcic Haploxerands
+0
+0
+0
+0 children
+Ultic Haploxerands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Alfic Humic Haploxerands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Alfic Haploxerands
+0
+0
+0
+0 children
+Humic Haploxerands
+0
+0
+0
+0 children
+Typic Haploxerands
+0
+0
+0
+0 children
+Pachic Melanoxerands
+0
+0
+0
+0 children
+Typic Melanoxerands
+0
+0
+0
+0 children
+Lithic Vitrixerands
+0
+0
+0
+0 children
+Aquic Vitrixerands
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Thaptic Vitrixerands
+0
+0
+0
+0 children
+Alfic Humic Vitrixerands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Ultic Vitrixerands
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Alfic Vitrixerands
+0
+0
+0
+0 children
+Humic Vitrixerands
+0
+0
+0
+0 children
+Typic Vitrixerands
+0
+0
+0
+0 children
+Cryids
+
+0
+0
+0
+0 children
+Salids
+
+0
+0
+0
+0 children
+Durids
+
+0
+0
+0
+0 children
+Gypsids
+
+0
+0
+0
+0 children
+Argids
+
+0
+0
+0
+0 children
+Calcids
+
+0
+0
+0
+0 children
+Cambids
+
+0
+0
+0
+0 children
+Petroargids
+
+0
+0
+0
+0 children
+Natrargids
+
+0
+0
+0
+0 children
+Paleargids
+
+0
+0
+either
+
+0
+one or both
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+either
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Gypsiargids
+
+0
+0
+0
+0 children
+Calciargids
+
+0
+0
+0
+0 children
+Haplargids
+
+0
+0
+0
+0 children
+Lithic Calciargids
+0
+0
+0
+0 children
+CHAPTER 7
+0
+0
+both
+
+0
+One or both
+
+2:2
+1
+<b>Aridisols</b>
+
+3:3
+2
+2 children
+Ustertic Calciargids
+0
+0
+both
+
+0
+One or both
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+2:2
+4
+4 children
+Vertic Calciargids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Calciargids
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Arenic Ustic Calciargids
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Arenic Calciargids
+0
+0
+0
+0 children
+Durinodic Xeric Calciargids
+0
+0
+ both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Durinodic Calciargids
+0
+0
+0
+0 children
+Petronodic Xeric Calciargids
+0
+0
+ both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Petronodic Ustic Calciargids
+0
+0
+ both
+
+0
+ and
+
+2:2
+ and
+1
+2:2
+2
+2 children
+Petronodic Calciargids
+0
+0
+0
+0 children
+Vitrixerandic Calciargids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Vitrandic Calciargids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Xeric Calciargids
+0
+0
+0
+0 children
+Ustic Calciargids
+0
+0
+0
+0 children
+Typic Calciargids
+0
+0
+0
+0 children
+Aquic Gypsiargids
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Durinodic Gypsiargids
+0
+0
+0
+0 children
+Vitrixerandic Gypsiargids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Vitrandic Gypsiargids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Xeric Gypsiargids
+0
+0
+0
+0 children
+Ustic Gypsiargids
+0
+0
+0
+0 children
+Typic Gypsiargids
+0
+0
+0
+0 children
+Lithic Ruptic-Entic Haplargids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Xeric Haplargids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Ustic Haplargids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Haplargids
+0
+0
+0
+0 children
+Xerertic Haplargids
+0
+0
+both
+
+0
+One or both
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+2:2
+4
+4 children
+Ustertic Haplargids
+0
+0
+both
+
+0
+One or both
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+2:2
+4
+4 children
+Vertic Haplargids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Haplargids
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Arenic Ustic Haplargids
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Arenic Haplargids
+0
+0
+0
+0 children
+Durinodic Xeric Haplargids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Durinodic Haplargids
+0
+0
+0
+0 children
+Petronodic Ustic Haplargids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Petronodic Haplargids
+0
+0
+0
+0 children
+Vitrixerandic Haplargids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Vitrandic Haplargids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Xeric Haplargids
+0
+0
+0
+0 children
+Ustic Haplargids
+0
+0
+0
+0 children
+Typic Haplargids
+0
+0
+0
+0 children
+Lithic Xeric Natrargids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Ustic Natrargids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Natrargids
+0
+0
+0
+0 children
+Xerertic Natrargids
+0
+0
+0
+and
+
+2:2
+1
+or
+
+3:3
+2
+3:3
+3
+3 children
+Ustertic Natrargids
+0
+0
+0
+and
+
+2:2
+1
+or
+
+3:3
+2
+3:3
+3
+3 children
+Vertic Natrargids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Natrargids
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Durinodic Xeric Natrargids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Durinodic Natrargids
+0
+0
+0
+0 children
+Petronodic Natrargids
+0
+0
+0
+0 children
+Glossic Ustic Natrargids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Haplic Ustic Natrargids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Haploxeralfic Natrargids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Haplic Natrargids
+0
+0
+0
+0 children
+Vitrixerandic Natrargids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Vitrandic Natrargids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Xeric Natrargids
+0
+0
+0
+0 children
+Ustic Natrargids
+0
+0
+0
+0 children
+Glossic Natrargids
+0
+0
+0
+0 children
+Typic Natrargids
+0
+0
+0
+0 children
+Vertic Paleargids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Paleargids
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Arenic Ustic Paleargids
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Arenic Paleargids
+0
+0
+0
+0 children
+Calcic Paleargids
+0
+0
+0
+0 children
+Durinodic Xeric Paleargids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Durinodic Paleargids
+0
+0
+0
+0 children
+Petronodic Ustic Paleargids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Petronodic Paleargids
+0
+0
+0
+0 children
+Vitrixerandic Paleargids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Vitrandic Paleargids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Xeric Paleargids
+0
+0
+0
+0 children
+Ustic Paleargids
+0
+0
+0
+0 children
+Typic Paleargids
+0
+0
+0
+0 children
+Petrogypsic Ustic Petroargids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Petrogypsic Petroargids
+0
+0
+0
+0 children
+Duric Xeric Petroargids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Duric Petroargids
+0
+0
+0
+0 children
+Natric Petroargids
+0
+0
+0
+0 children
+Xeric Petroargids
+0
+0
+0
+0 children
+Ustic Petroargids
+0
+0
+0
+0 children
+Typic Petroargids
+0
+0
+0
+0 children
+Petrocalcids
+
+0
+0
+0
+0 children
+Haplocalcids
+
+0
+0
+0
+0 children
+Lithic Xeric Haplocalcids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Ustic Haplocalcids
+0
+0
+ both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Haplocalcids
+0
+0
+0
+0 children
+Vertic Haplocalcids
+0
+0
+ one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Durinodic Haplocalcids
+0
+0
+either
+
+0
+or
+
+3:3
+1
+and
+
+3:3
+2
+2:2
+3
+3 children
+Aquic Haplocalcids
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Duric Xeric Haplocalcids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Duric Haplocalcids
+0
+0
+0
+0 children
+Durinodic Xeric Haplocalcids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Durinodic Haplocalcids
+0
+0
+0
+0 children
+Petronodic Xeric Haplocalcids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Petronodic Ustic Haplocalcids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Petronodic Haplocalcids
+0
+0
+0
+0 children
+Sodic Xeric Haplocalcids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Sodic Ustic Haplocalcids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Sodic Haplocalcids
+0
+0
+0
+0 children
+Vitrixerandic Haplocalcids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Vitrandic Haplocalcids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Xeric Haplocalcids
+0
+0
+0
+0 children
+Ustic Haplocalcids
+0
+0
+0
+0 children
+Typic Haplocalcids
+0
+0
+0
+0 children
+Aquic Petrocalcids
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Natric Petrocalcids
+0
+0
+0
+0 children
+Xeralfic Petrocalcids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Ustalfic Petrocalcids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Argic Petrocalcids
+0
+0
+0
+0 children
+Calcic Lithic Petrocalcids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Calcic Petrocalcids
+0
+0
+0
+0 children
+Xeric Petrocalcids
+0
+0
+0
+0 children
+Ustic Petrocalcids
+0
+0
+0
+0 children
+Typic Petrocalcids
+0
+0
+0
+0 children
+Aquicambids
+
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Petrocambids
+
+0
+0
+0
+0 children
+Haplocambids
+
+0
+0
+0
+0 children
+Sodic Aquicambids
+0
+0
+0
+0 children
+Durinodic Xeric Aquicambids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Durinodic Aquicambids
+0
+0
+0
+0 children
+Petronodic Aquicambids
+0
+0
+0
+0 children
+Vitrixerandic Aquicambids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Vitrandic Aquicambids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Fluventic Aquicambids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Xeric Aquicambids
+0
+0
+0
+0 children
+Ustic Aquicambids
+0
+0
+0
+0 children
+Typic Aquicambids
+0
+0
+0
+0 children
+Lithic Xeric Haplocambids
+0
+0
+both
+
+0
+ and
+
+2:2
+ and
+1
+2:2
+2
+2 children
+Lithic Ustic Haplocambids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Haplocambids
+0
+0
+0
+0 children
+Xerertic Haplocambids
+0
+0
+both
+
+0
+One or both
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+2:2
+4
+4 children
+Ustertic Haplocambids
+0
+0
+both
+
+0
+One or both
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+2:2
+4
+4 children
+Vertic Haplocambids
+0
+0
+ one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Durinodic Xeric Haplocambids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Durinodic Haplocambids
+0
+0
+0
+0 children
+Petronodic Xeric Haplocambids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Petronodic Ustic Haplocambids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Petronodic Haplocambids
+0
+0
+0
+0 children
+Sodic Xeric Haplocambids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Sodic Ustic Haplocambids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Sodic Haplocambids
+0
+0
+0
+0 children
+Vitrixerandic Haplocambids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Vitrandic Haplocambids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Xerofluventic Haplocambids
+0
+0
+all 
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Ustifluventic Haplocambids
+0
+0
+all 
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Fluventic Haplocambids
+0
+0
+both 
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Anthropic Haplocambids
+0
+0
+0
+0 children
+Xeric Haplocambids
+0
+0
+0
+0 children
+Ustic Haplocambids
+0
+0
+0
+0 children
+Typic Haplocambids
+0
+0
+0
+0 children
+Sodic Petrocambids
+0
+0
+0
+0 children
+Vitrixerandic Petrocambids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Vitrandic Petrocambids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Xeric Petrocambids
+0
+0
+0
+0 children
+Ustic Petrocambids
+0
+0
+0
+0 children
+Typic Petrocambids
+0
+0
+0
+0 children
+Salicryids
+
+0
+0
+0
+0 children
+Petrocryids
+
+0
+0
+0
+0 children
+Gypsicryids
+
+0
+0
+0
+0 children
+Calcicryids
+
+0
+0
+0
+0 children
+Haplocryids
+
+0
+0
+0
+0 children
+Lithic Argicryids
+0
+0
+0
+0 children
+Vertic Argicryids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Natric Argicryids
+0
+0
+0
+0 children
+Vitrixerandic Argicryids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Vitrandic Argicryids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Xeric Argicryids
+0
+0
+0
+0 children
+Ustic Argicryids
+0
+0
+0
+0 children
+Typic Argicryids
+0
+0
+0
+0 children
+Lithic Calcicryids
+0
+0
+0
+0 children
+Vitrixerandic Calcicryids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Vitrandic Calcicryids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Xeric Calcicryids
+0
+0
+0
+0 children
+Ustic Calcicryids
+0
+0
+0
+0 children
+Typic Calcicryids
+0
+0
+0
+0 children
+Calcic Gypsicryids
+0
+0
+0
+0 children
+Vitrixerandic Gypsicryids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Vitrandic Gypsicryids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Typic Gypsicryids
+0
+0
+0
+0 children
+Lithic Haplocryids
+0
+0
+0
+0 children
+Vertic Haplocryids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Vitrixerandic Haplocryids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Vitrandic Haplocryids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Xeric Haplocryids
+0
+0
+0
+0 children
+Ustic Haplocryids
+0
+0
+0
+0 children
+Typic Haplocryids
+0
+0
+0
+0 children
+Xereptic Petrocryids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Duric Xeric Petrocryids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Duric Petrocryids
+0
+0
+0
+0 children
+Petrogypsic Petrocryids
+0
+0
+0
+0 children
+Xeric Petrocryids
+0
+0
+0
+0 children
+Ustic Petrocryids
+0
+0
+0
+0 children
+Typic Petrocryids
+0
+0
+0
+0 children
+Aquic Salicryids
+0
+0
+0
+0 children
+Typic Salicryids
+0
+0
+0
+0 children
+Natridurids
+
+0
+0
+0
+0 children
+Argidurids
+
+0
+0
+0
+0 children
+Haplodurids
+
+0
+0
+0
+0 children
+Vertic Argidurids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Argidurids
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Abruptic Xeric Argidurids
+0
+0
+both
+
+0
+ 
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+and
+
+3:3
+4
+2:2
+5
+5 children
+Abruptic Argidurids
+0
+0
+ one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Haploxeralfic Argidurids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Argidic Argidurids
+0
+0
+0
+0 children
+Vitrixerandic Argidurids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Vitrandic Argidurids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Xeric Argidurids
+0
+0
+0
+0 children
+Ustic Argidurids
+0
+0
+0
+0 children
+Typic Argidurids
+0
+0
+0
+0 children
+Aquicambidic Haplodurids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+or
+
+3:3
+2
+3:3
+3
+3 children
+Aquic Haplodurids
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Xereptic Haplodurids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Cambidic Haplodurids
+0
+0
+0
+0 children
+Vitrixerandic Haplodurids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Vitrandic Haplodurids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Xeric Haplodurids
+0
+0
+0
+0 children
+Ustic Haplodurids
+0
+0
+0
+0 children
+Typic Haplodurids
+0
+0
+0
+0 children
+Vertic Natridurids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Natrargidic Natridurids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+or
+
+3:3
+2
+3:3
+3
+3 children
+Aquic Natridurids
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Natrixeralfic Natridurids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Natrargidic Natridurids
+0
+0
+0
+0 children
+Vitrixerandic Natridurids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Vitrandic Natridurids
+0
+0
+one or both 
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Xeric Natridurids
+0
+0
+0
+0 children
+Typic Natridurids
+0
+0
+0
+0 children
+Petrogypsids
+
+0
+0
+0
+0 children
+Natrigypsids
+
+0
+0
+0
+0 children
+Argigypsids
+
+0
+0
+0
+0 children
+Calcigypsids
+
+0
+0
+0
+0 children
+Haplogypsids
+
+0
+0
+0
+0 children
+Lithic Argigypsids
+0
+0
+0
+0 children
+Vertic Argigypsids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Calcic Argigypsids
+0
+0
+0
+0 children
+Petronodic Argigypsids
+0
+0
+0
+0 children
+Vitrixerandic Argigypsids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Vitrandic Argigypsids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Xeric Argigypsids
+0
+0
+0
+0 children
+Ustic Argigypsids
+0
+0
+0
+0 children
+Typic Argigypsids
+0
+0
+0
+0 children
+Lithic Calcigypsids
+0
+0
+0
+0 children
+Petronodic Calcigypsids
+0
+0
+0
+0 children
+Vitrixerandic Calcigypsids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Vitrandic Calcigypsids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Xeric Calcigypsids
+0
+0
+0
+0 children
+Ustic Calcigypsids
+0
+0
+0
+0 children
+Typic Calcigypsids
+0
+0
+0
+0 children
+Lithic Haplogypsids
+0
+0
+0
+0 children
+Leptic Haplogypsids
+0
+0
+0
+0 children
+Sodic Haplogypsids
+0
+0
+0
+0 children
+Petronodic Haplogypsids
+0
+0
+0
+0 children
+Vitrixerandic Haplogypsids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Vitrandic Haplogypsids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Xeric Haplogypsids
+0
+0
+0
+0 children
+Ustic Haplogypsids
+0
+0
+0
+0 children
+Typic Haplogypsids
+0
+0
+0
+0 children
+Lithic Natrigypsids
+0
+0
+0
+0 children
+Vertic Natrigypsids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Petronodic Natrigypsids
+0
+0
+0
+0 children
+Vitrixerandic Natrigypsids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Vitrandic Natrigypsids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Xeric Natrigypsids
+0
+0
+0
+0 children
+Ustic Natrigypsids
+0
+0
+0
+0 children
+Typic Natrigypsids
+0
+0
+0
+0 children
+Petrocalcic Petrogypsids
+0
+0
+0
+0 children
+Calcic Petrogypsids
+0
+0
+0
+0 children
+Vitrixerandic Petrogypsids
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Vitrandic Petrogypsids
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Xeric Petrogypsids
+0
+0
+0
+0 children
+Ustic Petrogypsids
+0
+0
+0
+0 children
+Typic Petrogypsids
+0
+0
+0
+0 children
+Aquisalids
+
+0
+0
+0
+0 children
+Haplosalids
+
+0
+0
+0
+0 children
+Anhydritic Aquisalids
+0
+0
+0
+0 children
+Gypsic Aquisalids
+0
+0
+0
+0 children
+Calcic Aquisalids
+0
+0
+0
+0 children
+Typic Aquisalids
+0
+0
+0
+0 children
+Duric Haplosalids
+0
+0
+0
+0 children
+Petrogypsic Haplosalids
+0
+0
+0
+0 children
+Anhydritic Haplosalids
+0
+0
+0
+0 children
+Gypsic Haplosalids
+0
+0
+0
+0 children
+Calcic Haplosalids
+0
+0
+0
+0 children
+Typic Haplosalids
+0
+0
+0
+0 children
+Aquents
+
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+one or 
+
+2:2
+3
+one or more
+
+3:3
+4
+or
+
+4:4
+5
+or
+
+4:4
+6
+or
+
+4:4
+7
+one or more
+
+3:3
+8
+or
+
+4:4
+9
+or
+
+4:4
+10
+or
+
+4:4
+11
+ or
+
+4:4
+ or
+12
+or
+
+4:4
+13
+or
+
+4:4
+14
+or
+
+4:4
+15
+3:3
+16
+16 children
+Psamments
+
+0
+0
+0
+0 children
+Fluvents
+
+0
+0
+or
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+or
+
+3:3
+3
+and
+
+3:3
+4
+2:2
+5
+or
+
+3:3
+6
+3:3
+7
+and
+
+4:4
+8
+4:4
+9
+9 children
+Orthents
+
+0
+0
+0
+0 children
+Sulfaquents
+
+0
+0
+0
+0 children
+Hydraquents
+
+0
+0
+n
+
+0
+0 children
+Gelaquents
+
+0
+0
+0
+0 children
+Cryaquents
+
+0
+0
+0
+0 children
+Psammaquents
+
+0
+0
+0
+0 children
+Fluvaquents
+
+0
+0
+or 
+
+0
+ and
+
+2:2
+ and
+1
+or
+
+3:3
+2
+3:3
+3
+3 children
+Epiaquents
+
+0
+0
+0
+0 children
+Endoaquents
+
+0
+0
+0
+0 children
+Aquandic Cryaquents
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+and
+
+2:2
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Typic Cryaquents
+0
+0
+0
+0 children
+Sulfic Endoaquents
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Endoaquents
+0
+0
+0
+0 children
+Sodic Endoaquents
+0
+0
+0
+0 children
+Aeric Endoaquents
+0
+0
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+or
+
+2:2
+3
+2:2
+4
+4 children
+Humaqueptic Endoaquents
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Mollic Endoaquents
+0
+0
+0
+0 children
+Typic Endoaquents
+0
+0
+0
+0 children
+Aeric Epiaquents
+0
+0
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+or
+
+2:2
+3
+2:2
+4
+4 children
+Humaqueptic Epiaquents
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Mollic Epiaquents
+0
+0
+0
+0 children
+Typic Epiaquents
+0
+0
+0
+0 children
+Sulfic Fluvaquents
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Vertic Fluvaquents
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Thapto-Histic Fluvaquents
+0
+0
+0
+0 children
+Aquandic Fluvaquents
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+and
+
+2:2
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Aeric Fluvaquents
+0
+0
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+or
+
+2:2
+3
+2:2
+4
+4 children
+Humaqueptic Fluvaquents
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Mollic Fluvaquents
+0
+0
+0
+0 children
+Typic Fluvaquents
+0
+0
+0
+0 children
+Typic Gelaquents
+0
+0
+0
+0 children
+Sulfic Hydraquents
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Sodic Hydraquents
+0
+0
+0
+0 children
+Thapto-Histic Hydraquents
+0
+0
+0
+0 children
+Typic Hydraquents
+0
+0
+0
+0 children
+Lithic Psammaquents
+0
+0
+0
+0 children
+Sodic Psammaquents
+0
+0
+0
+0 children
+Spodic Psammaquents
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Humaqueptic Psammaquents
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Mollic Psammaquents
+0
+0
+0
+0 children
+Typic Psammaquents
+0
+0
+0
+0 children
+Haplic Sulfaquents
+0
+0
+either or 
+
+0
+2:2
+1
+1 children
+Histic Sulfaquents
+0
+0
+0
+0 children
+Thapto-Histic Sulfaquents
+0
+0
+0
+0 children
+Typic Sulfaquents
+0
+0
+0
+0 children
+Gelifluvents
+
+0
+0
+0
+0 children
+Cryofluvents
+
+0
+0
+0
+0 children
+Xerofluvents
+
+0
+0
+0
+0 children
+Ustifluvents
+
+0
+0
+0
+0 children
+Torrifluvents
+
+0
+0
+0
+0 children
+Udifluvents
+
+0
+0
+0
+0 children
+Andic Cryofluvents
+0
+0
+0
+0 children
+Vitrandic Cryofluvents
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Cryofluvents
+0
+0
+0
+0 children
+Oxyaquic Cryofluvents
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Mollic Cryofluvents
+0
+0
+0
+0 children
+Typic Cryofluvents
+0
+0
+0
+0 children
+Aquic Gelifluvents
+0
+0
+0
+0 children
+Typic Gelifluvents
+0
+0
+0
+0 children
+Ustertic Torrifluvents
+0
+0
+0
+One or both
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+and
+
+2:2
+4
+2:2
+5
+5 children
+Vertic Torrifluvents
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Vitrixerandic Torrifluvents
+0
+0
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+one or both
+
+2:2
+3
+or
+
+3:3
+4
+and
+
+3:3
+5
+and
+
+4:4
+6
+4:4
+7
+7 children
+Vitrandic Torrifluvents
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Torrifluvents
+0
+0
+0
+0 children
+Oxyaquic Torrifluvents
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Duric Xeric Torrifluvents
+0
+0
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Duric Torrifluvents
+0
+0
+0
+0 children
+Ustic Torrifluvents
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Xeric Torrifluvents
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Anthropic Torrifluvents
+0
+0
+0
+0 children
+Typic Torrifluvents
+0
+0
+0
+0 children
+Aquertic Udifluvents
+0
+0
+both
+
+0
+One or both
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+Either or both
+
+2:2
+4
+or
+
+3:3
+5
+and either
+
+3:3
+6
+or
+
+4:4
+7
+4:4
+8
+8 children
+Vertic Udifluvents
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Andic Udifluvents
+0
+0
+0
+0 children
+Vitrandic Udifluvents
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Udifluvents
+0
+0
+either
+
+0
+or
+
+2:2
+1
+and either
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Oxyaquic Udifluvents
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Mollic Udifluvents
+0
+0
+0
+0 children
+Typic Udifluvents
+0
+0
+0
+0 children
+Aquertic Ustifluvents
+0
+0
+both
+
+0
+One or both
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+Either or both
+
+2:2
+4
+or
+
+3:3
+5
+and either
+
+3:3
+6
+or
+
+4:4
+7
+4:4
+8
+8 children
+Torrertic Ustifluvents
+0
+0
+both
+
+0
+one 
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+iso
+
+3:3
+4
+One or both
+
+2:2
+5
+or
+
+3:3
+6
+3:3
+7
+7 children
+Vertic Ustifluvents
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Anthraquic Ustifluvents
+0
+0
+0
+0 children
+Aquic Ustifluvents
+0
+0
+either
+
+0
+or
+
+2:2
+1
+and either
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Oxyaquic Ustifluvents
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aridic Ustifluvents
+0
+0
+one
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+iso
+
+2:2
+3
+3 children
+Udic Ustifluvents
+0
+0
+one
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+iso
+
+2:2
+3
+3 children
+Mollic Ustifluvents
+0
+0
+0
+0 children
+Typic Ustifluvents
+0
+0
+0
+0 children
+Vertic Xerofluvents
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquandic Xerofluvents
+0
+0
+0
+or
+
+2:2
+1
+and either
+
+2:2
+2
+or
+
+3:3
+3
+and
+
+3:3
+4
+one or more
+
+2:2
+5
+or
+
+3:3
+6
+or
+
+3:3
+7
+and
+
+3:3
+8
+and
+
+4:4
+9
+4:4
+10
+10 children
+Andic Xerofluvents
+0
+0
+0
+0 children
+Vitrandic Xerofluvents
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Xerofluvents
+0
+0
+either
+
+0
+or
+
+2:2
+1
+and either
+
+2:2
+2
+or
+
+3:3
+3
+ or
+
+3:3
+ or
+4
+3:3
+5
+5 children
+Oxyaquic Xerofluvents
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Durinodic Xerofluvents
+0
+0
+0
+0 children
+Mollic Xerofluvents
+0
+0
+0
+0 children
+Typic Xerofluvents
+0
+0
+0
+0 children
+Gelorthents
+
+0
+0
+0
+0 children
+Cryorthents
+
+0
+0
+0
+0 children
+Xerorthents
+
+0
+0
+0
+0 children
+Ustorthents
+
+0
+0
+0
+0 children
+Cryorthents
+
+0
+0
+0
+0 children
+Lithic Cryorthents
+0
+0
+0
+0 children
+Vitrandic Cryorthents
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Cryorthents
+0
+0
+0
+0 children
+Oxyaquic Cryorthents
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Lamellic Cryorthents
+0
+0
+0
+0 children
+Typic Cryorthents
+0
+0
+0
+0 children
+Aquic Gelorthents
+0
+0
+0
+0 children
+Oxyaquic Gelorthents
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Typic Gelorthents
+0
+0
+0
+0 children
+Lithic Ustic Torriorthents
+0
+0
+ all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+iso
+
+2:2
+3
+3 children
+Lithic Xeric Torriorthents
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Lithic Torriorthents
+0
+0
+0
+0 children
+Xerertic Torriorthents
+0
+0
+0
+One or both
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+and
+
+2:2
+4
+2:2
+5
+5 children
+Ustertic Torriorthents
+0
+0
+0
+One or both
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+and
+
+2:2
+4
+2:2
+5
+5 children
+Vertic Torriorthents
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Anthraltic Torriorthents
+0
+0
+0
+0 children
+Vitrandic Torriorthents
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Torriorthents
+0
+0
+0
+0 children
+Oxyaquic Torriorthents
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Duric Torriorthents
+0
+0
+0
+0 children
+Ustic Torriorthents
+0
+0
+both
+
+0
+and
+
+2:2
+1
+iso
+
+2:2
+2
+2 children
+Xeric Torriorthents
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Typic Torriorthents
+0
+0
+0
+0 children
+Lithic Udorthents
+0
+0
+0
+0 children
+Anthrodensic Sodic Udorthents
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Anthrodensic Udorthents
+0
+0
+0
+0 children
+Anthroportic Udorthents
+0
+0
+0
+0 children
+Vitrandic Udorthents
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Udorthents
+0
+0
+0
+0 children
+Oxyaquic Udorthents
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Vermic Udorthents
+0
+0
+0
+0 children
+Typic Udorthents
+0
+0
+0
+0 children
+Aridic Lithic Ustorthents
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one
+
+2:2
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+iso
+
+3:3
+5
+5 children
+Lithic Ustorthents
+0
+0
+0
+0 children
+Torrertic Ustorthents
+0
+0
+both
+
+0
+One or both
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+one
+
+2:2
+4
+or
+
+3:3
+5
+or
+
+3:3
+6
+iso
+
+3:3
+7
+7 children
+Vertic Ustorthents
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Anthraquic Ustorthents
+0
+0
+0
+0 children
+Anthrodensic Ustorthents
+0
+0
+0
+0 children
+Anthroportic Ustorthents
+0
+0
+0
+0 children
+Aquic Ustorthents
+0
+0
+0
+0 children
+Oxyaquic Ustorthents
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Durinodic Ustorthents
+0
+0
+0
+0 children
+Vitritorrandic Ustorthents
+0
+0
+both
+
+0
+one
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+iso
+
+3:3
+4
+one or 
+
+2:2
+5
+or
+
+3:3
+6
+and
+
+3:3
+7
+and
+
+4:4
+8
+4:4
+9
+9 children
+Vitrandic Ustorthents
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aridic Ustorthents
+0
+0
+one
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+iso
+
+2:2
+3
+3 children
+Udic Ustorthents
+0
+0
+one
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+iso
+
+2:2
+3
+3 children
+Vermic Ustorthents
+0
+0
+0
+0 children
+Typic Ustorthents
+0
+0
+0
+0 children
+Lithic Xerorthents
+0
+0
+0
+0 children
+Anthraltic Sodic Xerorthents
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Anthraltic Xerorthents
+0
+0
+0
+0 children
+Vitrandic Xerorthents
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Xerorthents
+0
+0
+0
+0 children
+Oxyaquic Xerorthents
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Durinodic Xerorthents
+0
+0
+0
+0 children
+Dystric Xerorthents
+0
+0
+0
+0 children
+Typic Xerorthents
+0
+0
+0
+0 children
+Cryopsamments
+
+0
+0
+0
+0 children
+Torripsamments
+
+0
+0
+0
+0 children
+Quartzipsamments
+
+0
+0
+0
+0 children
+Ustipsamments
+
+0
+0
+0
+0 children
+Xeropsamments
+
+0
+0
+0
+0 children
+Udipsamments
+
+0
+0
+0
+0 children
+Lithic Cryopsamments
+0
+0
+0
+0 children
+Aquic Cryopsamments
+0
+0
+0
+0 children
+Oxyaquic Cryopsamments
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Vitrandic Cryopsamments
+0
+0
+0
+0 children
+Spodic Cryopsamments
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Lamellic Cryopsamments
+0
+0
+0
+0 children
+Typic Cryopsamments
+0
+0
+0
+0 children
+Lithic Quartzipsamments
+0
+0
+0
+0 children
+Aquodic Quartzipsamments
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or more
+
+2:2
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Aquic Quartzipsamments
+0
+0
+0
+0 children
+Oxyaquic Quartzipsamments
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Ustoxic Quartzipsamments
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Udoxic Quartzipsamments
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Plinthic Quartzipsamments
+0
+0
+0
+0 children
+Lamellic Ustic Quartzipsamments
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lamellic Quartzipsamments
+0
+0
+0
+0 children
+Ustic Quartzipsamments
+0
+0
+0
+0 children
+Xeric Quartzipsamments
+0
+0
+0
+0 children
+Spodic Quartzipsamments
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Typic Quartzipsamments
+0
+0
+0
+0 children
+Lithic Torripsamments
+0
+0
+0
+0 children
+Oxyaquic Torripsamments
+0
+0
+either or both:
+
+0
+ or
+
+2:2
+ or
+1
+2:2
+2
+2 children
+Vitrandic Torripsamments
+0
+0
+0
+0 children
+Haploduridic Torripsamments
+0
+0
+0
+0 children
+Ustic Torripsamments
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Xeric Torripsamments
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Rhodic Torripsamments
+0
+0
+all 
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Typic Torripsamments
+0
+0
+0
+0 children
+Lithic Udipsamments
+0
+0
+0
+0 children
+Aquic Udipsamments
+0
+0
+0
+0 children
+Oxyaquic Udipsamments
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Spodic Udipsamments
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Lamellic Udipsamments
+0
+0
+0
+0 children
+Haploplaggic Udipsamments
+0
+0
+0
+0 children
+Typic Udipsamments
+0
+0
+0
+0 children
+Lithic Ustipsamments
+0
+0
+0
+0 children
+Aquic Ustipsamments
+0
+0
+0
+0 children
+Oxyaquic Ustipsamments
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aridic Ustipsamments
+0
+0
+one
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+iso
+
+2:2
+3
+3 children
+Lamellic Ustipsamments
+0
+0
+0
+0 children
+Rhodic Ustipsamments
+0
+0
+all 
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Typic Ustipsamments
+0
+0
+0
+0 children
+Lithic Xeropsamments
+0
+0
+0
+0 children
+Aquic Durinodic Xeropsamments
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Xeropsamments
+0
+0
+0
+0 children
+Oxyaquic Xeropsamments
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Vitrandic Xeropsamments
+0
+0
+0
+0 children
+Durinodic Xeropsamments
+0
+0
+0
+0 children
+Lamellic Xeropsamments
+0
+0
+0
+0 children
+Dystric Xeropsamments
+0
+0
+0
+0 children
+Typic Xeropsamments
+0
+0
+0
+0 children
+Frasiwassents
+
+0
+0
+0
+0 children
+Psammowassents
+
+0
+0
+0
+0 children
+Sulfiwassents
+
+0
+0
+0
+0 children
+Hydrowassents
+
+0
+0
+n
+
+0
+0 children
+Fluviwassents
+
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Haplowassents
+
+0
+0
+0
+0 children
+Sulfic Fluviwassents
+0
+0
+0
+0 children
+Lithic Fluviwassents
+0
+0
+0
+0 children
+Thapto-Histic Fluviwassents
+0
+0
+0
+0 children
+Aeric Fluviwassents
+0
+0
+0
+0 children
+Typic Fluviwassents
+0
+0
+0
+0 children
+Hydric Frasiwassents
+0
+0
+n
+
+0
+0 children
+Lithic Frasiwassents
+0
+0
+0
+0 children
+Psammentic Frasiwassents
+0
+0
+0
+0 children
+Thapto-Histic Frasiwassents
+0
+0
+0
+0 children
+Fluventic Frasiwassents
+0
+0
+one or both
+
+0
+or 
+
+2:2
+1
+2:2
+2
+2 children
+Aeric Frasiwassents
+0
+0
+0
+0 children
+Typic Frasiwassents
+0
+0
+0
+0 children
+Sulfic Haplowassents
+0
+0
+0
+0 children
+Lithic Haplowassents
+0
+0
+0
+0 children
+Aeric Haplowassents
+0
+0
+0
+0 children
+Typic Haplowassents
+0
+0
+0
+0 children
+Sulfic Hydrowassents
+0
+0
+0
+0 children
+Grossic Hydrowassents
+0
+0
+n
+
+0
+0 children
+Lithic Hydrowassents
+0
+0
+0
+0 children
+Thapto-Histic Hydrowassents
+0
+0
+0
+0 children
+Typic Hydrowassents
+0
+0
+0
+0 children
+Sulfic Psammowassents
+0
+0
+0
+0 children
+Lithic Psammowassents
+0
+0
+0
+0 children
+Fluventic Psammowassents
+0
+0
+ 
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aeric Psammowassents
+0
+0
+0
+0 children
+Typic Psammowassents
+0
+0
+0
+0 children
+Lithic Sulfiwassents
+0
+0
+0
+0 children
+Haplic Sulfiwassents
+0
+0
+either or both
+
+0
+2:2
+1
+1 children
+Thapto-Histic Sulfiwassents
+0
+0
+0
+0 children
+Fluventic Sulfiwassents
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aeric Sulfiwassents
+0
+0
+0
+0 children
+Typic Sulfiwassents
+0
+0
+0
+0 children
+Histels
+
+0
+0
+one or 
+
+0
+and
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Turbels
+
+0
+0
+0
+0 children
+Orthels
+
+0
+0
+0
+0 children
+Folistels
+
+0
+0
+0
+0 children
+Glacistels
+
+0
+0
+both
+
+0
+and
+
+2:2
+1
+Sphagnum
+
+2:2
+2
+2 children
+Fibristels
+
+0
+0
+0
+0 children
+Hemistels
+
+0
+0
+0
+0 children
+Sapristels
+
+0
+0
+0
+0 children
+Lithic Fibristels
+0
+0
+0
+0 children
+Terric Fibristels
+0
+0
+0
+0 children
+Fluvaquentic Fibristels
+0
+0
+both
+
+0
+ and
+
+2:2
+ and
+1
+2:2
+2
+2 children
+Sphagnic Fibristels
+0
+0
+Sphagnum
+
+0
+0 children
+Typic Fibristels
+0
+0
+0
+0 children
+Lithic Folistels
+0
+0
+0
+0 children
+Glacic Folistels
+0
+0
+0
+0 children
+Typic Folistels
+0
+0
+0
+0 children
+Hemic Glacistels
+0
+0
+0
+0 children
+Sapric Glacistels
+0
+0
+0
+0 children
+Typic Glacistels
+0
+0
+0
+0 children
+Lithic Hemistels
+0
+0
+0
+0 children
+Terric Hemistels
+0
+0
+0
+0 children
+Fluvaquentic Hemistels
+0
+0
+both
+
+0
+ and
+
+2:2
+ and
+1
+2:2
+2
+2 children
+Typic Hemistels
+0
+0
+0
+0 children
+Lithic Sapristels
+0
+0
+0
+0 children
+Terric Sapristels
+0
+0
+0
+0 children
+Fluvaquentic Sapristels
+0
+0
+both
+
+0
+ and
+
+2:2
+ and
+1
+2:2
+2
+2 children
+Typic Sapristels
+0
+0
+0
+0 children
+Historthels
+
+0
+0
+0
+0 children
+Aquorthels
+
+0
+0
+0
+0 children
+Anhyorthels
+
+0
+0
+0
+0 children
+Mollorthels
+
+0
+0
+0
+0 children
+Umbrorthels
+
+0
+0
+0
+0 children
+Argiorthels
+
+0
+0
+0
+0 children
+Psammorthels
+
+0
+0
+0
+0 children
+Haplorthels
+
+0
+0
+0
+0 children
+Lithic Anhyorthels
+0
+0
+0
+0 children
+Glacic Anhyorthels
+0
+0
+0
+0 children
+Petrogypsic Anhyorthels
+0
+0
+0
+0 children
+Gypsic Anhyorthels
+0
+0
+0
+0 children
+Nitric Anhyorthels
+0
+0
+ both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Salic Anhyorthels
+0
+0
+0
+0 children
+Calcic Anhyorthels
+0
+0
+0
+0 children
+Typic Anhyorthels
+0
+0
+0
+0 children
+Lithic Aquorthels
+0
+0
+0
+0 children
+Glacic Aquorthels
+0
+0
+0
+0 children
+Sulfuric Aquorthels
+0
+0
+0
+0 children
+Ruptic-Histic Aquorthels
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Andic Aquorthels
+0
+0
+0
+0 children
+Vitrandic Aquorthels
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+ and
+
+2:2
+ and
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Salic Aquorthels
+0
+0
+0
+0 children
+Psammentic Aquorthels
+0
+0
+0
+0 children
+Fluvaquentic Aquorthels
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both 
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Typic Aquorthels
+0
+0
+0
+0 children
+Lithic Argiorthels
+0
+0
+0
+0 children
+Glacic Argiorthels
+0
+0
+0
+0 children
+Natric Argiorthels
+0
+0
+0
+0 children
+Typic Argiorthels
+0
+0
+0
+0 children
+Lithic Haplorthels
+0
+0
+0
+0 children
+Glacic Haplorthels
+0
+0
+0
+0 children
+Fluvaquentic Haplorthels
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+2:2
+3
+One or both 
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Folistic Haplorthels
+0
+0
+0
+0 children
+Aquic Haplorthels
+0
+0
+0
+0 children
+Fluventic Haplorthels
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both 
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Typic Haplorthels
+0
+0
+0
+0 children
+Lithic Historthels
+0
+0
+0
+0 children
+Glacic Historthels
+0
+0
+0
+0 children
+Fluvaquentic Historthels
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+2:2
+3
+One or both 
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Fluventic Historthels
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both 
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Ruptic Historthels
+0
+0
+0
+0 children
+Typic Historthels
+0
+0
+0
+0 children
+Lithic Mollorthels
+0
+0
+0
+0 children
+Glacic Mollorthels
+0
+0
+0
+0 children
+Vertic Mollorthels
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Andic Mollorthels
+0
+0
+0
+0 children
+Vitrandic Mollorthels
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Folistic Mollorthels
+0
+0
+0
+0 children
+Cumulic Mollorthels
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Mollorthels
+0
+0
+0
+0 children
+Typic Mollorthels
+0
+0
+0
+0 children
+Lithic Psammorthels
+0
+0
+0
+0 children
+Glacic Psammorthels
+0
+0
+0
+0 children
+Spodic Psammorthels
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Typic Psammorthels
+0
+0
+0
+0 children
+Lithic Umbrorthels
+0
+0
+0
+0 children
+Glacic Umbrorthels
+0
+0
+0
+0 children
+Vertic Umbrorthels
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Andic Umbrorthels
+0
+0
+0
+0 children
+Vitrandic Umbrorthels
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+ and
+
+2:2
+ and
+2
+ and
+
+3:3
+ and
+3
+3:3
+4
+4 children
+Folistic Umbrorthels
+0
+0
+0
+0 children
+Cumulic Umbrorthels
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Umbrorthels
+0
+0
+0
+0 children
+Typic Umbrorthels
+0
+0
+0
+0 children
+Histoturbels
+
+0
+0
+0
+0 children
+Aquiturbels
+
+0
+0
+0
+0 children
+Anhyturbels
+
+0
+0
+0
+0 children
+Molliturbels
+
+0
+0
+0
+0 children
+Umbriturbels
+
+0
+0
+0
+0 children
+Psammoturbels
+
+0
+0
+0
+0 children
+Haploturbels
+
+0
+0
+0
+0 children
+Lithic Anhyturbels
+0
+0
+0
+0 children
+Glacic Anhyturbels
+0
+0
+0
+0 children
+Petrogypsic Anhyturbels
+0
+0
+0
+0 children
+Gypsic Anhyturbels
+0
+0
+0
+0 children
+Nitric Anhyturbels
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Salic Anhyturbels
+0
+0
+0
+0 children
+Calcic Anhyturbels
+0
+0
+0
+0 children
+Typic Anhyturbels
+0
+0
+0
+0 children
+Lithic Aquiturbels
+0
+0
+0
+0 children
+Glacic Aquiturbels
+0
+0
+0
+0 children
+Sulfuric Aquiturbels
+0
+0
+0
+0 children
+Ruptic-Histic Aquiturbels
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Psammentic Aquiturbels
+0
+0
+0
+0 children
+Typic Aquiturbels
+0
+0
+0
+0 children
+Lithic Haploturbels
+0
+0
+0
+0 children
+Glacic Haploturbels
+0
+0
+0
+0 children
+Folistic Haploturbels
+0
+0
+0
+0 children
+Aquic Haploturbels
+0
+0
+0
+0 children
+Typic Haploturbels
+0
+0
+0
+0 children
+Lithic Histoturbels
+0
+0
+0
+0 children
+Glacic Histoturbels
+0
+0
+0
+0 children
+Ruptic Histoturbels
+0
+0
+0
+0 children
+Typic Histoturbels
+0
+0
+0
+0 children
+Lithic Molliturbels
+0
+0
+0
+0 children
+Glacic Molliturbels
+0
+0
+0
+0 children
+Vertic Molliturbels
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Andic Molliturbels
+0
+0
+0
+0 children
+Vitrandic Molliturbels
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+ and
+
+2:2
+ and
+2
+ and
+
+3:3
+ and
+3
+3:3
+4
+4 children
+Folistic Molliturbels
+0
+0
+0
+0 children
+Cumulic Molliturbels
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Molliturbels
+0
+0
+0
+0 children
+Typic Molliturbels
+0
+0
+0
+0 children
+Lithic Psammoturbels
+0
+0
+0
+0 children
+Glacic Psammoturbels
+0
+0
+0
+0 children
+Spodic Psammoturbels
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Typic Psammoturbels
+0
+0
+0
+0 children
+Lithic Umbriturbels
+0
+0
+0
+0 children
+Glacic Umbriturbels
+0
+0
+0
+0 children
+Vertic Umbriturbels
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Andic Umbriturbels
+0
+0
+0
+0 children
+Vitrandic Umbriturbels
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+ and
+
+2:2
+ and
+2
+ and
+
+3:3
+ and
+3
+3:3
+4
+4 children
+Folistic Umbriturbels
+0
+0
+0
+0 children
+Cumulic Umbriturbels
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Umbriturbels
+0
+0
+0
+0 children
+Typic Umbriturbels
+0
+0
+0
+0 children
+Folists
+
+0
+0
+0
+0 children
+Wassists
+
+0
+0
+0
+0 children
+Fibrists
+
+0
+0
+0
+either
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+and
+
+2:2
+4
+2:2
+5
+5 children
+Saprists
+
+0
+0
+either
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+2 children
+Hemists
+
+0
+0
+0
+0 children
+Cryofibrists
+
+0
+0
+0
+0 children
+Sphagnofibrists
+
+0
+0
+Sphagnum
+
+0
+0 children
+Haplofibrists
+
+0
+0
+0
+0 children
+Hydric Cryofibrists
+0
+0
+0
+0 children
+Lithic Cryofibrists
+0
+0
+0
+0 children
+Terric Cryofibrists
+0
+0
+0
+0 children
+CHAPTER 10
+0
+0
+both
+
+0
+ and
+
+2:2
+ and
+1
+<b>Histosols</b>
+
+2:2
+2
+2 children
+Sphagnic Cryofibrists
+0
+0
+Sphagnum
+
+0
+0 children
+Typic Cryofibrists
+0
+0
+0
+0 children
+Hydric Haplofibrists
+0
+0
+0
+0 children
+Lithic Haplofibrists
+0
+0
+0
+0 children
+Limnic Haplofibrists
+0
+0
+0
+0 children
+Terric Haplofibrists
+0
+0
+0
+0 children
+Fluvaquentic Haplofibrists
+0
+0
+both
+
+0
+ and
+
+2:2
+ and
+1
+2:2
+2
+2 children
+Hemic Haplofibrists
+0
+0
+0
+0 children
+Typic Haplofibrists
+0
+0
+0
+0 children
+Hydric Sphagnofibrists
+0
+0
+0
+0 children
+Lithic Sphagnofibrists
+0
+0
+0
+0 children
+Limnic Sphagnofibrists
+0
+0
+0
+0 children
+Terric Sphagnofibrists
+0
+0
+0
+0 children
+Fluvaquentic Sphagnofibrists
+0
+0
+both
+
+0
+ and
+
+2:2
+ and
+1
+2:2
+2
+2 children
+Hemic Sphagnofibrists
+0
+0
+0
+0 children
+Typic Sphagnofibrists
+0
+0
+0
+0 children
+Cryofolists
+
+0
+0
+0
+0 children
+Torrifolists
+
+0
+0
+0
+0 children
+Ustifolists
+
+0
+0
+0
+0 children
+Udifolists
+
+0
+0
+0
+0 children
+Lithic Cryofolists
+0
+0
+0
+0 children
+Typic Cryofolists
+0
+0
+0
+0 children
+Lithic Torrifolists
+0
+0
+0
+0 children
+Typic Torrifolists
+0
+0
+0
+0 children
+Lithic Udifolists
+0
+0
+0
+0 children
+Typic Udifolists
+0
+0
+0
+0 children
+Lithic Ustifolists
+0
+0
+0
+0 children
+Typic Ustifolists
+0
+0
+0
+0 children
+Sulfohemists
+
+0
+0
+0
+0 children
+Sulfihemists
+
+0
+0
+0
+0 children
+Luvihemists
+
+0
+0
+0
+0 children
+Cryohemists
+
+0
+0
+0
+0 children
+Haplohemists
+
+0
+0
+0
+0 children
+Hydric Cryohemists
+0
+0
+0
+0 children
+Lithic Cryohemists
+0
+0
+0
+0 children
+Terric Cryohemists
+0
+0
+0
+0 children
+Fluvaquentic Cryohemists
+0
+0
+both
+
+0
+ and
+
+2:2
+ and
+1
+2:2
+2
+2 children
+Typic Cryohemists
+0
+0
+0
+0 children
+Hydric Haplohemists
+0
+0
+0
+0 children
+Lithic Haplohemists
+0
+0
+0
+0 children
+Limnic Haplohemists
+0
+0
+0
+0 children
+Terric Haplohemists
+0
+0
+0
+0 children
+Fluvaquentic Haplohemists
+0
+0
+both
+
+0
+ and
+
+2:2
+ and
+1
+2:2
+2
+2 children
+Fibric Haplohemists
+0
+0
+0
+0 children
+Sapric Haplohemists
+0
+0
+0
+0 children
+Typic Haplohemists
+0
+0
+0
+0 children
+Typic Luvihemists
+0
+0
+0
+0 children
+Terric Sulfihemists
+0
+0
+0
+0 children
+Typic Sulfihemists
+0
+0
+0
+0 children
+Typic Sulfohemists
+0
+0
+0
+0 children
+Sulfosaprists
+
+0
+0
+0
+0 children
+Sulfisaprists
+
+0
+0
+0
+0 children
+Cryosaprists
+
+0
+0
+0
+0 children
+Haplosaprists
+
+0
+0
+0
+0 children
+Lithic Cryosaprists
+0
+0
+0
+0 children
+Terric Cryosaprists
+0
+0
+0
+0 children
+Fluvaquentic Cryosaprists
+0
+0
+both
+
+0
+ and
+
+2:2
+ and
+1
+2:2
+2
+2 children
+Typic Cryosaprists
+0
+0
+0
+0 children
+Lithic Haplosaprists
+0
+0
+0
+0 children
+Limnic Haplosaprists
+0
+0
+0
+0 children
+Halic Terric Haplosaprists
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Halic Haplosaprists
+0
+0
+0
+0 children
+Terric Haplosaprists
+0
+0
+0
+0 children
+Fluvaquentic Haplosaprists
+0
+0
+both
+
+0
+ and
+
+2:2
+ and
+1
+2:2
+2
+2 children
+Hemic Haplosaprists
+0
+0
+0
+0 children
+Typic Haplosaprists
+0
+0
+0
+0 children
+Terric Sulfisaprists
+0
+0
+0
+0 children
+Typic Sulfisaprists
+0
+0
+0
+0 children
+Typic Sulfosaprists
+0
+0
+0
+0 children
+Frasiwassists
+
+0
+0
+0
+0 children
+Sulfiwassists
+
+0
+0
+0
+0 children
+Haplowassists
+
+0
+0
+0
+0 children
+Fibric Frasiwassists
+0
+0
+0
+either
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+2:2
+4
+4 children
+Sapric Frasiwassists
+0
+0
+either
+
+0
+ or
+
+2:2
+ or
+1
+and
+
+2:2
+2
+2 children
+Typic Frasiwassists
+0
+0
+0
+0 children
+Sulfic Haplowassists
+0
+0
+0
+0 children
+Fibric Haplowassists
+0
+0
+either
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+2 children
+Sapric Haplowassists
+0
+0
+either
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+2 children
+Typic Haplowassists
+0
+0
+0
+0 children
+Fibric Sulfiwassists
+0
+0
+ either
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+2 children
+Sapric Sulfiwassists
+0
+0
+either
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+2 children
+Typic Sulfiwassists
+0
+0
+0
+0 children
+Aquepts
+
+0
+0
+one or more
+
+0
+one or 
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+either
+
+3:3
+4
+or
+
+4:4
+5
+or
+
+4:4
+6
+or
+
+3:3
+7
+2:2
+8
+8 children
+Gelepts
+
+0
+0
+0
+0 children
+Cryepts
+
+0
+0
+0
+0 children
+Ustepts
+
+0
+0
+0
+0 children
+Xerepts
+
+0
+0
+0
+0 children
+Udepts
+
+0
+0
+0
+0 children
+Sulfaquepts
+
+0
+0
+0
+0 children
+Petraquepts
+
+0
+0
+0
+0 children
+Halaquepts
+
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Fragiaquepts
+
+0
+0
+0
+0 children
+Cryaquepts
+
+0
+0
+0
+0 children
+Vermaquepts
+
+0
+0
+0
+0 children
+Humaquepts
+
+0
+0
+0
+0 children
+Epiaquepts
+
+0
+0
+0
+0 children
+Endoaquepts
+
+0
+0
+0
+0 children
+Sulfic Cryaquepts
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Histic Lithic Cryaquepts
+0
+0
+0
+0 children
+Lithic Cryaquepts
+0
+0
+0
+0 children
+Vertic Cryaquepts
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Histic Cryaquepts
+0
+0
+0
+0 children
+Aquandic Cryaquepts
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+and
+
+2:2
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Fluvaquentic Cryaquepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both 
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Aeric Humic Cryaquepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Aeric Cryaquepts
+0
+0
+0
+0 children
+Humic Cryaquepts
+0
+0
+0
+0 children
+Typic Cryaquepts
+0
+0
+0
+0 children
+Sulfic Endoaquepts
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Lithic Endoaquepts
+0
+0
+0
+0 children
+Vertic Endoaquepts
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquandic Endoaquepts
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+and
+
+2:2
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Fluventic Endoaquepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+one
+
+2:2
+3
+and
+
+3:3
+4
+or
+
+4:4
+5
+or
+
+4:4
+6
+and either
+
+3:3
+7
+or
+
+4:4
+8
+and
+
+4:4
+9
+One or both 
+
+2:2
+10
+or
+
+3:3
+11
+3:3
+12
+12 children
+Fluvaquentic Endoaquepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both 
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Fragic Endoaquepts
+0
+0
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aeric Endoaquepts
+0
+0
+one
+
+0
+and
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+either
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Humic Endoaquepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Mollic Endoaquepts
+0
+0
+0
+0 children
+Typic Endoaquepts
+0
+0
+0
+0 children
+Vertic Epiaquepts
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquandic Epiaquepts
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+and
+
+2:2
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Fluvaquentic Epiaquepts
+0
+0
+all
+
+0
+ and
+
+2:2
+ and
+1
+and
+
+2:2
+2
+One or both
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Fragic Epiaquepts
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aeric Epiaquepts
+0
+0
+one
+
+0
+and
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+either
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Humic Epiaquepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Mollic Epiaquepts
+0
+0
+0
+0 children
+Typic Epiaquepts
+0
+0
+0
+0 children
+Aeric Fragiaquepts
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Humic Fragiaquepts
+0
+0
+0
+0 children
+Typic Fragiaquepts
+0
+0
+0
+0 children
+Lithic Gelaquepts
+0
+0
+0
+0 children
+Histic Gelaquepts
+0
+0
+0
+0 children
+Aquandic Gelaquepts
+0
+0
+one or more 
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+and
+
+2:2
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Fluvaquentic Gelaquepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Humic Gelaquepts
+0
+0
+0
+0 children
+Turbic Gelaquepts
+0
+0
+0
+0 children
+Typic Gelaquepts
+0
+0
+0
+0 children
+Vertic Halaquepts
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquandic Halaquepts
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+and
+
+2:2
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Duric Halaquepts
+0
+0
+0
+0 children
+Aeric Halaquepts
+0
+0
+0
+0 children
+Typic Halaquepts
+0
+0
+0
+0 children
+Hydraquentic Humaquepts
+0
+0
+n
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Histic Humaquepts
+0
+0
+0
+0 children
+Aquandic Humaquepts
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+and
+
+2:2
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Cumulic Humaquepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+2:2
+3
+One or both
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Fluvaquentic Humaquepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Aeric Humaquepts
+0
+0
+0
+0 children
+Typic Humaquepts
+0
+0
+0
+0 children
+Histic Placic Petraquepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Placic Petraquepts
+0
+0
+0
+0 children
+Plinthic Petraquepts
+0
+0
+0
+0 children
+Typic Petraquepts
+0
+0
+0
+0 children
+Salidic Sulfaquepts
+0
+0
+0
+0 children
+Hydraquentic Sulfaquepts
+0
+0
+n
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Typic Sulfaquepts
+0
+0
+0
+0 children
+Sodic Vermaquepts
+0
+0
+0
+0 children
+Typic Vermaquepts
+0
+0
+0
+0 children
+Humicryepts
+
+0
+0
+0
+0 children
+Calcicryepts
+
+0
+0
+0
+0 children
+Dystrocryepts
+
+0
+0
+both
+
+0
+and
+
+2:2
+1
+either:
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Haplocryepts
+
+0
+0
+0
+0 children
+Lithic Calcicryepts
+0
+0
+0
+0 children
+Oxyaquic Calcicryepts
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Xeric Calcicryepts
+0
+0
+0
+0 children
+Ustic Calcicryepts
+0
+0
+0
+0 children
+Typic Calcicryepts
+0
+0
+0
+0 children
+Lithic Dystrocryepts
+0
+0
+0
+0 children
+Aquandic Dystrocryepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or more 
+
+2:2
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+and
+
+3:3
+5
+and
+
+4:4
+6
+4:4
+7
+7 children
+Haploxerandic Dystrocryepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Vitrixerandic Dystrocryepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or both 
+
+2:2
+2
+or
+
+3:3
+3
+and
+
+3:3
+4
+and
+
+4:4
+5
+4:4
+6
+6 children
+Andic Dystrocryepts
+0
+0
+0
+0 children
+Vitrandic Dystrocryepts
+0
+0
+one or both 
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Fluvaquentic Dystrocryepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+2:2
+3
+One or both
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Folistic Dystrocryepts
+0
+0
+0
+0 children
+Aquic Dystrocryepts
+0
+0
+0
+0 children
+Oxyaquic Dystrocryepts
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Lamellic Dystrocryepts
+0
+0
+0
+0 children
+Fluventic Dystrocryepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Spodic Dystrocryepts
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Xeric Dystrocryepts
+0
+0
+0
+0 children
+Ustic Dystrocryepts
+0
+0
+0
+0 children
+Eutric Dystrocryepts
+0
+0
+0
+0 children
+Typic Dystrocryepts
+0
+0
+0
+0 children
+Lithic Haplocryepts
+0
+0
+0
+0 children
+Aquandic Haplocryepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or more 
+
+2:2
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+and
+
+3:3
+5
+and
+
+4:4
+6
+4:4
+7
+7 children
+Haploxerandic Haplocryepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Vitrixerandic Haplocryepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or both 
+
+2:2
+2
+or
+
+3:3
+3
+and
+
+3:3
+4
+and
+
+4:4
+5
+4:4
+6
+6 children
+Haplustandic Haplocryepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Ustivitrandic Haplocryepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or both 
+
+2:2
+2
+or
+
+3:3
+3
+and
+
+3:3
+4
+and
+
+4:4
+5
+4:4
+6
+6 children
+Andic Haplocryepts
+0
+0
+0
+0 children
+Vitrandic Haplocryepts
+0
+0
+one or both 
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Fluvaquentic Haplocryepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+2:2
+3
+One or both
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Aquic Haplocryepts
+0
+0
+0
+0 children
+Oxyaquic Haplocryepts
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Lamellic Haplocryepts
+0
+0
+0
+0 children
+Fluventic Haplocryepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both 
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Calcic Haplocryepts
+0
+0
+0
+0 children
+Xeric Haplocryepts
+0
+0
+0
+0 children
+Ustic Haplocryepts
+0
+0
+0
+0 children
+Typic Haplocryepts
+0
+0
+0
+0 children
+Lithic Humicryepts
+0
+0
+0
+0 children
+Aquandic Humicryepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or more 
+
+2:2
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+and
+
+3:3
+5
+and
+
+4:4
+6
+4:4
+7
+7 children
+Haploxerandic Humicryepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Vitrixerandic Humicryepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or both 
+
+2:2
+2
+or
+
+3:3
+3
+and
+
+3:3
+4
+and
+
+4:4
+5
+4:4
+6
+6 children
+Andic Humicryepts
+0
+0
+0
+0 children
+Vitrandic Humicryepts
+0
+0
+one or both 
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Fluvaquentic Humicryepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+ and
+
+2:2
+ and
+3
+One or both
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Aquic Humicryepts
+0
+0
+0
+0 children
+Oxyaquic Humicryepts
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Lamellic Humicryepts
+0
+0
+0
+0 children
+Fluventic Humicryepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both 
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Spodic Humicryepts
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Xeric Humicryepts
+0
+0
+0
+0 children
+Eutric Humicryepts
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Typic Humicryepts
+0
+0
+0
+0 children
+Humigelepts
+
+0
+0
+0
+0 children
+Dystrogelepts
+
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Haplogelepts
+
+0
+0
+0
+0 children
+Lithic Dystrogelepts
+0
+0
+0
+0 children
+Andic Dystrogelepts
+0
+0
+0
+0 children
+Aquic Dystrogelepts
+0
+0
+0
+0 children
+Fluventic Dystrogelepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Turbic Dystrogelepts
+0
+0
+0
+0 children
+Typic Dystrogelepts
+0
+0
+0
+0 children
+Lithic Haplogelepts
+0
+0
+0
+0 children
+Andic Haplogelepts
+0
+0
+0
+0 children
+Aquic Haplogelepts
+0
+0
+0
+0 children
+Fluventic Haplogelepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Turbic Haplogelepts
+0
+0
+0
+0 children
+Typic Haplogelepts
+0
+0
+0
+0 children
+Lithic Humigelepts
+0
+0
+0
+0 children
+Andic Humigelepts
+0
+0
+0
+0 children
+Aquic Humigelepts
+0
+0
+0
+0 children
+Oxyaquic Humigelepts
+0
+0
+either or both
+
+0
+or 
+
+2:2
+1
+2:2
+2
+2 children
+Fluventic Humigelepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Turbic Humigelepts
+0
+0
+0
+0 children
+Eutric Humigelepts
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Typic Humigelepts
+0
+0
+0
+0 children
+Sulfudepts
+
+0
+0
+0
+0 children
+Durudepts
+
+0
+0
+0
+0 children
+Fragiudepts
+
+0
+0
+0
+0 children
+Humudepts
+
+0
+0
+0
+0 children
+Eutrudepts
+
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Dystrudepts
+
+0
+0
+0
+0 children
+Aquandic Durudepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or more
+
+2:2
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+and
+
+3:3
+5
+and
+
+4:4
+6
+4:4
+7
+7 children
+Andic Durudepts
+0
+0
+0
+0 children
+Vitrandic Durudepts
+0
+0
+one or 
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Durudepts
+0
+0
+0
+0 children
+Typic Durudepts
+0
+0
+0
+0 children
+Humic Lithic Dystrudepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Dystrudepts
+0
+0
+0
+0 children
+Vertic Dystrudepts
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquandic Dystrudepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or more
+
+2:2
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+and
+
+3:3
+5
+and
+
+4:4
+6
+4:4
+7
+7 children
+Andic Oxyaquic Dystrudepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+either or both:
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Andic Dystrudepts
+0
+0
+0
+0 children
+Vitrandic Dystrudepts
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Fragiaquic Dystrudepts
+0
+0
+both
+
+0
+either
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+2:2
+4
+4 children
+Fluvaquentic Dystrudepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+2:2
+3
+One or both 
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Aquic Humic Dystrudepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Dystrudepts
+0
+0
+0
+0 children
+Oxyaquic Dystrudepts
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Fragic Dystrudepts
+0
+0
+eithe
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Lamellic Dystrudepts
+0
+0
+0
+0 children
+Humic Psammentic Dystrudepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Fluventic Humic Dystrudepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+2:2
+3
+One or both 
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Fluventic Dystrudepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both 
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Spodic Dystrudepts
+0
+0
+one or more
+
+0
+ or
+
+2:2
+ or
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Oxic Dystrudepts
+0
+0
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Ruptic-Alfic Dystrudepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Ruptic-Ultic Dystrudepts
+0
+0
+0
+0 children
+Humic Dystrudepts
+0
+0
+0
+0 children
+Typic Dystrudepts
+0
+0
+0
+0 children
+Humic Lithic Eutrudepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Eutrudepts
+0
+0
+0
+0 children
+Aquertic Eutrudepts
+0
+0
+both
+
+0
+One or both
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+2:2
+4
+4 children
+Vertic Eutrudepts
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Andic Eutrudepts
+0
+0
+0
+0 children
+Vitrandic Eutrudepts
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Anthraquic Eutrudepts
+0
+0
+0
+0 children
+Fragiaquic Eutrudepts
+0
+0
+both
+
+0
+either
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+2:2
+4
+4 children
+Fluvaquentic Eutrudepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+2:2
+3
+One or both 
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Aquic Dystric Eutrudepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Eutrudepts
+0
+0
+0
+0 children
+Oxyaquic Eutrudepts
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Fragic Eutrudepts
+0
+0
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Lamellic Eutrudepts
+0
+0
+0
+0 children
+Dystric Fluventic Eutrudepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Fluventic Eutrudepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Arenic Eutrudepts
+0
+0
+0
+0 children
+Dystric Eutrudepts
+0
+0
+0
+0 children
+Rendollic Eutrudepts
+0
+0
+0
+0 children
+Ruptic-Alfic Eutrudepts
+0
+0
+0
+0 children
+Humic Eutrudepts
+0
+0
+0
+0 children
+Typic Eutrudepts
+0
+0
+0
+0 children
+Andic Fragiudepts
+0
+0
+0
+0 children
+Vitrandic Fragiudepts
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Fragiudepts
+0
+0
+0
+0 children
+Humic Fragiudepts
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Typic Fragiudepts
+0
+0
+0
+0 children
+Vertic Humudepts
+0
+0
+one or both
+
+0
+ or
+
+2:2
+ or
+1
+2:2
+2
+2 children
+Aquandic Humudepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or more
+
+2:2
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+and
+
+3:3
+5
+and
+
+4:4
+6
+4:4
+7
+7 children
+Andic Oxyaquic Humudepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+either or both
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Andic Humudepts
+0
+0
+0
+0 children
+Vitrandic Humudepts
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+ and
+
+2:2
+ and
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Fluvaquentic Humudepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+ and
+
+2:2
+ and
+3
+One or both
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Aquic Humudepts
+0
+0
+0
+0 children
+Oxyaquic Humudepts
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Psammentic Humudepts
+0
+0
+0
+0 children
+Oxic Humudepts
+0
+0
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Cumulic Humudepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+2:2
+3
+One or both
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Fluventic Humudepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Pachic Humudepts
+0
+0
+0
+0 children
+Eutric Humudepts
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Entic Humudepts
+0
+0
+0
+0 children
+Typic Humudepts
+0
+0
+0
+0 children
+Typic Sulfudepts
+0
+0
+0
+0 children
+Durustepts
+
+0
+0
+0
+0 children
+Calciustepts
+
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Dystrustepts
+
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Haplustepts
+
+0
+0
+0
+0 children
+Lithic Petrocalcic Calciustepts
+0
+0
+0
+0 children
+Lithic Calciustepts
+0
+0
+0
+0 children
+Torrertic Calciustepts
+0
+0
+both
+
+0
+One or both
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+one
+
+2:2
+4
+or
+
+3:3
+5
+or
+
+3:3
+6
+iso
+
+3:3
+7
+and
+
+4:4
+8
+4:4
+9
+9 children
+Vertic Calciustepts
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Petrocalcic Calciustepts
+0
+0
+0
+0 children
+Gypsic Calciustepts
+0
+0
+0
+0 children
+Aquic Calciustepts
+0
+0
+0
+0 children
+Aridic Calciustepts
+0
+0
+one
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+iso
+
+2:2
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Udic Calciustepts
+0
+0
+either
+
+0
+or
+
+2:2
+1
+iso
+
+2:2
+2
+2 children
+Typic Calciustepts
+0
+0
+0
+0 children
+Typic Durustepts
+0
+0
+0
+0 children
+Lithic Dystrustepts
+0
+0
+0
+0 children
+Torrertic Dystrustepts
+0
+0
+both:
+
+0
+one
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+iso
+
+3:3
+4
+and
+
+4:4
+5
+and
+
+4:4
+6
+One or both
+
+2:2
+7
+or
+
+3:3
+8
+3:3
+9
+9 children
+Vertic Dystrustepts
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Andic Dystrustepts
+0
+0
+0
+0 children
+Vitrandic Dystrustepts
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Dystrustepts
+0
+0
+0
+0 children
+Fluventic Dystrustepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both 
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Aridic Dystrustepts
+0
+0
+one
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+iso
+
+2:2
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Oxic Dystrustepts
+0
+0
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Humic Dystrustepts
+0
+0
+0
+0 children
+Typic Dystrustepts
+0
+0
+0
+0 children
+Aridic Lithic Haplustepts
+0
+0
+0
+and
+
+2:2
+1
+either
+
+2:2
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+iso
+
+3:3
+5
+and
+
+4:4
+6
+4:4
+7
+7 children
+Lithic Haplustepts
+0
+0
+0
+0 children
+Udertic Haplustepts
+0
+0
+both
+
+0
+one
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+iso
+
+3:3
+4
+One or both
+
+2:2
+5
+or
+
+3:3
+6
+3:3
+7
+7 children
+Torrertic Haplustepts
+0
+0
+both
+
+0
+one
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+iso
+
+3:3
+4
+and
+
+4:4
+5
+and
+
+4:4
+6
+One or both
+
+2:2
+7
+or
+
+3:3
+8
+3:3
+9
+9 children
+Vertic Haplustepts
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Andic Haplustepts
+0
+0
+0
+0 children
+Vitrandic Haplustepts
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Anthraquic Haplustepts
+0
+0
+0
+0 children
+Aquic Haplustepts
+0
+0
+0
+0 children
+Oxyaquic Haplustepts
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Oxic Haplustepts
+0
+0
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Lamellic Haplustepts
+0
+0
+0
+0 children
+Torrifluventic Haplustepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+one
+
+2:2
+3
+or
+
+3:3
+4
+or
+
+3:3
+5
+iso
+
+3:3
+6
+and
+
+4:4
+7
+and
+
+4:4
+8
+One or both 
+
+2:2
+9
+or
+
+3:3
+10
+3:3
+11
+11 children
+Udifluventic Haplustepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+one
+
+2:2
+3
+or
+
+3:3
+4
+or
+
+3:3
+5
+iso
+
+3:3
+6
+One or both 
+
+2:2
+7
+or
+
+3:3
+8
+3:3
+9
+9 children
+Fluventic Haplustepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both 
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Gypsic Haplustepts
+0
+0
+0
+0 children
+Haplocalcidic Haplustepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one
+
+2:2
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+iso
+
+3:3
+5
+and
+
+4:4
+6
+4:4
+7
+7 children
+Calcic Udic Haplustepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one
+
+2:2
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+iso
+
+3:3
+5
+5 children
+Calcic Haplustepts
+0
+0
+0
+0 children
+Aridic Haplustepts
+0
+0
+one
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+iso
+
+2:2
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Dystric Haplustepts
+0
+0
+0
+0 children
+Udic Haplustepts
+0
+0
+one
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+iso
+
+2:2
+3
+3 children
+Typic Haplustepts
+0
+0
+0
+0 children
+Lithic Humustepts
+0
+0
+0
+0 children
+Andic Humustepts
+0
+0
+0
+0 children
+Vitrandic Humustepts
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Oxyaquic Humustepts
+0
+0
+either or both
+
+0
+ or
+
+2:2
+ or
+1
+2:2
+2
+2 children
+Oxic Humustepts
+0
+0
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aridic Humustepts
+0
+0
+one 
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+iso
+
+2:2
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Typic Humustepts
+0
+0
+0
+0 children
+Durixerepts
+
+0
+0
+0
+0 children
+Fragixerepts
+
+0
+0
+0
+0 children
+Humixerepts
+
+0
+0
+0
+0 children
+Calcixerepts
+
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Dystroxerepts
+
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Haploxerepts
+
+0
+0
+0
+0 children
+Lithic Calcixerepts
+0
+0
+0
+0 children
+Vertic Calcixerepts
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Petrocalcic Calcixerepts
+0
+0
+0
+0 children
+Sodic Calcixerepts
+0
+0
+0
+0 children
+Vitrandic Calcixerepts
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Calcixerepts
+0
+0
+0
+0 children
+Typic Calcixerepts
+0
+0
+0
+0 children
+Aquandic Durixerepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or more
+
+2:2
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+and
+
+3:3
+5
+and
+
+4:4
+6
+4:4
+7
+7 children
+Andic Durixerepts
+0
+0
+0
+0 children
+Vitrandic Durixerepts
+0
+0
+one or 
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Durixerepts
+0
+0
+0
+0 children
+Entic Durixerepts
+0
+0
+0
+0 children
+Typic Durixerepts
+0
+0
+0
+0 children
+Humic Lithic Dystroxerepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Dystroxerepts
+0
+0
+0
+0 children
+Aquandic Dystroxerepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or more
+
+2:2
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+and
+
+3:3
+5
+and
+
+4:4
+6
+4:4
+7
+7 children
+Andic Dystroxerepts
+0
+0
+0
+0 children
+Vitrandic Dystroxerepts
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Fragiaquic Dystroxerepts
+0
+0
+both
+
+0
+either
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+2:2
+4
+4 children
+Fluvaquentic Dystroxerepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+2:2
+3
+One or both 
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Aquic Dystroxerepts
+0
+0
+0
+0 children
+Oxyaquic Dystroxerepts
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Fragic Dystroxerepts
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Fluventic Humic Dystroxerepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+2:2
+3
+One or both 
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Fluventic Dystroxerepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both 
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Humic Dystroxerepts
+0
+0
+0
+0 children
+Typic Dystroxerepts
+0
+0
+0
+0 children
+Andic Fragixerepts
+0
+0
+0
+0 children
+Vitrandic Fragixerepts
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Fragixerepts
+0
+0
+0
+0 children
+Humic Fragixerepts
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Typic Fragixerepts
+0
+0
+0
+0 children
+Humic Lithic Haploxerepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Haploxerepts
+0
+0
+0
+0 children
+Vertic Haploxerepts
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquandic Haploxerepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or more
+
+2:2
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+and
+
+3:3
+5
+and
+
+4:4
+6
+4:4
+7
+7 children
+Andic Oxyaquic Haploxerepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+either or both:
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Andic Haploxerepts
+0
+0
+0
+0 children
+Oxyaquic Vitrandic Haploxerepts
+0
+0
+both
+
+0
+either or both:
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+one or more
+
+2:2
+4
+or
+
+3:3
+5
+and
+
+3:3
+6
+and
+
+4:4
+7
+4:4
+8
+8 children
+Vitrandic Haploxerepts
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Gypsic Haploxerepts
+0
+0
+0
+0 children
+Aquic Haploxerepts
+0
+0
+0
+0 children
+Lamellic Haploxerepts
+0
+0
+0
+0 children
+Fragic Haploxerepts
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Fluventic Haploxerepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both 
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Calcic Haploxerepts
+0
+0
+one
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Humic Haploxerepts
+0
+0
+0
+0 children
+Typic Haploxerepts
+0
+0
+0
+0 children
+Lithic Humixerepts
+0
+0
+0
+0 children
+Aquandic Humixerepts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or more
+
+2:2
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+and
+
+3:3
+5
+and
+
+4:4
+6
+4:4
+7
+7 children
+Andic Humixerepts
+0
+0
+0
+0 children
+Vitrandic Humixerepts
+0
+0
+one or both
+
+0
+ or
+
+2:2
+ or
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Humixerepts
+0
+0
+0
+0 children
+Oxyaquic Humixerepts
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Cumulic Humixerepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+ and
+
+2:2
+ and
+3
+One or both
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Fluventic Humixerepts
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Pachic Humixerepts
+0
+0
+0
+0 children
+Entic Humixerepts
+0
+0
+0
+0 children
+Typic Humixerepts
+0
+0
+0
+0 children
+Albolls
+
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+2:2
+3
+2:2
+4
+4 children
+CHAPTER 12
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+or
+
+2:2
+3
+or
+
+2:2
+4
+One
+
+2:2
+5
+and either
+
+3:3
+6
+or
+
+4:4
+7
+one
+
+4:4
+8
+or
+
+5:5
+9
+or
+
+5:5
+10
+or
+
+5:5
+11
+or
+
+5:5
+12
+or
+
+5:5
+13
+or
+
+5:5
+14
+or
+
+5:5
+15
+and either
+
+3:3
+16
+or
+
+4:4
+17
+one
+
+4:4
+18
+or
+
+5:5
+19
+or
+
+5:5
+20
+or
+
+5:5
+21
+<b>Mollisols</b>
+
+2:2
+22
+22 children
+Rendolls
+
+0
+0
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+2:2
+3
+either or both
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Gelolls
+
+0
+0
+0
+0 children
+Cryolls
+
+0
+0
+0
+0 children
+Xerolls
+
+0
+0
+0
+0 children
+Ustolls
+
+0
+0
+0
+0 children
+Udolls
+
+0
+0
+0
+0 children
+Natralbolls
+
+0
+0
+0
+0 children
+Argialbolls
+
+0
+0
+0
+0 children
+Xerertic Argialbolls
+0
+0
+both
+
+0
+One or both
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+2:2
+4
+4 children
+Vertic Argialbolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Argiaquic Xeric Argialbolls
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Argiaquic Argialbolls
+0
+0
+0
+0 children
+Xeric Argialbolls
+0
+0
+0
+0 children
+Aquandic Argialbolls
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+and
+
+2:2
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Typic Argialbolls
+0
+0
+0
+0 children
+Leptic Natralbolls
+0
+0
+0
+0 children
+Typic Natralbolls
+0
+0
+0
+0 children
+Cryaquolls
+
+0
+0
+0
+0 children
+Duraquolls
+
+0
+0
+0
+0 children
+Natraquolls
+
+0
+0
+0
+0 children
+Calciaquolls
+
+0
+0
+0
+0 children
+Argiaquolls
+
+0
+0
+0
+0 children
+Epiaquolls
+
+0
+0
+0
+0 children
+Endoaquolls
+
+0
+0
+0
+0 children
+Arenic Argiaquolls
+0
+0
+0
+0 children
+Grossarenic Argiaquolls
+0
+0
+0
+0 children
+Vertic Argiaquolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Abruptic Argiaquolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Typic Argiaquolls
+0
+0
+0
+0 children
+Petrocalcic Calciaquolls
+0
+0
+0
+0 children
+Aeric Calciaquolls
+0
+0
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Typic Calciaquolls
+0
+0
+0
+0 children
+Vertic Cryaquolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Histic Cryaquolls
+0
+0
+0
+0 children
+Thapto-Histic Cryaquolls
+0
+0
+0
+0 children
+Aquandic Cryaquolls
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+and
+
+2:2
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Argic Cryaquolls
+0
+0
+0
+0 children
+Calcic Cryaquolls
+0
+0
+0
+0 children
+Cumulic Cryaquolls
+0
+0
+0
+0 children
+Typic Cryaquolls
+0
+0
+0
+0 children
+Natric Duraquolls
+0
+0
+0
+0 children
+Vertic Duraquolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Argic Duraquolls
+0
+0
+0
+0 children
+Typic Duraquolls
+0
+0
+0
+0 children
+Lithic Endoaquolls
+0
+0
+0
+0 children
+Cumulic Vertic Endoaquolls
+0
+0
+both 
+
+0
+and
+
+2:2
+1
+One or both
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Fluvaquentic Vertic Endoaquolls
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both
+
+2:2
+3
+or
+
+3:3
+4
+and
+
+3:3
+5
+One or both
+
+2:2
+6
+or
+
+3:3
+7
+3:3
+8
+8 children
+Vertic Endoaquolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Histic Endoaquolls
+0
+0
+0
+0 children
+Thapto-Histic Endoaquolls
+0
+0
+0
+0 children
+Aquandic Endoaquolls
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+and
+
+2:2
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Duric Endoaquolls
+0
+0
+0
+0 children
+Cumulic Endoaquolls
+0
+0
+0
+0 children
+Fluvaquentic Endoaquolls
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Typic Endoaquolls
+0
+0
+0
+0 children
+Cumulic Vertic Epiaquolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+One or both
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Fluvaquentic Vertic Epiaquolls
+0
+0
+all 
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both
+
+2:2
+3
+or
+
+3:3
+4
+and
+
+3:3
+5
+One or both
+
+2:2
+6
+or
+
+3:3
+7
+3:3
+8
+8 children
+Vertic Epiaquolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Histic Epiaquolls
+0
+0
+0
+0 children
+Thapto-Histic Epiaquolls
+0
+0
+0
+0 children
+Aquandic Epiaquolls
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+and
+
+2:2
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Duric Epiaquolls
+0
+0
+0
+0 children
+Cumulic Epiaquolls
+0
+0
+0
+0 children
+Fluvaquentic Epiaquolls
+0
+0
+all 
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Typic Epiaquolls
+0
+0
+0
+0 children
+Petrocalcic Natraquolls
+0
+0
+0
+0 children
+Vertic Natraquolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Glossic Natraquolls
+0
+0
+0
+0 children
+Typic Natraquolls
+0
+0
+0
+0 children
+Duricryolls
+
+0
+0
+0
+0 children
+Natricryolls
+
+0
+0
+0
+0 children
+Palecryolls
+
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Argicryolls
+
+0
+0
+0
+0 children
+Calcicryolls
+
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Haplocryolls
+
+0
+0
+0
+0 children
+Lithic Argicryolls
+0
+0
+0
+0 children
+Vertic Argicryolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Andic Argicryolls
+0
+0
+0
+0 children
+Vitrandic Argicryolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Abruptic Argicryolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Argicryolls
+0
+0
+0
+0 children
+Oxyaquic Argicryolls
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Calcic Pachic Argicryolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Pachic Argicryolls
+0
+0
+0
+0 children
+Calcic Argicryolls
+0
+0
+0
+0 children
+Alfic Argicryolls
+0
+0
+either
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2 children
+Ustic Argicryolls
+0
+0
+0
+0 children
+Xeric Argicryolls
+0
+0
+0
+0 children
+Typic Argicryolls
+0
+0
+0
+0 children
+Lithic Calcicryolls
+0
+0
+0
+0 children
+Vitrandic Calcicryolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+ 
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Petrocalcic Calcicryolls
+0
+0
+0
+0 children
+Pachic Calcicryolls
+0
+0
+0
+0 children
+Ustic Calcicryolls
+0
+0
+0
+0 children
+Xeric Calcicryolls
+0
+0
+0
+0 children
+Typic Calcicryolls
+0
+0
+0
+0 children
+Argic Duricryolls
+0
+0
+0
+0 children
+Calcic Duricryolls
+0
+0
+0
+0 children
+Typic Duricryolls
+0
+0
+0
+0 children
+Lithic Haplocryolls
+0
+0
+0
+0 children
+Vertic Haplocryolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Andic Haplocryolls
+0
+0
+0
+0 children
+Vitrandic Haplocryolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Cumulic Haplocryolls
+0
+0
+all 
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+2:2
+3
+and
+
+2:2
+4
+2:2
+5
+5 children
+Cumulic Haplocryolls
+0
+0
+all 
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+2:2
+3
+2:2
+4
+4 children
+Fluvaquentic Haplocryolls
+0
+0
+all 
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+or
+
+3:3
+3
+and
+
+3:3
+4
+2:2
+5
+5 children
+Aquic Haplocryolls
+0
+0
+0
+0 children
+Oxyaquic Haplocryolls
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Calcic Pachic Haplocryolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Pachic Haplocryolls
+0
+0
+0
+0 children
+Fluventic Haplocryolls
+0
+0
+all 
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Calcic Haplocryolls
+0
+0
+0
+0 children
+Ustic Haplocryolls
+0
+0
+0
+0 children
+Xeric Haplocryolls
+0
+0
+0
+0 children
+Typic Haplocryolls
+0
+0
+0
+0 children
+Typic Natricryolls
+0
+0
+0
+0 children
+Aquic Palecryolls
+0
+0
+0
+0 children
+Oxyaquic Palecryolls
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Abruptic Palecryolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Pachic Palecryolls
+0
+0
+0
+0 children
+Ustic Palecryolls
+0
+0
+0
+0 children
+Xeric Palecryolls
+0
+0
+0
+0 children
+Typic Palecryolls
+0
+0
+0
+0 children
+Haplogelolls
+
+0
+0
+0
+0 children
+Lithic Haplogelolls
+0
+0
+0
+0 children
+Andic Haplogelolls
+0
+0
+0
+0 children
+Aquic Haplogelolls
+0
+0
+0
+0 children
+Oxyaquic Haplogelolls
+0
+0
+either or both
+
+0
+2:2
+1
+2:2
+2
+2 children
+Turbic Haplogelolls
+0
+0
+0
+0 children
+Cumulic Haplogelolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Typic Haplogelolls
+0
+0
+0
+0 children
+Cryrendolls
+
+0
+0
+0
+0 children
+Haprendolls
+
+0
+0
+0
+0 children
+Lithic Cryrendolls
+0
+0
+0
+0 children
+Typic Cryrendolls
+0
+0
+0
+0 children
+Lithic Haprendolls
+0
+0
+0
+0 children
+Vertic Haprendolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Inceptic Haprendolls
+0
+0
+0
+0 children
+Entic Haprendolls
+0
+0
+0
+0 children
+Typic Haprendolls
+0
+0
+0
+0 children
+Natrudolls
+
+0
+0
+0
+0 children
+Calciudolls
+
+0
+0
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Paleudolls
+
+0
+0
+one or both
+
+0
+All
+
+2:2
+1
+and
+
+3:3
+2
+and
+
+3:3
+3
+one or more
+
+3:3
+4
+or
+
+4:4
+5
+or
+
+4:4
+6
+or
+
+4:4
+7
+ both
+
+2:2
+8
+and
+
+3:3
+9
+3:3
+10
+10 children
+Argiudolls
+
+0
+0
+0
+0 children
+Vermudolls
+
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Hapludolls
+
+0
+0
+0
+0 children
+Lithic Argiudolls
+0
+0
+0
+0 children
+Petrocalcic Argiudolls
+0
+0
+0
+0 children
+Aquertic Argiudolls
+0
+0
+both
+
+0
+either
+
+2:2
+1
+or
+
+3:3
+2
+one or more
+
+3:3
+3
+or
+
+4:4
+4
+or
+
+4:4
+5
+and
+
+4:4
+6
+One or both
+
+2:2
+7
+or
+
+3:3
+8
+3:3
+9
+9 children
+Oxyaquic Vertic Argiudolls
+0
+0
+both
+
+0
+either or 
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+One or both
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Pachic Vertic Argiudolls
+0
+0
+ both
+
+0
+ either:
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+One or both
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Alfic Vertic Argiudolls
+0
+0
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+One or both
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Vertic Argiudolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Andic Argiudolls
+0
+0
+0
+0 children
+Vitrandic Argiudolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Pachic Argiudolls
+0
+0
+both
+
+0
+either
+
+2:2
+1
+or
+
+3:3
+2
+one or more
+
+3:3
+3
+or
+
+4:4
+4
+or
+
+4:4
+5
+and
+
+4:4
+6
+ either:
+
+2:2
+7
+or
+
+3:3
+8
+3:3
+9
+9 children
+Pachic Argiudolls
+0
+0
+ either:
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Argiudolls
+0
+0
+either
+
+0
+or
+
+2:2
+1
+one or more 
+
+2:2
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Oxyaquic Argiudolls
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Lamellic Argiudolls
+0
+0
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+either
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Psammentic Argiudolls
+0
+0
+0
+0 children
+Arenic Argiudolls
+0
+0
+0
+0 children
+Abruptic Argiudolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Alfic Argiudolls
+0
+0
+ either
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2 children
+Oxic Argiudolls
+0
+0
+0
+0 children
+Calcic Argiudolls
+0
+0
+0
+0 children
+Typic Argiudolls
+0
+0
+0
+0 children
+Lithic Calciudolls
+0
+0
+0
+0 children
+Vertic Calciudolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Anthropic Petrocalcic Calciudolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Calciudolls
+0
+0
+0
+0 children
+Fluventic Calciudolls
+0
+0
+all 
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Typic Calciudolls
+0
+0
+0
+0 children
+Lithic Hapludolls
+0
+0
+0
+0 children
+Petrocalcic Hapludolls
+0
+0
+0
+0 children
+Aquertic Hapludolls
+0
+0
+both
+
+0
+either
+
+2:2
+1
+or
+
+3:3
+2
+one or more
+
+3:3
+3
+or
+
+4:4
+4
+or
+
+4:4
+5
+and
+
+4:4
+6
+One or both
+
+2:2
+7
+or
+
+3:3
+8
+3:3
+9
+9 children
+Pachic Vertic Hapludolls
+0
+0
+both
+
+0
+ either:
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+One or both
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Vertic Hapludolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Andic Hapludolls
+0
+0
+0
+0 children
+Vitrandic Hapludolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Cumulic Hapludolls
+0
+0
+all 
+
+0
+and
+
+2:2
+1
+Either
+
+2:2
+2
+or
+
+3:3
+3
+and
+
+3:3
+4
+and
+
+2:2
+5
+and
+
+2:2
+6
+One or both
+
+2:2
+7
+ or
+
+3:3
+ or
+8
+3:3
+9
+9 children
+Cumulic Hapludolls
+0
+0
+all
+
+0
+Either
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+and
+
+2:2
+4
+and
+
+2:2
+5
+One or both
+
+2:2
+6
+ or
+
+3:3
+ or
+7
+3:3
+8
+8 children
+Fluvaquentic Hapludolls
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+either
+
+2:2
+3
+or
+
+3:3
+4
+one or more
+
+3:3
+5
+or
+
+4:4
+6
+or
+
+4:4
+7
+and
+
+4:4
+8
+One or both
+
+2:2
+9
+or
+
+3:3
+10
+3:3
+11
+11 children
+Fluventic Hapludolls
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Aquic Pachic Hapludolls
+0
+0
+both
+
+0
+either
+
+2:2
+1
+or
+
+3:3
+2
+one or more
+
+3:3
+3
+or
+
+4:4
+4
+or
+
+4:4
+5
+and
+
+4:4
+6
+ either
+
+2:2
+7
+or
+
+3:3
+8
+3:3
+9
+9 children
+Pachic Hapludolls
+0
+0
+ either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Hapludolls
+0
+0
+either
+
+0
+or
+
+2:2
+1
+one or more 
+
+2:2
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Oxyaquic Hapludolls
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Vermic Hapludolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Calcic Hapludolls
+0
+0
+0
+0 children
+Entic Hapludolls
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Typic Hapludolls
+0
+0
+0
+0 children
+Petrocalcic Natrudolls
+0
+0
+0
+0 children
+Leptic Vertic Natrudolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+One or both
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Glossic Vertic Natrudolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+One or both
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Vertic Natrudolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Leptic Natrudolls
+0
+0
+0
+0 children
+Abruptic Natrudolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Glossic Natrudolls
+0
+0
+0
+0 children
+Calcic Natrudolls
+0
+0
+0
+0 children
+Typic Natrudolls
+0
+0
+0
+0 children
+Vertic Paleudolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Pachic Paleudolls
+0
+0
+both
+
+0
+either
+
+2:2
+1
+or
+
+3:3
+2
+one or more
+
+3:3
+3
+or
+
+4:4
+4
+or
+
+4:4
+5
+and
+
+4:4
+6
+ either:
+
+2:2
+7
+or
+
+3:3
+8
+3:3
+9
+9 children
+Pachic Paleudolls
+0
+0
+0
+0 children
+Aquic Paleudolls
+0
+0
+0
+0 children
+Oxyaquic Paleudolls
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Calcic Paleudolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Typic Paleudolls
+0
+0
+0
+0 children
+Lithic Vermudolls
+0
+0
+0
+0 children
+Haplic Vermudolls
+0
+0
+0
+0 children
+Typic Vermudolls
+0
+0
+0
+0 children
+Durustolls
+
+0
+0
+0
+0 children
+Natrustolls
+
+0
+0
+0
+0 children
+Calciustolls
+
+0
+0
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Paleustolls
+
+0
+0
+either
+
+0
+or
+
+2:2
+1
+one or both
+
+2:2
+2
+and either
+
+3:3
+3
+or
+
+4:4
+4
+or
+
+4:4
+5
+one or both
+
+3:3
+6
+or
+
+4:4
+7
+4:4
+8
+8 children
+Argiustolls
+
+0
+0
+0
+0 children
+Vermustolls
+
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Haplustolls
+
+0
+0
+0
+0 children
+Aridic Lithic Argiustolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one
+
+2:2
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+iso
+
+3:3
+5
+and
+
+4:4
+6
+4:4
+7
+7 children
+Alfic Lithic Argiustolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Argiustolls
+0
+0
+0
+0 children
+Aquertic Argiustolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+One or both
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Torrertic Argiustolls
+0
+0
+both
+
+0
+one
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+iso
+
+3:3
+4
+and
+
+4:4
+5
+and
+
+4:4
+6
+One or both
+
+2:2
+7
+or
+
+3:3
+8
+3:3
+9
+9 children
+Pachic Udertic Argiustolls
+0
+0
+all 
+
+0
+ either:
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+either:
+
+2:2
+4
+or
+
+3:3
+5
+iso
+
+3:3
+6
+One or both
+
+2:2
+7
+or
+
+3:3
+8
+3:3
+9
+9 children
+Udertic Argiustolls
+0
+0
+both
+
+0
+either
+
+2:2
+1
+or
+
+3:3
+2
+iso
+
+3:3
+3
+One or both
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Pachic Vertic Argiustolls
+0
+0
+both
+
+0
+ either:
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+One or both
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Vertic Argiustolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Andic Argiustolls
+0
+0
+0
+0 children
+Vitritorrandic Argiustolls
+0
+0
+both
+
+0
+one
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+iso
+
+3:3
+4
+and
+
+4:4
+5
+and
+
+4:4
+6
+one or both
+
+2:2
+7
+or
+
+3:3
+8
+and
+
+3:3
+9
+and
+
+4:4
+10
+4:4
+11
+11 children
+Vitrandic Argiustolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Argiustolls
+0
+0
+0
+0 children
+Oxyaquic Argiustolls
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Pachic Argiustolls
+0
+0
+ either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Alfic Argiustolls
+0
+0
+either
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2 children
+Calcidic Argiustolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one
+
+2:2
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+iso
+
+3:3
+5
+and
+
+4:4
+6
+4:4
+7
+7 children
+Aridic Argiustolls
+0
+0
+one
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+iso
+
+2:2
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Udic Argiustolls
+0
+0
+either
+
+0
+or
+
+2:2
+1
+iso
+
+2:2
+2
+2 children
+Duric Argiustolls
+0
+0
+0
+0 children
+Typic Argiustolls
+0
+0
+0
+0 children
+Salidic Calciustolls
+0
+0
+0
+0 children
+Lithic Petrocalcic Calciustolls
+0
+0
+0
+0 children
+Lithic Calciustolls
+0
+0
+0
+0 children
+Torrertic Calciustolls
+0
+0
+both
+
+0
+one
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+iso
+
+3:3
+4
+and
+
+4:4
+5
+and
+
+4:4
+6
+One or both
+
+2:2
+7
+or
+
+3:3
+8
+3:3
+9
+9 children
+Udertic Calciustolls
+0
+0
+both
+
+0
+either
+
+2:2
+1
+or
+
+3:3
+2
+iso
+
+3:3
+3
+One or both
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Vertic Calciustolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Petrocalcic Calciustolls
+0
+0
+0
+0 children
+Gypsic Calciustolls
+0
+0
+0
+0 children
+Aquic Calciustolls
+0
+0
+0
+0 children
+Oxyaquic Calciustolls
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Pachic Calciustolls
+0
+0
+ either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aridic Calciustolls
+0
+0
+one
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+iso
+
+2:2
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Udic Calciustolls
+0
+0
+either
+
+0
+or
+
+2:2
+1
+iso
+
+2:2
+2
+2 children
+Typic Calciustolls
+0
+0
+0
+0 children
+Natric Durustolls
+0
+0
+0
+0 children
+Haploduridic Durustolls
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Argiduridic Durustolls
+0
+0
+0
+0 children
+Entic Durustolls
+0
+0
+0
+0 children
+Haplic Durustolls
+0
+0
+0
+0 children
+Typic Durustolls
+0
+0
+0
+0 children
+Salidic Haplustolls
+0
+0
+0
+0 children
+Ruptic-Lithic Haplustolls
+0
+0
+0
+0 children
+Aridic Lithic Haplustolls
+0
+0
+both
+
+0
+one
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+iso
+
+3:3
+4
+and
+
+4:4
+5
+and
+
+4:4
+6
+2:2
+7
+7 children
+Lithic Haplustolls
+0
+0
+0
+0 children
+Aquertic Haplustolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+One or both
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Torrertic Haplustolls
+0
+0
+both
+
+0
+one
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+iso
+
+3:3
+4
+and
+
+4:4
+5
+and
+
+4:4
+6
+One or both
+
+2:2
+7
+or
+
+3:3
+8
+3:3
+9
+9 children
+Pachic Udertic Haplustolls
+0
+0
+all
+
+0
+ either
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+either
+
+2:2
+4
+or
+
+3:3
+5
+iso
+
+3:3
+6
+One or both
+
+2:2
+7
+or
+
+3:3
+8
+3:3
+9
+9 children
+Udertic Haplustolls
+0
+0
+both
+
+0
+either
+
+2:2
+1
+or
+
+3:3
+2
+iso
+
+3:3
+3
+One or both
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Pachic Vertic Haplustolls
+0
+0
+both
+
+0
+ either
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+One or both
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Vertic Haplustolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Torroxic Haplustolls
+0
+0
+both
+
+0
+one
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+iso
+
+3:3
+4
+2:2
+5
+5 children
+Oxic Haplustolls
+0
+0
+0
+0 children
+Andic Haplustolls
+0
+0
+0
+0 children
+Vitritorrandic Haplustolls
+0
+0
+both
+
+0
+one
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+iso
+
+3:3
+4
+and
+
+4:4
+5
+and
+
+4:4
+6
+one or both
+
+2:2
+7
+or
+
+3:3
+8
+and
+
+3:3
+9
+and
+
+4:4
+10
+4:4
+11
+11 children
+Vitrandic Haplustolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Cumulic Haplustolls
+0
+0
+all 
+
+0
+and
+
+2:2
+1
+Either
+
+2:2
+2
+or
+
+3:3
+3
+and
+
+3:3
+4
+and
+
+2:2
+5
+and
+
+2:2
+6
+One or both
+
+2:2
+7
+or
+
+3:3
+8
+3:3
+9
+9 children
+Cumulic Haplustolls
+0
+0
+all 
+
+0
+Either
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+and
+
+2:2
+4
+and
+
+2:2
+5
+One or both
+
+2:2
+6
+or
+
+3:3
+7
+3:3
+8
+8 children
+Anthraquic Haplustolls
+0
+0
+0
+0 children
+Fluvaquentic Haplustolls
+0
+0
+all 
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+2:2
+3
+One or both
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Aquic Haplustolls
+0
+0
+0
+0 children
+Pachic Haplustolls
+0
+0
+ either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Oxyaquic Haplustolls
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Torrifluventic Haplustolls
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+one
+
+2:2
+3
+or
+
+3:3
+4
+or
+
+3:3
+5
+iso
+
+3:3
+6
+and
+
+4:4
+7
+and
+
+4:4
+8
+One or both
+
+2:2
+9
+or
+
+3:3
+10
+3:3
+11
+11 children
+Torriorthentic Haplustolls
+0
+0
+0
+one
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+iso
+
+3:3
+4
+and
+
+4:4
+5
+and
+
+4:4
+6
+Either
+
+2:2
+7
+or
+
+3:3
+8
+3:3
+9
+9 children
+Aridic Haplustolls
+0
+0
+one
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+iso
+
+2:2
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Fluventic Haplustolls
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+One or both
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Leptic Torrertic Natrustolls
+0
+0
+all
+
+0
+and
+
+2:2
+1
+one
+
+2:2
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+iso
+
+3:3
+5
+and
+
+4:4
+6
+and
+
+4:4
+7
+One or both
+
+2:2
+8
+or
+
+3:3
+9
+3:3
+10
+10 children
+Torrertic Natrustolls
+0
+0
+both
+
+0
+one
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+iso
+
+3:3
+4
+and
+
+4:4
+5
+and
+
+4:4
+6
+One or both
+
+2:2
+7
+or
+
+3:3
+8
+3:3
+9
+9 children
+Leptic Vertic Natrustolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+One or both
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Glossic Vertic Natrustolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+One or both
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Vertic Natrustolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aridic Leptic Natrustolls
+0
+0
+both
+
+0
+one
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+iso
+
+3:3
+4
+and
+
+4:4
+5
+and
+
+4:4
+6
+2:2
+7
+7 children
+Leptic Natrustolls
+0
+0
+0
+0 children
+Aquic Natrustolls
+0
+0
+one
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Aridic Natrustolls
+0
+0
+one
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+iso
+
+2:2
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Duric Natrustolls
+0
+0
+0
+0 children
+Glossic Natrustolls
+0
+0
+0
+0 children
+Typic Natrustolls
+0
+0
+0
+0 children
+Torrertic Paleustolls
+0
+0
+both
+
+0
+one
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+iso
+
+3:3
+4
+and
+
+4:4
+5
+and
+
+4:4
+6
+One or both
+
+2:2
+7
+or
+
+3:3
+8
+3:3
+9
+9 children
+Udertic Paleustolls
+0
+0
+both
+
+0
+either
+
+2:2
+1
+or
+
+3:3
+2
+iso
+
+3:3
+3
+One or both
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Vertic Paleustolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Paleustolls
+0
+0
+0
+0 children
+Pachic Paleustolls
+0
+0
+0
+0 children
+Petrocalcic Paleustolls
+0
+0
+0
+0 children
+Calcidic Paleustolls
+0
+0
+ both
+
+0
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+and
+
+3:3
+4
+one
+
+2:2
+5
+or
+
+3:3
+6
+or
+
+3:3
+7
+iso
+
+3:3
+8
+and
+
+4:4
+9
+4:4
+10
+10 children
+Aridic Paleustolls
+0
+0
+one
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+iso
+
+2:2
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Udic Paleustolls
+0
+0
+either
+
+0
+or
+
+2:2
+1
+iso
+
+2:2
+2
+2 children
+Calcic Paleustolls
+0
+0
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Entic Paleustolls
+0
+0
+0
+0 children
+Typic Paleustolls
+0
+0
+0
+0 children
+Lithic Vermustolls
+0
+0
+0
+0 children
+Aquic Vermustolls
+0
+0
+0
+0 children
+Pachic Vermustolls
+0
+0
+0
+0 children
+Entic Vermustolls
+0
+0
+0
+0 children
+Typic Vermustolls
+0
+0
+0
+0 children
+Durixerolls
+
+0
+0
+0
+0 children
+Natrixerolls
+
+0
+0
+0
+0 children
+Palexerolls
+
+0
+0
+either
+
+0
+or
+
+2:2
+1
+one or both
+
+2:2
+2
+and either
+
+3:3
+3
+or
+
+4:4
+4
+or
+
+4:4
+5
+one or both
+
+3:3
+6
+or
+
+4:4
+7
+4:4
+8
+8 children
+Calcixerolls
+
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Argixerolls
+
+0
+0
+0
+0 children
+Haploxerolls
+
+0
+0
+0
+0 children
+Aridic Lithic Argixerolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Ultic Argixerolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Argixerolls
+0
+0
+0
+0 children
+Torrertic Argixerolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+One or both
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Vertic Argixerolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Andic Argixerolls
+0
+0
+0
+0 children
+Vitritorrandic Argixerolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or both
+
+2:2
+2
+or
+
+3:3
+3
+and
+
+3:3
+4
+and
+
+4:4
+5
+4:4
+6
+6 children
+Vitrandic Argixerolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquultic Argixerolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Argixerolls
+0
+0
+0
+0 children
+Oxyaquic Argixerolls
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Alfic Argixerolls
+0
+0
+either
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2 children
+Calcic Pachic Argixerolls
+0
+0
+both
+
+0
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+and
+
+3:3
+4
+2:2
+5
+5 children
+Pachic Ultic Argixerolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Pachic Argixerolls
+0
+0
+0
+0 children
+Argiduridic Argixerolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Duric Argixerolls
+0
+0
+0
+0 children
+Calciargidic Argixerolls
+0
+0
+both
+
+0
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+and
+
+3:3
+4
+2:2
+5
+5 children
+Aridic Argixerolls
+0
+0
+0
+0 children
+Calcic Argixerolls
+0
+0
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Ultic Argixerolls
+0
+0
+0
+0 children
+Typic Argixerolls
+0
+0
+0
+0 children
+Aridic Lithic Calcixerolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Calcixerolls
+0
+0
+0
+0 children
+Vertic Calcixerolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Calcixerolls
+0
+0
+0
+0 children
+Oxyaquic Calcixerolls
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Pachic Calcixerolls
+0
+0
+0
+0 children
+Vitrandic Calcixerolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aridic Calcixerolls
+0
+0
+0
+0 children
+Vermic Calcixerolls
+0
+0
+0
+0 children
+Typic Calcixerolls
+0
+0
+0
+0 children
+Vertic Durixerolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Vitritorrandic Durixerolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or both
+
+2:2
+2
+or
+
+3:3
+3
+and
+
+3:3
+4
+and
+
+4:4
+5
+4:4
+6
+6 children
+Vitrandic Durixerolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Durixerolls
+0
+0
+0
+0 children
+Paleargidic Durixerolls
+0
+0
+all
+
+0
+and
+
+2:2
+1
+One or both
+
+2:2
+2
+or
+
+3:3
+3
+and
+
+3:3
+4
+2:2
+5
+5 children
+Abruptic Argiduridic Durixerolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+One or both
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Cambidic Durixerolls
+0
+0
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Haploduridic Durixerolls
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Argidic Durixerolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Argiduridic Durixerolls
+0
+0
+0
+0 children
+Haplic Palexerollic Durixerolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+One or both
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Palexerollic Durixerolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Haplic Haploxerollic Durixerolls
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Haploxerollic Durixerolls
+0
+0
+0
+0 children
+Haplic Durixerolls
+0
+0
+0
+0 children
+Typic Durixerolls
+0
+0
+0
+0 children
+Aridic Lithic Haploxerolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Ultic Haploxerolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Haploxerolls
+0
+0
+0
+0 children
+Torrertic Haploxerolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+One or both
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Vertic Haploxerolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Andic Haploxerolls
+0
+0
+0
+0 children
+Vitritorrandic Haploxerolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+one or both
+
+2:2
+2
+or
+
+3:3
+3
+and
+
+3:3
+4
+and
+
+4:4
+5
+4:4
+6
+6 children
+Vitrandic Haploxerolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Cumulic Haploxerolls
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+2:2
+3
+and
+
+2:2
+4
+One or both 
+
+2:2
+5
+or
+
+3:3
+6
+3:3
+7
+7 children
+Cumulic Ultic Haploxerolls
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+2:2
+3
+One or both 
+
+2:2
+4
+or
+
+3:3
+5
+and
+
+3:3
+6
+2:2
+7
+7 children
+Cumulic Haploxerolls
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+2:2
+3
+One or both 
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Fluvaquentic Haploxerolls
+0
+0
+ all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+2:2
+3
+One or both 
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Aquic Duric Haploxerolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Aquultic Haploxerolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Haploxerolls
+0
+0
+0
+0 children
+Oxyaquic Haploxerolls
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Calcic Pachic Haploxerolls
+0
+0
+both
+
+0
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+and
+
+3:3
+4
+2:2
+5
+5 children
+Pachic Ultic Haploxerolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Pachic Haploxerolls
+0
+0
+0
+0 children
+Torrifluventic Haploxerolls
+0
+0
+ all 
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+2:2
+3
+One or both 
+
+2:2
+4
+or
+
+3:3
+5
+3:3
+6
+6 children
+Duridic Haploxerolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Calcidic Haploxerolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Torripsammentic Haploxerolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Torriorthentic Haploxerolls
+0
+0
+0
+and
+
+2:2
+1
+Either
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Aridic Haploxerolls
+0
+0
+0
+0 children
+Duric Haploxerolls
+0
+0
+0
+0 children
+Vertic Natrixerolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Duric Natrixerolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Natrixerolls
+0
+0
+0
+0 children
+Aridic Natrixerolls
+0
+0
+0
+0 children
+Duric Natrixerolls
+0
+0
+0
+0 children
+Typic Natrixerolls
+0
+0
+0
+0 children
+Vertic Palexerolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Vitrandic Palexerolls
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+and
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Aquic Palexerolls
+0
+0
+0
+0 children
+Pachic Palexerolls
+0
+0
+0
+0 children
+Petrocalcidic Palexerolls
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Duric Palexerolls
+0
+0
+0
+0 children
+Aridic Palexerolls
+0
+0
+0
+0 children
+Petrocalcic Palexerolls
+0
+0
+0
+0 children
+Ultic Palexerolls
+0
+0
+0
+0 children
+Haplic Palexerolls
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Typic Palexerolls
+0
+0
+0
+0 children
+Aquox
+
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+one or both
+
+2:2
+3
+or
+
+3:3
+4
+or
+
+3:3
+5
+2:2
+6
+6 children
+Torrox
+
+0
+0
+0
+0 children
+Ustox
+
+0
+0
+0
+0 children
+Perox
+
+0
+0
+0
+0 children
+Udox
+
+0
+0
+0
+0 children
+Acraquox
+
+0
+0
+0
+0 children
+Plinthaquox
+
+0
+0
+0
+0 children
+Eutraquox
+
+0
+0
+0
+0 children
+Haplaquox
+
+0
+0
+0
+0 children
+Plinthic Acraquox
+0
+0
+0
+0 children
+Aeric Acraquox
+0
+0
+0
+0 children
+Typic Acraquox
+0
+0
+0
+0 children
+Histic Eutraquox
+0
+0
+0
+0 children
+Plinthic Eutraquox
+0
+0
+0
+0 children
+Aeric Eutraquox
+0
+0
+0
+0 children
+Humic Eutraquox
+0
+0
+0
+0 children
+Typic Eutraquox
+0
+0
+0
+0 children
+Histic Haplaquox
+0
+0
+0
+0 children
+Plinthic Haplaquox
+0
+0
+0
+0 children
+Aeric Haplaquox
+0
+0
+0
+0 children
+Humic Haplaquox
+0
+0
+0
+0 children
+Typic Haplaquox
+0
+0
+0
+0 children
+Aeric Plinthaquox
+0
+0
+0
+0 children
+Typic Plinthaquox
+0
+0
+0
+0 children
+Sombriperox
+
+0
+0
+0
+0 children
+Acroperox
+
+0
+0
+0
+0 children
+Eutroperox
+
+0
+0
+0
+0 children
+Kandiperox
+
+0
+0
+0
+0 children
+Haploperox
+
+0
+0
+0
+0 children
+Aquic Petroferric Acroperox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Petroferric Acroperox
+0
+0
+0
+0 children
+Aquic Lithic Acroperox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Acroperox
+0
+0
+0
+0 children
+Anionic Acroperox
+0
+0
+0
+0 children
+Plinthic Acroperox
+0
+0
+0
+0 children
+Aquic Acroperox
+0
+0
+0
+0 children
+Humic Rhodic Acroperox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+both
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Humic Xanthic Acroperox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Humic Acroperox
+0
+0
+0
+0 children
+Rhodic Acroperox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Xanthic Acroperox
+0
+0
+0
+0 children
+Typic Acroperox
+0
+0
+0
+0 children
+Aquic Petroferric Eutroperox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Petroferric Eutroperox
+0
+0
+0
+0 children
+Aquic Lithic Eutroperox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Eutroperox
+0
+0
+0
+0 children
+Plinthaquic Eutroperox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Plinthic Eutroperox
+0
+0
+0
+0 children
+Aquic Eutroperox
+0
+0
+0
+0 children
+Kandiudalfic Eutroperox
+0
+0
+0
+0 children
+Humic Inceptic Eutroperox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Inceptic Eutroperox
+0
+0
+0
+0 children
+Humic Rhodic Eutroperox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+both
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Humic Xanthic Eutroperox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Humic Eutroperox
+0
+0
+0
+0 children
+Rhodic Eutroperox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Xanthic Eutroperox
+0
+0
+0
+0 children
+Typic Eutroperox
+0
+0
+0
+0 children
+Aquic Petroferric Haploperox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Petroferric Haploperox
+0
+0
+0
+0 children
+Aquic Lithic Haploperox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Haploperox
+0
+0
+0
+0 children
+Plinthaquic Haploperox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Plinthic Haploperox
+0
+0
+0
+0 children
+Aquic Haploperox
+0
+0
+0
+0 children
+Andic Haploperox
+0
+0
+0
+0 children
+Humic Rhodic Haploperox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+both
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Humic Xanthic Haploperox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Humic Haploperox
+0
+0
+0
+0 children
+Rhodic Haploperox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Xanthic Haploperox
+0
+0
+0
+0 children
+Typic Haploperox
+0
+0
+0
+0 children
+Aquic Petroferric Kandiperox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Petroferric Kandiperox
+0
+0
+0
+0 children
+Aquic Lithic Kandiperox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Kandiperox
+0
+0
+0
+0 children
+Plinthaquic Kandiperox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Plinthic Kandiperox
+0
+0
+0
+0 children
+Aquic Kandiperox
+0
+0
+0
+0 children
+Andic Kandiperox
+0
+0
+0
+0 children
+Humic Rhodic Kandiperox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+both
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Humic Xanthic Kandiperox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Humic Kandiperox
+0
+0
+0
+0 children
+Rhodic Kandiperox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Xanthic Kandiperox
+0
+0
+0
+0 children
+Typic Kandiperox
+0
+0
+0
+0 children
+Petroferric Sombriperox
+0
+0
+0
+0 children
+Lithic Sombriperox
+0
+0
+0
+0 children
+Humic Sombriperox
+0
+0
+0
+0 children
+Typic Sombriperox
+0
+0
+0
+0 children
+Acrotorrox
+
+0
+0
+0
+0 children
+Eutrotorrox
+
+0
+0
+0
+0 children
+Haplotorrox
+
+0
+0
+0
+0 children
+Petroferric Acrotorrox
+0
+0
+0
+0 children
+Lithic Acrotorrox
+0
+0
+0
+0 children
+Typic Acrotorrox
+0
+0
+0
+0 children
+Petroferric Eutrotorrox
+0
+0
+0
+0 children
+Lithic Eutrotorrox
+0
+0
+0
+0 children
+Typic Eutrotorrox
+0
+0
+0
+0 children
+Petroferric Haplotorrox
+0
+0
+0
+0 children
+Lithic Haplotorrox
+0
+0
+0
+0 children
+Typic Haplotorrox
+0
+0
+0
+0 children
+Sombriudox
+
+0
+0
+0
+0 children
+Acrudox
+
+0
+0
+0
+0 children
+Eutrudox
+
+0
+0
+0
+0 children
+Kandiudox
+
+0
+0
+0
+0 children
+Hapludox
+
+0
+0
+0
+0 children
+Aquic Petroferric Acrudox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Petroferric Acrudox
+0
+0
+0
+0 children
+Aquic Lithic Acrudox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Acrudox
+0
+0
+0
+0 children
+Anionic Aquic Acrudox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Anionic Acrudox
+0
+0
+0
+0 children
+Plinthic Acrudox
+0
+0
+0
+0 children
+Aquic Acrudox
+0
+0
+0
+0 children
+Eutric Acrudox
+0
+0
+0
+0 children
+Humic Rhodic Acrudox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+both
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Humic Xanthic Acrudox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Humic Acrudox
+0
+0
+0
+0 children
+Rhodic Acrudox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Xanthic Acrudox
+0
+0
+0
+0 children
+Typic Acrudox
+0
+0
+0
+0 children
+Aquic Petroferric Eutrudox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Petroferric Eutrudox
+0
+0
+0
+0 children
+Aquic Lithic Eutrudox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Eutrudox
+0
+0
+0
+0 children
+Plinthaquic Eutrudox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Plinthic Eutrudox
+0
+0
+0
+0 children
+Aquic Eutrudox
+0
+0
+0
+0 children
+Kandiudalfic Eutrudox
+0
+0
+0
+0 children
+Humic Inceptic Eutrudox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Inceptic Eutrudox
+0
+0
+0
+0 children
+Humic Rhodic Eutrudox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+both
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Humic Xanthic Eutrudox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Humic Eutrudox
+0
+0
+0
+0 children
+Rhodic Eutrudox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Xanthic Eutrudox
+0
+0
+0
+0 children
+Typic Eutrudox
+0
+0
+0
+0 children
+Aquic Petroferric Hapludox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Petroferric Hapludox
+0
+0
+0
+0 children
+Aquic Lithic Hapludox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Hapludox
+0
+0
+0
+0 children
+Plinthaquic Hapludox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Plinthic Hapludox
+0
+0
+0
+0 children
+Aquic Hapludox
+0
+0
+0
+0 children
+Inceptic Hapludox
+0
+0
+0
+0 children
+Andic Hapludox
+0
+0
+0
+0 children
+Humic Rhodic Hapludox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+both
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Humic Xanthic Hapludox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Humic Hapludox
+0
+0
+0
+0 children
+Rhodic Hapludox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Xanthic Hapludox
+0
+0
+0
+0 children
+Typic Hapludox
+0
+0
+0
+0 children
+Aquic Petroferric Kandiudox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Petroferric Kandiudox
+0
+0
+0
+0 children
+Aquic Lithic Kandiudox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Kandiudox
+0
+0
+0
+0 children
+Plinthaquic Kandiudox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Plinthic Kandiudox
+0
+0
+0
+0 children
+Aquic Kandiudox
+0
+0
+0
+0 children
+Andic Kandiudox
+0
+0
+0
+0 children
+Humic Rhodic Kandiudox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+both
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Humic Xanthic Kandiudox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Humic Kandiudox
+0
+0
+0
+0 children
+Rhodic Kandiudox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Xanthic Kandiudox
+0
+0
+0
+0 children
+Typic Kandiudox
+0
+0
+0
+0 children
+Petroferric Sombriudox
+0
+0
+0
+0 children
+Lithic Sombriudox
+0
+0
+0
+0 children
+Humic Sombriudox
+0
+0
+0
+0 children
+Typic Sombriudox
+0
+0
+0
+0 children
+Sombriustox
+
+0
+0
+0
+0 children
+Acrustox
+
+0
+0
+0
+0 children
+Eutrustox
+
+0
+0
+0
+0 children
+Kandiustox
+
+0
+0
+0
+0 children
+Haplustox
+
+0
+0
+0
+0 children
+Aquic Petroferric Acrustox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Petroferric Acrustox
+0
+0
+0
+0 children
+Aquic Lithic Acrustox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Acrustox
+0
+0
+0
+0 children
+Anionic Aquic Acrustox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Anionic Acrustox
+0
+0
+0
+0 children
+Plinthic Acrustox
+0
+0
+0
+0 children
+Aquic Acrustox
+0
+0
+0
+0 children
+Eutric Acrustox
+0
+0
+0
+0 children
+Humic Rhodic Acrustox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+both
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Humic Xanthic Acrustox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Humic Acrustox
+0
+0
+0
+0 children
+Rhodic Acrustox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Xanthic Acrustox
+0
+0
+0
+0 children
+Typic Acrustox
+0
+0
+0
+0 children
+Aquic Petroferric Eutrustox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Petroferric Eutrustox
+0
+0
+0
+0 children
+Aquic Lithic Eutrustox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Eutrustox
+0
+0
+0
+0 children
+Plinthaquic Eutrustox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Plinthic Eutrustox
+0
+0
+0
+0 children
+Aquic Eutrustox
+0
+0
+0
+0 children
+Kandiustalfic Eutrustox
+0
+0
+0
+0 children
+Humic Inceptic Eutrustox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Inceptic Eutrustox
+0
+0
+0
+0 children
+Humic Rhodic Eutrustox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+both
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Humic Xanthic Eutrustox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Humic Eutrustox
+0
+0
+0
+0 children
+Rhodic Eutrustox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Xanthic Eutrustox
+0
+0
+0
+0 children
+Typic Eutrustox
+0
+0
+0
+0 children
+Aquic Petroferric Haplustox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Petroferric Haplustox
+0
+0
+0
+0 children
+Aquic Lithic Haplustox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Haplustox
+0
+0
+0
+0 children
+Plinthaquic Haplustox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Plinthic Haplustox
+0
+0
+0
+0 children
+Aqueptic Haplustox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Haplustox
+0
+0
+0
+0 children
+Oxyaquic Haplustox
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Inceptic Haplustox
+0
+0
+0
+0 children
+Humic Rhodic Haplustox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+both
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Humic Xanthic Haplustox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Humic Haplustox
+0
+0
+0
+0 children
+Rhodic Haplustox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Xanthic Haplustox
+0
+0
+0
+0 children
+Typic Haplustox
+0
+0
+0
+0 children
+Aquic Petroferric Kandiustox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Petroferric Kandiustox
+0
+0
+0
+0 children
+Aquic Lithic Kandiustox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Kandiustox
+0
+0
+0
+0 children
+Plinthaquic Kandiustox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Plinthic Kandiustox
+0
+0
+0
+0 children
+Aquic Kandiustox
+0
+0
+0
+0 children
+Humic Rhodic Kandiustox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+both
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Humic Xanthic Kandiustox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Humic Kandiustox
+0
+0
+0
+0 children
+Rhodic Kandiustox
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Xanthic Kandiustox
+0
+0
+0
+0 children
+Typic Kandiustox
+0
+0
+0
+0 children
+Petroferric Sombriustox
+0
+0
+0
+0 children
+Lithic Sombriustox
+0
+0
+0
+0 children
+Humic Sombriustox
+0
+0
+0
+0 children
+Typic Sombriustox
+0
+0
+0
+0 children
+Aquods
+
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Gelods
+
+0
+0
+0
+0 children
+Cryods
+
+0
+0
+0
+0 children
+Humods
+
+0
+0
+0
+0 children
+Orthods
+
+0
+0
+0
+0 children
+Cryaquods
+
+0
+0
+0
+0 children
+Fragiaquods
+
+0
+0
+0
+0 children
+Placaquods
+
+0
+0
+0
+0 children
+Duraquods
+
+0
+0
+0
+0 children
+Epiaquods
+
+0
+0
+0
+0 children
+Endoaquods
+
+0
+0
+0
+0 children
+Lithic Alaquods
+0
+0
+0
+0 children
+Duric Alaquods
+0
+0
+0
+0 children
+Histic Alaquods
+0
+0
+0
+0 children
+Alfic Arenic Alaquods
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+CHAPTER 14
+0
+0
+0
+and
+
+2:2
+1
+<b>Spodosols</b>
+
+2:2
+2
+2 children
+Arenic Umbric Alaquods
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Arenic Alaquods
+0
+0
+0
+0 children
+Grossarenic Alaquods
+0
+0
+0
+0 children
+Alfic Alaquods
+0
+0
+0
+0 children
+Ultic Alaquods
+0
+0
+0
+0 children
+Aeric Alaquods
+0
+0
+0
+0 children
+Typic Alaquods
+0
+0
+0
+0 children
+Lithic Cryaquods
+0
+0
+0
+0 children
+Placic Cryaquods
+0
+0
+0
+0 children
+Duric Cryaquods
+0
+0
+0
+0 children
+Andic Cryaquods
+0
+0
+0
+0 children
+Entic Cryaquods
+0
+0
+0
+0 children
+Typic Cryaquods
+0
+0
+0
+0 children
+Histic Duraquods
+0
+0
+0
+0 children
+Andic Duraquods
+0
+0
+0
+0 children
+Typic Duraquods
+0
+0
+0
+0 children
+Lithic Endoaquods
+0
+0
+0
+0 children
+Histic Endoaquods
+0
+0
+0
+0 children
+Andic Endoaquods
+0
+0
+0
+0 children
+Argic Endoaquods
+0
+0
+0
+0 children
+Umbric Endoaquods
+0
+0
+0
+0 children
+Typic Endoaquods
+0
+0
+0
+0 children
+Lithic Epiaquods
+0
+0
+0
+0 children
+Histic Epiaquods
+0
+0
+0
+0 children
+Andic Epiaquods
+0
+0
+0
+0 children
+Alfic Epiaquods
+0
+0
+0
+0 children
+Ultic Epiaquods
+0
+0
+0
+0 children
+Umbric Epiaquods
+0
+0
+0
+0 children
+Typic Epiaquods
+0
+0
+0
+0 children
+Histic Fragiaquods
+0
+0
+0
+0 children
+Haploplaggic Fragiaquods
+0
+0
+0
+0 children
+Argic Fragiaquods
+0
+0
+0
+0 children
+Typic Fragiaquods
+0
+0
+0
+0 children
+Andic Placaquods
+0
+0
+0
+0 children
+Typic Placaquods
+0
+0
+0
+0 children
+Placocryods
+
+0
+0
+0
+0 children
+Humicryods
+
+0
+0
+0
+0 children
+Haplocryods
+
+0
+0
+0
+0 children
+Aquandic Duricryods
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Andic Duricryods
+0
+0
+0
+0 children
+Aquic Duricryods
+0
+0
+0
+0 children
+Oxyaquic Duricryods
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Humic Duricryods
+0
+0
+0
+0 children
+Typic Duricryods
+0
+0
+0
+0 children
+Lithic Haplocryods
+0
+0
+0
+0 children
+Aquandic Haplocryods
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Andic Haplocryods
+0
+0
+0
+0 children
+Folistic Haplocryods
+0
+0
+0
+0 children
+Aquic Haplocryods
+0
+0
+0
+0 children
+Oxyaquic Haplocryods
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Entic Haplocryods
+0
+0
+0
+0 children
+Typic Haplocryods
+0
+0
+0
+0 children
+Lithic Humicryods
+0
+0
+0
+0 children
+Aquandic Humicryods
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Andic Humicryods
+0
+0
+0
+0 children
+Folistic Humicryods
+0
+0
+0
+0 children
+Aquic Humicryods
+0
+0
+0
+0 children
+Oxyaquic Humicryods
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Typic Humicryods
+0
+0
+0
+0 children
+Andic Placocryods
+0
+0
+0
+0 children
+Humic Placocryods
+0
+0
+0
+0 children
+Typic Placocryods
+0
+0
+0
+0 children
+Humigelods
+
+0
+0
+0
+0 children
+Haplogelods
+
+0
+0
+0
+0 children
+Lithic Haplogelods
+0
+0
+0
+0 children
+Andic Haplogelods
+0
+0
+0
+0 children
+Aquic Haplogelods
+0
+0
+0
+0 children
+Turbic Haplogelods
+0
+0
+0
+0 children
+Typic Haplogelods
+0
+0
+0
+0 children
+Lithic Humigelods
+0
+0
+0
+0 children
+Andic Humigelods
+0
+0
+0
+0 children
+Aquic Humigelods
+0
+0
+0
+0 children
+Turbic Humigelods
+0
+0
+0
+0 children
+Typic Humigelods
+0
+0
+0
+0 children
+Placohumods
+
+0
+0
+0
+0 children
+Durihumods
+
+0
+0
+0
+0 children
+Fragihumods
+
+0
+0
+0
+0 children
+Haplohumods
+
+0
+0
+0
+0 children
+Andic Durihumods
+0
+0
+0
+0 children
+Typic Durihumods
+0
+0
+0
+0 children
+Typic Fragihumods
+0
+0
+0
+0 children
+Lithic Haplohumods
+0
+0
+0
+0 children
+Andic Haplohumods
+0
+0
+0
+0 children
+Haploplaggic Haplohumods
+0
+0
+0
+0 children
+Typic Haplohumods
+0
+0
+0
+0 children
+Andic Placohumods
+0
+0
+0
+0 children
+Typic Placohumods
+0
+0
+0
+0 children
+Placorthods
+
+0
+0
+0
+0 children
+Durorthods
+
+0
+0
+0
+0 children
+Fragiorthods
+
+0
+0
+0
+0 children
+Alorthods
+
+0
+0
+0
+5:5
+1
+1 children
+Haplorthods
+
+0
+0
+0
+0 children
+Oxyaquic Alorthods
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Arenic Ultic Alorthods
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Arenic Alorthods
+0
+0
+0
+0 children
+Entic Grossarenic Alorthods
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Entic Alorthods
+0
+0
+0
+0 children
+Grossarenic Alorthods
+0
+0
+0
+0 children
+Haploplaggic Alorthods
+0
+0
+0
+0 children
+Alfic Alorthods
+0
+0
+0
+0 children
+Ultic Alorthods
+0
+0
+0
+0 children
+Typic Alorthods
+0
+0
+0
+0 children
+Andic Durorthods
+0
+0
+0
+0 children
+Typic Durorthods
+0
+0
+0
+0 children
+Aquic Fragiorthods
+0
+0
+0
+0 children
+Alfic Oxyaquic Fragiorthods
+0
+0
+0
+either 
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+2:2
+4
+4 children
+Oxyaquic Fragiorthods
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Haploplaggic Fragiorthods
+0
+0
+0
+0 children
+Alfic Fragiorthods
+0
+0
+0
+0 children
+Ultic Fragiorthods
+0
+0
+0
+0 children
+Entic Fragiorthods
+0
+0
+one
+
+0
+all
+
+2:2
+1
+and
+
+3:3
+2
+and
+
+3:3
+3
+either or both
+
+3:3
+4
+either or both
+
+2:2
+5
+5 children
+Typic Fragiorthods
+0
+0
+0
+0 children
+Entic Lithic Haplorthods
+0
+0
+ either
+
+0
+all
+
+2:2
+1
+and
+
+3:3
+2
+and
+
+3:3
+3
+either or both
+
+3:3
+4
+either or both
+
+2:2
+5
+5 children
+Lithic Haplorthods
+0
+0
+0
+0 children
+Fragiaquic Haplorthods
+0
+0
+both
+
+0
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+2:2
+4
+4 children
+Aqualfic Haplorthods
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Aquentic Haplorthods
+0
+0
+ either
+
+0
+all
+
+2:2
+1
+and
+
+3:3
+2
+and
+
+3:3
+3
+either or both
+
+3:3
+4
+either or both
+
+2:2
+5
+5 children
+Aquic Haplorthods
+0
+0
+0
+0 children
+Alfic Oxyaquic Haplorthods
+0
+0
+0
+and
+
+2:2
+1
+either or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Oxyaquic Ultic Haplorthods
+0
+0
+0
+and
+
+2:2
+1
+either or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Fragic Haplorthods
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Lamellic Oxyaquic Haplorthods
+0
+0
+both:
+
+0
+either or 
+
+2:2
+1
+ or
+
+3:3
+ or
+2
+and
+
+3:3
+3
+2:2
+4
+4 children
+Lamellic Haplorthods
+0
+0
+0
+0 children
+Oxyaquic Haplorthods
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Andic Haplorthods
+0
+0
+0
+0 children
+Alfic Haplorthods
+0
+0
+0
+0 children
+Ultic Haplorthods
+0
+0
+0
+0 children
+Entic Haplorthods
+0
+0
+one
+
+0
+all
+
+2:2
+1
+and
+
+3:3
+2
+and
+
+3:3
+3
+either or both
+
+3:3
+4
+either or both
+
+2:2
+5
+5 children
+Typic Haplorthods
+0
+0
+0
+0 children
+Typic Placorthods
+0
+0
+0
+0 children
+Aquults
+
+0
+0
+one or both
+
+0
+one
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+2:2
+5
+5 children
+Humults
+
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Udults
+
+0
+0
+0
+0 children
+Ustults
+
+0
+0
+0
+0 children
+Xerults
+
+0
+0
+0
+0 children
+Plinthaquults
+
+0
+0
+0
+0 children
+Fragiaquults
+
+0
+0
+0
+0 children
+Albaquults
+
+0
+0
+and
+
+0
+0 children
+Kandiaquults
+
+0
+0
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+either
+
+2:2
+3
+or
+
+3:3
+4
+and
+
+3:3
+5
+5 children
+Kanhaplaquults
+
+0
+0
+0
+0 children
+CHAPTER 15
+0
+0
+0
+and
+
+2:2
+1
+either
+
+2:2
+2
+2 children
+Umbraquults
+
+0
+0
+0
+0 children
+Epiaquults
+
+0
+0
+0
+0 children
+Endoaquults
+
+0
+0
+0
+0 children
+Vertic Albaquults
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Kandic Albaquults
+0
+0
+0
+0 children
+Aeric Albaquults
+0
+0
+0
+0 children
+Typic Albaquults
+0
+0
+0
+0 children
+Arenic Endoaquults
+0
+0
+0
+0 children
+Grossarenic Endoaquults
+0
+0
+0
+0 children
+Aeric Endoaquults
+0
+0
+0
+0 children
+Typic Endoaquults
+0
+0
+0
+0 children
+Vertic Epiaquults
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aeric Fragic Epiaquults
+0
+0
+both
+
+0
+either
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+2:2
+4
+4 children
+Arenic Epiaquults
+0
+0
+0
+0 children
+Grossarenic Epiaquults
+0
+0
+0
+0 children
+Fragic Epiaquults
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aeric Epiaquults
+0
+0
+0
+0 children
+Typic Epiaquults
+0
+0
+0
+0 children
+Aeric Fragiaquults
+0
+0
+0
+0 children
+Plinthic Fragiaquults
+0
+0
+0
+0 children
+Umbric Fragiaquults
+0
+0
+0
+0 children
+Typic Fragiaquults
+0
+0
+0
+0 children
+Acraquoxic Kandiaquults
+0
+0
+0
+0 children
+Arenic Plinthic Kandiaquults
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Arenic Umbric Kandiaquults
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Arenic Kandiaquults
+0
+0
+0
+0 children
+Grossarenic Kandiaquults
+0
+0
+0
+0 children
+Plinthic Kandiaquults
+0
+0
+0
+0 children
+Aeric Kandiaquults
+0
+0
+0
+0 children
+Umbric Kandiaquults
+0
+0
+0
+0 children
+Typic Kandiaquults
+0
+0
+0
+0 children
+Aquandic Kanhaplaquults
+0
+0
+ one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+and
+
+2:2
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Plinthic Kanhaplaquults
+0
+0
+0
+0 children
+Aeric Umbric Kanhaplaquults
+0
+0
+ both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Aeric Kanhaplaquults
+0
+0
+0
+0 children
+Umbric Kanhaplaquults
+0
+0
+0
+0 children
+Typic Kanhaplaquults
+0
+0
+0
+0 children
+Vertic Paleaquults
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Arenic Plinthic Paleaquults
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Arenic Umbric Paleaquults
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Arenic Paleaquults
+0
+0
+0
+0 children
+Grossarenic Paleaquults
+0
+0
+0
+0 children
+Plinthic Paleaquults
+0
+0
+0
+0 children
+Aeric Paleaquults
+0
+0
+0
+0 children
+Umbric Paleaquults
+0
+0
+0
+0 children
+Typic Paleaquults
+0
+0
+0
+0 children
+Kandic Plinthaquults
+0
+0
+0
+0 children
+Typic Plinthaquults
+0
+0
+0
+0 children
+Plinthic Umbraquults
+0
+0
+0
+0 children
+Typic Umbraquults
+0
+0
+0
+0 children
+Sombrihumults
+
+0
+0
+0
+0 children
+Plinthohumults
+
+0
+0
+0
+0 children
+Kandihumults
+
+0
+0
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+either
+
+2:2
+3
+or
+
+3:3
+4
+and
+
+3:3
+5
+5 children
+Kanhaplohumults
+
+0
+0
+0
+0 children
+Palehumults
+
+0
+0
+0
+and
+
+2:2
+1
+either
+
+2:2
+2
+or
+
+3:3
+3
+and
+
+3:3
+4
+4 children
+Haplohumults
+
+0
+0
+0
+0 children
+Lithic Haplohumults
+0
+0
+0
+0 children
+Aquandic Haplohumults
+0
+0
+both 
+
+0
+both
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Haplohumults
+0
+0
+both
+
+0
+0 children
+Andic Haplohumults
+0
+0
+0
+0 children
+Plinthic Haplohumults
+0
+0
+0
+0 children
+Oxyaquic Haplohumults
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Ustic Haplohumults
+0
+0
+0
+0 children
+Xeric Haplohumults
+0
+0
+0
+0 children
+Typic Haplohumults
+0
+0
+0
+0 children
+Andic Ombroaquic Kandihumults
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+either or 
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Ustandic Kandihumults
+0
+0
+both 
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Andic Kandihumults
+0
+0
+0
+0 children
+Aquic Kandihumults
+0
+0
+both
+
+0
+0 children
+Ombroaquic Kandihumults
+0
+0
+0
+and
+
+2:2
+1
+either or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Plinthic Kandihumults
+0
+0
+0
+0 children
+Ustic Kandihumults
+0
+0
+0
+0 children
+Xeric Kandihumults
+0
+0
+0
+0 children
+Anthropic Kandihumults
+0
+0
+0
+0 children
+Typic Kandihumults
+0
+0
+0
+0 children
+Lithic Kanhaplohumults
+0
+0
+0
+0 children
+Ustandic Kanhaplohumults
+0
+0
+both 
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Andic Kanhaplohumults
+0
+0
+0
+0 children
+Aquic Kanhaplohumults
+0
+0
+both
+
+0
+0 children
+Ombroaquic Kanhaplohumults
+0
+0
+0
+and
+
+2:2
+1
+either or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Ustic Kanhaplohumults
+0
+0
+0
+0 children
+Xeric Kanhaplohumults
+0
+0
+0
+0 children
+Anthropic Kanhaplohumults
+0
+0
+0
+0 children
+Typic Kanhaplohumults
+0
+0
+0
+0 children
+Aquandic Palehumults
+0
+0
+both 
+
+0
+both
+
+2:2
+1
+2:2
+2
+2 children
+Andic Palehumults
+0
+0
+0
+0 children
+Aquic Palehumults
+0
+0
+both
+
+0
+0 children
+Plinthic Palehumults
+0
+0
+0
+0 children
+Oxyaquic Palehumults
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Ustic Palehumults
+0
+0
+0
+0 children
+Xeric Palehumults
+0
+0
+0
+0 children
+Typic Palehumults
+0
+0
+0
+0 children
+Typic Plinthohumults
+0
+0
+0
+0 children
+Typic Sombrihumults
+0
+0
+0
+0 children
+Plinthudults
+
+0
+0
+0
+0 children
+Fragiudults
+
+0
+0
+0
+0 children
+Kandiudults
+
+0
+0
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+either
+
+2:2
+3
+or
+
+3:3
+4
+and
+
+3:3
+5
+5 children
+Kanhapludults
+
+0
+0
+0
+0 children
+Paleudults
+
+0
+0
+0
+and
+
+2:2
+1
+either
+
+2:2
+2
+or
+
+3:3
+3
+and
+
+3:3
+4
+4 children
+Rhodudults
+
+0
+0
+both 
+
+0
+and
+
+2:2
+1
+all
+
+2:2
+2
+and
+
+3:3
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Hapludults
+
+0
+0
+0
+0 children
+Arenic Fragiudults
+0
+0
+0
+0 children
+Plinthaquic Fragiudults
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Glossaquic Fragiudults
+0
+0
+both
+
+0
+One or more
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+and
+
+3:3
+4
+2:2
+5
+5 children
+Aquic Fragiudults
+0
+0
+0
+0 children
+Plinthic Fragiudults
+0
+0
+0
+0 children
+Glossic Fragiudults
+0
+0
+one or more
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Humic Fragiudults
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Typic Fragiudults
+0
+0
+0
+0 children
+Lithic-Ruptic-Entic Hapludults
+0
+0
+either or both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Hapludults
+0
+0
+0
+0 children
+Vertic Hapludults
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Fragiaquic Hapludults
+0
+0
+both 
+
+0
+either
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+both
+
+2:2
+4
+4 children
+Aquic Arenic Hapludults
+0
+0
+0
+and
+
+2:2
+1
+both
+
+2:2
+2
+2 children
+Aquic Hapludults
+0
+0
+both
+
+0
+0 children
+Fragic Hapludults
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Oxyaquic Hapludults
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Lamellic Hapludults
+0
+0
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+either
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Psammentic Hapludults
+0
+0
+0
+0 children
+Arenic Hapludults
+0
+0
+0
+0 children
+Grossarenic Hapludults
+0
+0
+0
+0 children
+Inceptic Hapludults
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Humic Hapludults
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Typic Hapludults
+0
+0
+0
+0 children
+Arenic Plinthaquic Kandiudults
+0
+0
+ all 
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+both
+
+2:2
+3
+3 children
+Aquic Arenic Kandiudults
+0
+0
+0
+and
+
+2:2
+1
+both
+
+2:2
+2
+2 children
+Arenic Plinthic Kandiudults
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Arenic Rhodic Kandiudults
+0
+0
+0
+and
+
+2:2
+1
+all
+
+2:2
+2
+and
+
+3:3
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Arenic Kandiudults
+0
+0
+0
+0 children
+Grossarenic Plinthic Kandiudults
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Grossarenic Kandiudults
+0
+0
+0
+0 children
+Acrudoxic Plinthic Kandiudults
+0
+0
+both 
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Acrudoxic Kandiudults
+0
+0
+0
+0 children
+Plinthaquic Kandiudults
+0
+0
+both 
+
+0
+and
+
+2:2
+1
+both
+
+2:2
+2
+2 children
+Aquandic Kandiudults
+0
+0
+both 
+
+0
+both
+
+2:2
+1
+one or more
+
+2:2
+2
+or
+
+3:3
+3
+or
+
+3:3
+4
+and
+
+3:3
+5
+and
+
+4:4
+6
+4:4
+7
+7 children
+Andic Kandiudults
+0
+0
+0
+0 children
+Aquic Kandiudults
+0
+0
+both
+
+0
+0 children
+Plinthic Kandiudults
+0
+0
+0
+0 children
+Ombroaquic Kandiudults
+0
+0
+0
+and
+
+2:2
+1
+either or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Oxyaquic Kandiudults
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Sombric Kandiudults
+0
+0
+0
+0 children
+Rhodic Kandiudults
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Typic Kandiudults
+0
+0
+0
+0 children
+Lithic Kanhapludults
+0
+0
+0
+0 children
+Plinthaquic Kanhapludults
+0
+0
+both 
+
+0
+and
+
+2:2
+1
+both
+
+2:2
+2
+2 children
+Arenic Plinthic Kanhapludults
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Arenic Kanhapludults
+0
+0
+0
+0 children
+Acrudoxic Kanhapludults
+0
+0
+0
+0 children
+Fragiaquic Kanhapludults
+0
+0
+both 
+
+0
+either
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+both
+
+2:2
+4
+4 children
+Andic Kanhapludults
+0
+0
+0
+0 children
+Aquic Kanhapludults
+0
+0
+both
+
+0
+0 children
+Ombroaquic Kanhapludults
+0
+0
+0
+and
+
+2:2
+1
+either or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Oxyaquic Kanhapludults
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Plinthic Kanhapludults
+0
+0
+0
+0 children
+Fragic Kanhapludults
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Rhodic Kanhapludults
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Typic Kanhapludults
+0
+0
+0
+0 children
+Vertic Paleudults
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Spodic Paleudults
+0
+0
+one 
+
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Arenic Plinthaquic Paleudults
+0
+0
+all 
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+both
+
+2:2
+3
+3 children
+Aquic Arenic Paleudults
+0
+0
+0
+and
+
+2:2
+1
+both
+
+2:2
+2
+2 children
+Anthraquic Paleudults
+0
+0
+0
+0 children
+Plinthaquic Paleudults
+0
+0
+both 
+
+0
+and
+
+2:2
+1
+both
+
+2:2
+2
+2 children
+Fragiaquic Paleudults
+0
+0
+both 
+
+0
+either
+
+2:2
+1
+or
+
+3:3
+2
+and
+
+3:3
+3
+both
+
+2:2
+4
+4 children
+Aquic Paleudults
+0
+0
+both
+
+0
+0 children
+Oxyaquic Paleudults
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Lamellic Paleudults
+0
+0
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+either
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Arenic Plinthic Paleudults
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Psammentic Paleudults
+0
+0
+0
+0 children
+Grossarenic Plinthic Paleudults
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Plinthic Paleudults
+0
+0
+0
+0 children
+Arenic Rhodic Paleudults
+0
+0
+0
+and
+
+2:2
+1
+all
+
+2:2
+2
+and
+
+3:3
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Arenic Paleudults
+0
+0
+0
+0 children
+Grossarenic Paleudults
+0
+0
+0
+0 children
+Fragic Paleudults
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Rhodic Paleudults
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Typic Paleudults
+0
+0
+0
+0 children
+Typic Plinthudults
+0
+0
+0
+0 children
+Lithic Rhodudults
+0
+0
+0
+0 children
+Psammentic Rhodudults
+0
+0
+0
+0 children
+Typic Rhodudults
+0
+0
+0
+0 children
+Plinthustults
+
+0
+0
+0
+0 children
+Kandiustults
+
+0
+0
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+either
+
+2:2
+3
+or
+
+3:3
+4
+and
+
+3:3
+5
+5 children
+Kanhaplustults
+
+0
+0
+0
+0 children
+Paleustults
+
+0
+0
+0
+and
+
+2:2
+1
+either
+
+2:2
+2
+or
+
+3:3
+3
+and
+
+3:3
+4
+4 children
+Rhodustults
+
+0
+0
+both 
+
+0
+and
+
+2:2
+1
+all
+
+2:2
+2
+and
+
+3:3
+3
+and
+
+3:3
+4
+3:3
+5
+5 children
+Haplustults
+
+0
+0
+0
+0 children
+Lithic Haplustults
+0
+0
+0
+0 children
+Petroferric Haplustults
+0
+0
+0
+0 children
+Aquic Haplustults
+0
+0
+both
+
+0
+0 children
+Arenic Haplustults
+0
+0
+0
+0 children
+Ombroaquic Haplustults
+0
+0
+0
+and
+
+2:2
+1
+either or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Plinthic Haplustults
+0
+0
+0
+0 children
+Kanhaplic Haplustults
+0
+0
+0
+0 children
+Typic Haplustults
+0
+0
+0
+0 children
+Acrustoxic Kandiustults
+0
+0
+0
+0 children
+Aquic Kandiustults
+0
+0
+both
+
+0
+0 children
+Arenic Plinthic Kandiustults
+0
+0
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Arenic Kandiustults
+0
+0
+0
+0 children
+Udandic Kandiustults
+0
+0
+both 
+
+0
+and
+
+2:2
+1
+either
+
+2:2
+2
+or
+
+3:3
+3
+iso
+
+3:3
+4
+4 children
+Andic Kandiustults
+0
+0
+0
+0 children
+Plinthic Kandiustults
+0
+0
+0
+0 children
+Aridic Kandiustults
+0
+0
+either
+
+0
+or
+
+2:2
+1
+iso
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Udic Kandiustults
+0
+0
+either
+
+0
+or
+
+2:2
+1
+iso
+
+2:2
+2
+2 children
+Rhodic Kandiustults
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Typic Kandiustults
+0
+0
+0
+0 children
+Lithic Kanhaplustults
+0
+0
+0
+0 children
+Acrustoxic Kanhaplustults
+0
+0
+0
+0 children
+Aquic Kanhaplustults
+0
+0
+both 
+
+0
+0 children
+Arenic Kanhaplustults
+0
+0
+0
+0 children
+Udandic Kanhaplustults
+0
+0
+both 
+
+0
+and
+
+2:2
+1
+either
+
+2:2
+2
+or
+
+3:3
+3
+iso
+
+3:3
+4
+4 children
+Andic Kanhaplustults
+0
+0
+0
+0 children
+Plinthic Kanhaplustults
+0
+0
+0
+0 children
+Ombroaquic Kanhaplustults
+0
+0
+0
+and
+
+2:2
+1
+either or 
+
+2:2
+2
+or
+
+3:3
+3
+3:3
+4
+4 children
+Aridic Kanhaplustults
+0
+0
+either
+
+0
+or
+
+2:2
+1
+iso
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Udic Kanhaplustults
+0
+0
+either
+
+0
+or
+
+2:2
+1
+iso
+
+2:2
+2
+2 children
+Rhodic Kanhaplustults
+0
+0
+all
+
+0
+and
+
+2:2
+1
+and
+
+2:2
+2
+2:2
+3
+3 children
+Typic Kanhaplustults
+0
+0
+0
+0 children
+Typic Paleustults
+0
+0
+0
+0 children
+Haplic Plinthustults
+0
+0
+either
+
+0
+or
+
+2:2
+1
+both
+
+2:2
+2
+and
+
+3:3
+3
+or
+
+3:3
+4
+4 children
+Typic Plinthustults
+0
+0
+0
+0 children
+Lithic Rhodustults
+0
+0
+0
+0 children
+Psammentic Rhodustults
+0
+0
+0
+0 children
+Typic Rhodustults
+0
+0
+0
+0 children
+Palexerults
+
+0
+0
+0
+and
+
+2:2
+1
+either
+
+2:2
+2
+or
+
+3:3
+3
+and
+
+3:3
+4
+4 children
+Haploxerults
+
+0
+0
+0
+0 children
+Lithic Ruptic-Inceptic Haploxerults
+0
+0
+both 
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Lithic Haploxerults
+0
+0
+0
+0 children
+Aquic Haploxerults
+0
+0
+both
+
+0
+0 children
+Andic Haploxerults
+0
+0
+0
+0 children
+Lamellic Haploxerults
+0
+0
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+either
+
+2:2
+3
+or
+
+3:3
+4
+3:3
+5
+5 children
+Psammentic Haploxerults
+0
+0
+0
+0 children
+Arenic Haploxerults
+0
+0
+0
+0 children
+Grossarenic Haploxerults
+0
+0
+0
+0 children
+Typic Haploxerults
+0
+0
+0
+0 children
+Aquandic Palexerults
+0
+0
+both 
+
+0
+both
+
+2:2
+1
+2:2
+2
+2 children
+Aquic Palexerults
+0
+0
+both
+
+0
+0 children
+Andic Palexerults
+0
+0
+0
+0 children
+Typic Palexerults
+0
+0
+0
+0 children
+Aquerts
+
+0
+0
+one or both
+
+0
+either
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+2:2
+4
+4 children
+Cryerts
+
+0
+0
+0
+0 children
+Xererts
+
+0
+0
+both
+
+0
+and
+
+2:2
+1
+both
+
+2:2
+2
+and
+
+3:3
+3
+3:3
+4
+4 children
+Torrerts
+
+0
+0
+0
+0 children
+Usterts
+
+0
+0
+0
+0 children
+Uderts
+
+0
+0
+0
+0 children
+Sulfaquerts
+
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Salaquerts
+
+0
+0
+0
+0 children
+Duraquerts
+
+0
+0
+0
+0 children
+Natraquerts
+
+0
+0
+0
+0 children
+Calciaquerts
+
+0
+0
+0
+0 children
+Dystraquerts
+
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Epiaquerts
+
+0
+0
+0
+0 children
+Endoaquerts
+
+0
+0
+0
+0 children
+Aeric Calciaquerts
+0
+0
+0
+either
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+or
+
+2:2
+4
+2:2
+5
+5 children
+Typic Calciaquerts
+0
+0
+0
+0 children
+Aridic Duraquerts
+0
+0
+0
+0 children
+Xeric Duraquerts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Ustic Duraquerts
+0
+0
+0
+0 children
+Aeric Duraquerts
+0
+0
+0
+either
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+or
+
+2:2
+4
+2:2
+5
+5 children
+Chromic Duraquerts
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Typic Duraquerts
+0
+0
+0
+0 children
+Sulfaqueptic Dystraquerts
+0
+0
+0
+0 children
+Aridic Dystraquerts
+0
+0
+0
+0 children
+Ustic Dystraquerts
+0
+0
+0
+0 children
+Aeric Dystraquerts
+0
+0
+0
+either
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+or
+
+2:2
+4
+2:2
+5
+5 children
+Leptic Dystraquerts
+0
+0
+0
+0 children
+Entic Dystraquerts
+0
+0
+0
+0 children
+Chromic Dystraquerts
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Typic Dystraquerts
+0
+0
+0
+0 children
+Halic Endoaquerts
+0
+0
+0
+0 children
+Sodic Endoaquerts
+0
+0
+0
+0 children
+Aridic Endoaquerts
+0
+0
+0
+0 children
+Xeric Endoaquerts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Ustic Endoaquerts
+0
+0
+0
+0 children
+Aeric Endoaquerts
+0
+0
+0
+either
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+or
+
+2:2
+4
+2:2
+5
+5 children
+Leptic Endoaquerts
+0
+0
+0
+0 children
+Entic Endoaquerts
+0
+0
+0
+0 children
+Chromic Endoaquerts
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Typic Endoaquerts
+0
+0
+0
+0 children
+Halic Epiaquerts
+0
+0
+0
+0 children
+Sodic Epiaquerts
+0
+0
+0
+0 children
+Aridic Epiaquerts
+0
+0
+0
+0 children
+Xeric Epiaquerts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Ustic Epiaquerts
+0
+0
+0
+0 children
+Aeric Epiaquerts
+0
+0
+0
+either
+
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+or
+
+2:2
+4
+2:2
+5
+5 children
+Leptic Epiaquerts
+0
+0
+0
+0 children
+Entic Epiaquerts
+0
+0
+0
+0 children
+Chromic Epiaquerts
+0
+0
+one or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Typic Epiaquerts
+0
+0
+0
+0 children
+Typic Natraquerts
+0
+0
+0
+0 children
+Aridic Salaquerts
+0
+0
+0
+0 children
+Ustic Salaquerts
+0
+0
+0
+0 children
+Leptic Salaquerts
+0
+0
+0
+0 children
+Entic Salaquerts
+0
+0
+0
+0 children
+Chromic Salaquerts
+0
+0
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Typic Salaquerts
+0
+0
+0
+0 children
+Salic Sulfaquerts
+0
+0
+0
+0 children
+Sulfic Sulfaquerts
+0
+0
+0
+0 children
+Typic Sulfaquerts
+0
+0
+0
+0 children
+Humicryerts
+
+0
+0
+0
+0 children
+Haplocryerts
+
+0
+0
+0
+0 children
+Sodic Haplocryerts
+0
+0
+0
+0 children
+Chromic Haplocryerts
+0
+0
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Typic Haplocryerts
+0
+0
+0
+0 children
+Sodic Humicryerts
+0
+0
+0
+0 children
+Typic Humicryerts
+0
+0
+0
+0 children
+Salitorrerts
+
+0
+0
+0
+0 children
+Gypsitorrerts
+
+0
+0
+0
+0 children
+Calcitorrerts
+
+0
+0
+0
+0 children
+Haplotorrerts
+
+0
+0
+0
+0 children
+Petrocalcic Calcitorrerts
+0
+0
+0
+0 children
+Leptic Calcitorrerts
+0
+0
+0
+0 children
+Entic Calcitorrerts
+0
+0
+0
+0 children
+Chromic Calcitorrerts
+0
+0
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Typic Calcitorrerts
+0
+0
+0
+0 children
+Chromic Gypsitorrerts
+0
+0
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Typic Gypsitorrerts
+0
+0
+0
+0 children
+Halic Haplotorrerts
+0
+0
+0
+0 children
+Sodic Haplotorrerts
+0
+0
+0
+0 children
+Leptic Haplotorrerts
+0
+0
+0
+0 children
+Entic Haplotorrerts
+0
+0
+0
+0 children
+Chromic Haplotorrerts
+0
+0
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Typic Haplotorrerts
+0
+0
+0
+0 children
+Aquic Salitorrerts
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Leptic Salitorrerts
+0
+0
+0
+0 children
+Entic Salitorrerts
+0
+0
+0
+0 children
+Chromic Salitorrerts
+0
+0
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Typic Salitorrerts
+0
+0
+0
+0 children
+Dystruderts
+
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Hapluderts
+
+0
+0
+0
+0 children
+Aquic Dystruderts
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Oxyaquic Dystruderts
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Leptic Dystruderts
+0
+0
+0
+0 children
+Entic Dystruderts
+0
+0
+0
+0 children
+Chromic Dystruderts
+0
+0
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Typic Dystruderts
+0
+0
+0
+0 children
+Lithic Hapluderts
+0
+0
+0
+0 children
+Aquic Hapluderts
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Oxyaquic Hapluderts
+0
+0
+either or both
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Leptic Hapluderts
+0
+0
+0
+0 children
+Entic Hapluderts
+0
+0
+0
+0 children
+Chromic Hapluderts
+0
+0
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Typic Hapluderts
+0
+0
+0
+0 children
+Dystrusterts
+
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Salusterts
+
+0
+0
+0
+0 children
+Gypsiusterts
+
+0
+0
+0
+0 children
+Calciusterts
+
+0
+0
+0
+0 children
+Haplusterts
+
+0
+0
+0
+0 children
+Lithic Calciusterts
+0
+0
+0
+0 children
+Halic Calciusterts
+0
+0
+0
+0 children
+Sodic Calciusterts
+0
+0
+0
+0 children
+Petrocalcic Calciusterts
+0
+0
+0
+0 children
+Aridic Calciusterts
+0
+0
+0
+0 children
+Udic Calciusterts
+0
+0
+0
+0 children
+Leptic Calciusterts
+0
+0
+0
+0 children
+Entic Calciusterts
+0
+0
+0
+0 children
+Chromic Calciusterts
+0
+0
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Typic Calciusterts
+0
+0
+0
+0 children
+Lithic Dystrusterts
+0
+0
+0
+0 children
+Aquic Dystrusterts
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aridic Dystrusterts
+0
+0
+0
+0 children
+Udic Dystrusterts
+0
+0
+0
+0 children
+Leptic Dystrusterts
+0
+0
+0
+0 children
+Entic Dystrusterts
+0
+0
+0
+0 children
+Chromic Dystrusterts
+0
+0
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Typic Dystrusterts
+0
+0
+0
+0 children
+Lithic Gypsiusterts
+0
+0
+0
+0 children
+Halic Gypsiusterts
+0
+0
+0
+0 children
+Sodic Gypsiusterts
+0
+0
+0
+0 children
+Aridic Gypsiusterts
+0
+0
+0
+0 children
+Udic Gypsiusterts
+0
+0
+0
+0 children
+Leptic Gypsiusterts
+0
+0
+0
+0 children
+Entic Gypsiusterts
+0
+0
+0
+0 children
+Chromic Gypsiusterts
+0
+0
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Typic Gypsiusterts
+0
+0
+0
+0 children
+Lithic Haplusterts
+0
+0
+0
+0 children
+Halic Haplusterts
+0
+0
+0
+0 children
+Sodic Haplusterts
+0
+0
+0
+0 children
+Petrocalcic Haplusterts
+0
+0
+0
+0 children
+Gypsic Haplusterts
+0
+0
+0
+0 children
+Calcic Haplusterts
+0
+0
+0
+0 children
+Aridic Leptic Haplusterts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Aridic Haplusterts
+0
+0
+0
+0 children
+Leptic Udic Haplusterts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Entic Udic Haplusterts
+0
+0
+both
+
+0
+and
+
+2:2
+1
+2:2
+2
+2 children
+Chromic Udic Haplusterts
+0
+0
+both
+
+0
+2:2
+1
+or
+
+3:3
+2
+or
+
+3:3
+3
+and
+
+3:3
+4
+2:2
+5
+5 children
+Udic Haplusterts
+0
+0
+0
+0 children
+Leptic Haplusterts
+0
+0
+0
+0 children
+Entic Haplusterts
+0
+0
+0
+0 children
+Chromic Haplusterts
+0
+0
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Typic Haplusterts
+0
+0
+0
+0 children
+Lithic Salusterts
+0
+0
+0
+0 children
+Sodic Salusterts
+0
+0
+0
+0 children
+Aquic Salusterts
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aridic Salusterts
+0
+0
+0
+0 children
+Leptic Salusterts
+0
+0
+0
+0 children
+Entic Salusterts
+0
+0
+0
+0 children
+Chromic Salusterts
+0
+0
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Typic Salusterts
+0
+0
+0
+0 children
+Durixererts
+
+0
+0
+0
+0 children
+Calcixererts
+
+0
+0
+0
+0 children
+Haploxererts
+
+0
+0
+0
+0 children
+Lithic Calcixererts
+0
+0
+0
+0 children
+Petrocalcic Calcixererts
+0
+0
+0
+0 children
+Aridic Calcixererts
+0
+0
+0
+0 children
+Leptic Calcixererts
+0
+0
+0
+0 children
+Entic Calcixererts
+0
+0
+0
+0 children
+Chromic Calcixererts
+0
+0
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Typic Calcixererts
+0
+0
+0
+0 children
+Halic Durixererts
+0
+0
+0
+0 children
+Sodic Durixererts
+0
+0
+0
+0 children
+Aquic Durixererts
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Aridic Durixererts
+0
+0
+0
+0 children
+Udic Durixererts
+0
+0
+0
+0 children
+Haplic Durixererts
+0
+0
+0
+0 children
+Chromic Durixererts
+0
+0
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Typic Durixererts
+0
+0
+0
+0 children
+Lithic Haploxererts
+0
+0
+0
+0 children
+Halic Haploxererts
+0
+0
+0
+0 children
+Sodic Haploxererts
+0
+0
+0
+0 children
+Aridic Haploxererts
+0
+0
+0
+0 children
+Aquic Haploxererts
+0
+0
+either
+
+0
+or
+
+2:2
+1
+2:2
+2
+2 children
+Udic Haploxererts
+0
+0
+0
+0 children
+Leptic Haploxererts
+0
+0
+0
+0 children
+Entic Haploxererts
+0
+0
+0
+0 children
+Chromic Haploxererts
+0
+0
+0
+or
+
+2:2
+1
+or
+
+2:2
+2
+2:2
+3
+3 children
+Typic Haploxererts
+0
+0
+0
+0 children

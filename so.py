@@ -1,4 +1,4 @@
-#from sys import argv
+#from` sys import argv
 #script, filename = argv
 import os
 import re
