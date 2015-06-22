@@ -9,15 +9,7 @@ class StatementEncoder(JSONEncoder):
 			for o in obj._child:
 				obj.__dict__['_child'].append(default(o))
 		return obj.__dict__
-
-class StatementDecoder(JSONDecoder):
-	def default(self, obj):
-		if '_raw' in obj:	
-			state=clazz.Statement(obj['_dname'],obj['_key'],obj['_raw'],obj['_child'],obj['_words'])
-			print state.getDescriptiveName()
-			print len(state.getChildren())
-			return state
-
+		return state
 class Statement(object):
 		
 	def __init__(self,dname,key="",raw="",child="",words=""):
@@ -58,5 +50,7 @@ class Statement(object):
 
 	def addChild(self,ch):
 		if(isinstance(ch,Statement)):
+			#print type(ch)
 			self._child.append(ch)
-		
+	def clearChildren(self):
+		self._child=[]
