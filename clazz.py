@@ -1,6 +1,7 @@
 from json import JSONEncoder
 from json import JSONDecoder
 import re
+import clazz
 
 class StatementEncoder(JSONEncoder):
 	def default(self, obj):
@@ -11,18 +12,22 @@ class StatementEncoder(JSONEncoder):
 
 class StatementDecoder(JSONDecoder):
 	def default(self, obj):
-		return obj
+		if '_raw' in obj:	
+			state=clazz.Statement(obj['_dname'],obj['_key'],obj['_raw'],obj['_child'],obj['_words'])
+			print state.getDescriptiveName()
+			print len(state.getChildren())
+			return state
 
 class Statement(object):
 		
-	def __init__(self,dname):
+	def __init__(self,dname,key="",raw="",child="",words=""):
 		self.setDescriptiveName(dname)	
-		self._words=[]
-		self._child=[]
-		self._raw=""
-		self._dname=""
-		self._key=""
-
+		self._words=words
+		self._child=child
+		self._raw=raw
+		self._dname=dname
+		self._key=key
+	
 	def setKey(self, k):
 		self._key=k
 	
