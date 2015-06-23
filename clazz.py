@@ -1,24 +1,27 @@
 from json import JSONEncoder
-from json import JSONDecoder
 import re
 import clazz
-
+import sys
 class StatementEncoder(JSONEncoder):
+
 	def default(self, obj):
-		if hasattr(obj,'_child'):
-			for o in obj._child:
-				obj.__dict__['_child'].append(default(o))
-		return obj.__dict__
-		return state
+		#if hasattr(obj,'_child'):	
+		#	if(obj._child != []):
+		#		for o in obj._child:
+		#			if obj==o: break	
+		#			obj.__dict__['_child'].append(self.default(o))
+		if isinstance(obj, clazz.Statement):
+			return obj.__dict__
+		return obj
+
 class Statement(object):
 		
-	def __init__(self,dname,key="",raw="",child="",words=""):
+	def __init__(self,dname):#,key="",raw="",child=[],words=[]):
 		self.setDescriptiveName(dname)	
-		self._words=words
-		self._child=child
-		self._raw=raw
-		self._dname=dname
-		self._key=key
+		self._words=[]
+		self._child=[]
+		self._raw=""
+		self._key=""
 	
 	def setKey(self, k):
 		self._key=k
@@ -49,6 +52,8 @@ class Statement(object):
 		return self._child
 
 	def addChild(self,ch):
+		if(not hasattr(self,"_child")):
+			self._child=[]
 		if(isinstance(ch,Statement)):
 			#print type(ch)
 			self._child.append(ch)

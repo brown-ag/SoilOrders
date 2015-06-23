@@ -1,6 +1,8 @@
 import json
 import re
 import clazz
+import sys
+sys.setrecursionlimit(10000)
 tex=open("keysout.html","r")
 lines=tex.readlines()
 tex.close()
@@ -54,7 +56,7 @@ for l in liter:
 		ll=l
 		lastline=l
 		while(True):
-			print2(sparent.getChildCount())
+			#print2(sparent.getChildCount())
 			if lnest==0:
 				m2=re.search(">([A-Z]{0,4})\.\s\s",ll)
 				#m23=re.findall("i>(.*?)</i>.*",l)
@@ -95,6 +97,8 @@ for l in liter:
 				if m22 != None:
 					stop=i	
 					keys[dname]=sbase[dname]
+					#print(type(sbase[dname]))
+					#print len(sbase[dname].getChildren()) 
 					jkeys[dname]=clazz.StatementEncoder().encode(sbase[dname])
 					if childcount >= maxc:
 						maxc=childcount
